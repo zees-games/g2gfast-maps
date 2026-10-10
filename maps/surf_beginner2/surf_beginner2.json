@@ -18432,6 +18432,26 @@
     ],
     "once": false,
     "filtered": false
+   },
+   {
+    "min": [
+     4800.0,
+     -12224.0,
+     9920.0
+    ],
+    "max": [
+     5824.0,
+     -12220.0,
+     10944.0
+    ],
+    "push": [
+     0.0,
+     750.0,
+     -0.0
+    ],
+    "once": true,
+    "leave": true,
+    "filtered": false
    }
   ],
   "gravity": [],
@@ -18566,6 +18586,26 @@
     -0.0
    ],
    "once": false,
+   "filtered": false
+  },
+  {
+   "min": [
+    4800.0,
+    -12224.0,
+    9920.0
+   ],
+   "max": [
+    5824.0,
+    -12220.0,
+    10944.0
+   ],
+   "push": [
+    0.0,
+    750.0,
+    -0.0
+   ],
+   "once": true,
+   "leave": true,
    "filtered": false
   }
  ],

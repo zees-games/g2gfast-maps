@@ -16208,14 +16208,56 @@
  ],
  "mechanics": {
   "water": [],
-  "push": [],
+  "push": [
+   {
+    "min": [
+     -9024.0,
+     11712.0,
+     -2696.0
+    ],
+    "max": [
+     -9008.0,
+     13952.0,
+     2688.0
+    ],
+    "push": [
+     1100.0,
+     0.0,
+     -0.0
+    ],
+    "once": true,
+    "leave": true,
+    "filtered": false
+   }
+  ],
   "gravity": [],
   "hurt": [],
   "conveyors": [],
   "ladders": [],
   "blocks": []
  },
- "push_volumes": [],
+ "push_volumes": [
+  {
+   "min": [
+    -9024.0,
+    11712.0,
+    -2696.0
+   ],
+   "max": [
+    -9008.0,
+    13952.0,
+    2688.0
+   ],
+   "push": [
+    1100.0,
+    0.0,
+    -0.0
+   ],
+   "once": true,
+   "leave": true,
+   "filtered": false
+  }
+ ],
  "trigger_volumes": [
   {
    "min": [
