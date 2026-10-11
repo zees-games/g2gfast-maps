@@ -1074,9 +1074,9 @@
    "translucent": false
   },
   {
-   "material": "customs/fr\ufffdchte/jackfrucht",
+   "material": "customs/fr\u00fcchte/jackfrucht",
    "role": "FLOOR",
-   "prototype": true,
+   "prototype": false,
    "vertex_offset": 1878376,
    "vertex_count": 911,
    "index_offset": 1914816,
@@ -1086,13 +1086,13 @@
     0.506,
     0.0658
    ],
-   "texture": null,
+   "texture": "customs_fr_fcchte_jackfrucht.png",
    "translucent": false
   },
   {
-   "material": "customs/fr\ufffdchte/jackfrucht",
+   "material": "customs/fr\u00fcchte/jackfrucht",
    "role": "PLATFORM",
-   "prototype": true,
+   "prototype": false,
    "vertex_offset": 1921272,
    "vertex_count": 267,
    "index_offset": 1931952,
@@ -1102,13 +1102,13 @@
     0.506,
     0.0658
    ],
-   "texture": null,
+   "texture": "customs_fr_fcchte_jackfrucht.png",
    "translucent": false
   },
   {
-   "material": "customs/fr\ufffdchte/jackfrucht",
+   "material": "customs/fr\u00fcchte/jackfrucht",
    "role": "RAMP",
-   "prototype": true,
+   "prototype": false,
    "vertex_offset": 1933776,
    "vertex_count": 980,
    "index_offset": 1972976,
@@ -1118,7 +1118,7 @@
     0.506,
     0.0658
    ],
-   "texture": null,
+   "texture": "customs_fr_fcchte_jackfrucht.png",
    "translucent": false
   },
   {

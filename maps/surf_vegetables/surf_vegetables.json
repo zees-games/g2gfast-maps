@@ -866,9 +866,9 @@
    "translucent": true
   },
   {
-   "material": "customs/fr\ufffdchte/radieschen_rot",
+   "material": "customs/fr\u00fcchte/radieschen_rot",
    "role": "FLOOR",
-   "prototype": true,
+   "prototype": false,
    "vertex_offset": 1104844,
    "vertex_count": 242,
    "index_offset": 1114524,
@@ -878,13 +878,13 @@
     0.0203,
     0.0203
    ],
-   "texture": null,
+   "texture": "customs_fr_fcchte_radieschen_rot.png",
    "translucent": false
   },
   {
-   "material": "customs/fr\ufffdchte/radieschen_rot",
+   "material": "customs/fr\u00fcchte/radieschen_rot",
    "role": "PLATFORM",
-   "prototype": true,
+   "prototype": false,
    "vertex_offset": 1116336,
    "vertex_count": 368,
    "index_offset": 1131056,
@@ -894,13 +894,13 @@
     0.0203,
     0.0203
    ],
-   "texture": null,
+   "texture": "customs_fr_fcchte_radieschen_rot.png",
    "translucent": false
   },
   {
-   "material": "customs/fr\ufffdchte/radieschen_rot",
+   "material": "customs/fr\u00fcchte/radieschen_rot",
    "role": "RAMP",
-   "prototype": true,
+   "prototype": false,
    "vertex_offset": 1133744,
    "vertex_count": 1075,
    "index_offset": 1176744,
@@ -910,13 +910,13 @@
     0.0203,
     0.0203
    ],
-   "texture": null,
+   "texture": "customs_fr_fcchte_radieschen_rot.png",
    "translucent": false
   },
   {
-   "material": "customs/fr\ufffdchte/radieschen_weiss",
+   "material": "customs/fr\u00fcchte/radieschen_weiss",
    "role": "FLOOR",
-   "prototype": true,
+   "prototype": false,
    "vertex_offset": 1186200,
    "vertex_count": 116,
    "index_offset": 1190840,
@@ -926,13 +926,13 @@
     0.9557,
     0.9557
    ],
-   "texture": null,
+   "texture": "customs_fr_fcchte_radieschen_weiss.png",
    "translucent": false
   },
   {
-   "material": "customs/fr\ufffdchte/radieschen_weiss",
+   "material": "customs/fr\u00fcchte/radieschen_weiss",
    "role": "PLATFORM",
-   "prototype": true,
+   "prototype": false,
    "vertex_offset": 1191560,
    "vertex_count": 78,
    "index_offset": 1194680,
@@ -942,13 +942,13 @@
     0.9557,
     0.9557
    ],
-   "texture": null,
+   "texture": "customs_fr_fcchte_radieschen_weiss.png",
    "translucent": false
   },
   {
-   "material": "customs/fr\ufffdchte/radieschen_weiss",
+   "material": "customs/fr\u00fcchte/radieschen_weiss",
    "role": "RAMP",
-   "prototype": true,
+   "prototype": false,
    "vertex_offset": 1195208,
    "vertex_count": 413,
    "index_offset": 1211728,
@@ -958,13 +958,13 @@
     0.9557,
     0.9557
    ],
-   "texture": null,
+   "texture": "customs_fr_fcchte_radieschen_weiss.png",
    "translucent": false
   },
   {
-   "material": "customs/fr\ufffdchte/radieschenboden",
+   "material": "customs/fr\u00fcchte/radieschenboden",
    "role": "FLOOR",
-   "prototype": true,
+   "prototype": false,
    "vertex_offset": 1215580,
    "vertex_count": 8,
    "index_offset": 1215900,
@@ -974,13 +974,13 @@
     0.3351,
     0.2504
    ],
-   "texture": null,
+   "texture": "customs_fr_fcchte_radieschenboden.png",
    "translucent": false
   },
   {
-   "material": "customs/fr\ufffdchte/radieschenboden",
+   "material": "customs/fr\u00fcchte/radieschenboden",
    "role": "PLATFORM",
-   "prototype": true,
+   "prototype": false,
    "vertex_offset": 1215948,
    "vertex_count": 4971,
    "index_offset": 1414788,
@@ -990,7 +990,7 @@
     0.3351,
     0.2504
    ],
-   "texture": null,
+   "texture": "customs_fr_fcchte_radieschenboden.png",
    "translucent": false
   },
   {
