@@ -1,4 +1,4 @@
-The bunny-hop and surf maps [game-g2gfast](https://github.com/gamemann/game-g2gfast) plays, as a repository of their own: the imported maps in `maps/`, the list of them with their authors in `maps.json`, and `tools/g2gmaps` to publish them to the content origin and to mirror them back down.
+The bunny-hop and surf maps [game-g2gfast](https://github.com/zees-games/game-g2gfast) plays, as a repository of their own: the imported maps in `maps/`, the list of them with their authors in `maps.json`, and `tools/g2gmaps` to publish them to the content origin and to mirror them back down.
 
 Every map here is somebody else's work, made for the genre years ago and imported so it can be played again. Each one is credited below and on screen whenever a server changes to it. If you made one of these maps and want it credited differently or taken down, open an issue and it will be done.
 
