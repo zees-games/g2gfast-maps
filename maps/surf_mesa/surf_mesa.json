@@ -111,7 +111,7 @@
   {
    "material": "concrete/concretewall011c",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1174984,
    "vertex_count": 2358,
    "index_offset": 1269304,
@@ -121,13 +121,13 @@
     0.4973,
     0.4459
    ],
-   "texture": "concrete_concretewall011c.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "concrete/concretewall011c",
    "role": "PLATFORM",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1288528,
    "vertex_count": 66,
    "index_offset": 1291168,
@@ -137,13 +137,13 @@
     0.4973,
     0.4459
    ],
-   "texture": "concrete_concretewall011c.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "concrete/concretewall011c",
    "role": "RAMP",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1291528,
    "vertex_count": 111,
    "index_offset": 1295968,
@@ -153,13 +153,13 @@
     0.4973,
     0.4459
    ],
-   "texture": "concrete_concretewall011c.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "concrete/concretewall011h",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1296676,
    "vertex_count": 132,
    "index_offset": 1301956,
@@ -169,7 +169,7 @@
     0.5208,
     0.4497
    ],
-   "texture": "concrete_concretewall011h.png",
+   "texture": null,
    "translucent": false
   },
   {

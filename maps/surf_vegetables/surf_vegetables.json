@@ -2516,7 +2516,7 @@
   {
    "material": "de_aztec/stonework05",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 2701040,
    "vertex_count": 172,
    "index_offset": 2707920,
@@ -2526,13 +2526,13 @@
     0.5701,
     0.4898
    ],
-   "texture": "de_aztec_stonework05.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "de_aztec/stonework05",
    "role": "PLATFORM",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 2709264,
    "vertex_count": 342,
    "index_offset": 2722944,
@@ -2542,13 +2542,13 @@
     0.5701,
     0.4898
    ],
-   "texture": "de_aztec_stonework05.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "de_aztec/stonework05",
    "role": "RAMP",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 2725440,
    "vertex_count": 16,
    "index_offset": 2726080,
@@ -2558,7 +2558,7 @@
     0.5701,
     0.4898
    ],
-   "texture": "de_aztec_stonework05.png",
+   "texture": null,
    "translucent": false
   },
   {

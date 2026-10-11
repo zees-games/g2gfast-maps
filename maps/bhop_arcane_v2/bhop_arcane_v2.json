@@ -49,15 +49,7 @@
    "enabled": true
   },
   "sky_name": "hav",
-  "baked_light_count": 412,
-  "sky_faces": {
-   "rt": "sky_rt.png",
-   "bk": "sky_bk.png",
-   "lf": "sky_lf.png",
-   "ft": "sky_ft.png",
-   "up": "sky_up.png",
-   "dn": "sky_dn.png"
-  }
+  "baked_light_count": 412
  },
  "surfaces": [
   {
@@ -95,7 +87,7 @@
   {
    "material": "concrete/concretefloor038c",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 19872,
    "vertex_count": 28,
    "index_offset": 20992,
@@ -105,13 +97,13 @@
     0.3433,
     0.314
    ],
-   "texture": "concrete_concretefloor038b.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "concrete/concretefloor038c",
    "role": "PLATFORM",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 21160,
    "vertex_count": 1115,
    "index_offset": 65760,
@@ -121,13 +113,13 @@
     0.3433,
     0.314
    ],
-   "texture": "concrete_concretefloor038b.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "concrete/concretefloor038c",
    "role": "RAMP",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 73668,
    "vertex_count": 10,
    "index_offset": 74068,
@@ -137,7 +129,7 @@
     0.3433,
     0.314
    ],
-   "texture": "concrete_concretefloor038b.png",
+   "texture": null,
    "translucent": false
   },
   {
@@ -175,7 +167,7 @@
   {
    "material": "concrete/concwsnow01",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 100096,
    "vertex_count": 113,
    "index_offset": 104616,
@@ -185,13 +177,13 @@
     0.6999,
     0.6841
    ],
-   "texture": "concrete_concwsnow01.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "concrete/concwsnow01",
    "role": "PLATFORM",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 105300,
    "vertex_count": 8,
    "index_offset": 105620,
@@ -201,13 +193,13 @@
     0.6999,
     0.6841
    ],
-   "texture": "concrete_concwsnow01.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "concrete/milgrate001",
    "role": "PLATFORM",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 105668,
    "vertex_count": 772,
    "index_offset": 136548,
@@ -217,13 +209,13 @@
     0.505,
     0.5103
    ],
-   "texture": "concrete_milgrate001.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "concrete/offflrasnow",
    "role": "PLATFORM",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 141180,
    "vertex_count": 787,
    "index_offset": 172660,
@@ -233,13 +225,13 @@
     0.6406,
     0.6442
    ],
-   "texture": "concrete_offflrasnow.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "cs_havana/ground01grass",
    "role": "PLATFORM",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 178336,
    "vertex_count": 190,
    "index_offset": 185936,
@@ -249,7 +241,7 @@
     0.3041,
     0.1283
    ],
-   "texture": "de_aztec_ground01grass.png",
+   "texture": null,
    "translucent": false
   },
   {
@@ -303,7 +295,7 @@
   {
    "material": "cs_italy/picrate1",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 234288,
    "vertex_count": 1525,
    "index_offset": 295288,
@@ -313,13 +305,13 @@
     0.3469,
     0.319
    ],
-   "texture": "cs_italy_picrate1.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "cs_italy/picrate1",
    "role": "PLATFORM",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 304444,
    "vertex_count": 380,
    "index_offset": 319644,
@@ -329,13 +321,13 @@
     0.3469,
     0.319
    ],
-   "texture": "cs_italy_picrate1.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "cs_italy/stonewall02",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 321924,
    "vertex_count": 7131,
    "index_offset": 607164,
@@ -345,13 +337,13 @@
     0.2903,
     0.2591
    ],
-   "texture": "cs_italy_stonewall02.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "cs_italy/stonewall02",
    "role": "PLATFORM",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 652824,
    "vertex_count": 188,
    "index_offset": 660344,
@@ -361,13 +353,13 @@
     0.2903,
     0.2591
    ],
-   "texture": "cs_italy_stonewall02.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "cs_italy/white",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 661712,
    "vertex_count": 2028,
    "index_offset": 742832,
@@ -377,13 +369,13 @@
     1.0,
     1.0
    ],
-   "texture": "cs_italy_white.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "de_aztec/azstatc",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 755936,
    "vertex_count": 1010,
    "index_offset": 796336,
@@ -393,13 +385,13 @@
     0.4181,
     0.3614
    ],
-   "texture": "de_aztec_azstatc.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "de_aztec/azstatc",
    "role": "PLATFORM",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 802408,
    "vertex_count": 252,
    "index_offset": 812488,
@@ -409,13 +401,13 @@
     0.4181,
     0.3614
    ],
-   "texture": "de_aztec_azstatc.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "de_aztec/road01",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 814000,
    "vertex_count": 513,
    "index_offset": 834520,
@@ -425,13 +417,13 @@
     0.2843,
     0.1983
    ],
-   "texture": "de_aztec_road01.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "de_aztec/road01",
    "role": "PLATFORM",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 837940,
    "vertex_count": 367,
    "index_offset": 852620,
@@ -441,13 +433,13 @@
     0.2843,
     0.1983
    ],
-   "texture": "de_aztec_road01.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "de_aztec/stairsfake01_s2a",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 855248,
    "vertex_count": 24,
    "index_offset": 856208,
@@ -457,13 +449,13 @@
     0.4162,
     0.3079
    ],
-   "texture": "de_aztec_stairsfake01_s2.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "de_aztec/stairsfake01_s2a",
    "role": "PLATFORM",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 856304,
    "vertex_count": 20,
    "index_offset": 857104,
@@ -473,13 +465,13 @@
     0.4162,
     0.3079
    ],
-   "texture": "de_aztec_stairsfake01_s2.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "de_aztec/stn01grm02_s1a",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 857224,
    "vertex_count": 320,
    "index_offset": 870024,
@@ -489,13 +481,13 @@
     0.5564,
     0.4654
    ],
-   "texture": "de_aztec_stn01grm02_s1.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "de_aztec/stn01grm02_s1a",
    "role": "PLATFORM",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 872232,
    "vertex_count": 32,
    "index_offset": 873512,
@@ -505,13 +497,13 @@
     0.5564,
     0.4654
    ],
-   "texture": "de_aztec_stn01grm02_s1.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "de_aztec/stonework01c",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 873704,
    "vertex_count": 32,
    "index_offset": 874984,
@@ -521,13 +513,13 @@
     0.4478,
     0.3142
    ],
-   "texture": "de_aztec_stonework01c.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "de_aztec/stonework01c",
    "role": "PLATFORM",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 875176,
    "vertex_count": 16,
    "index_offset": 875816,
@@ -537,7 +529,7 @@
     0.4478,
     0.3142
    ],
-   "texture": "de_aztec_stonework01c.png",
+   "texture": null,
    "translucent": false
   },
   {
@@ -623,7 +615,7 @@
   {
    "material": "de_aztec/stonework05",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 951640,
    "vertex_count": 427,
    "index_offset": 968720,
@@ -633,13 +625,13 @@
     0.5701,
     0.4898
    ],
-   "texture": "de_aztec_stonework05.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "de_aztec/stonework05",
    "role": "PLATFORM",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 971540,
    "vertex_count": 54,
    "index_offset": 973700,
@@ -649,13 +641,13 @@
     0.5701,
     0.4898
    ],
-   "texture": "de_aztec_stonework05.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "de_aztec/trim128",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 974084,
    "vertex_count": 742,
    "index_offset": 1003764,
@@ -665,13 +657,13 @@
     0.4337,
     0.3075
    ],
-   "texture": "de_aztec_trim128.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "de_aztec/trim128",
    "role": "PLATFORM",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1008828,
    "vertex_count": 32,
    "index_offset": 1010108,
@@ -681,13 +673,13 @@
     0.4337,
     0.3075
    ],
-   "texture": "de_aztec_trim128.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "de_aztec/trim64",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1010396,
    "vertex_count": 512,
    "index_offset": 1030876,
@@ -697,13 +689,13 @@
     0.4194,
     0.3221
    ],
-   "texture": "de_aztec_trim64.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "de_aztec/trim64",
    "role": "PLATFORM",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1034236,
    "vertex_count": 64,
    "index_offset": 1036796,
@@ -713,13 +705,13 @@
     0.4194,
     0.3221
    ],
-   "texture": "de_aztec_trim64.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "de_aztec/wood_plank_7",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1037180,
    "vertex_count": 66,
    "index_offset": 1039820,
@@ -729,13 +721,13 @@
     0.3184,
     0.2115
    ],
-   "texture": "de_aztec_wood_plank_7.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "de_aztec/wood_plank_7",
    "role": "PLATFORM",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1040276,
    "vertex_count": 14,
    "index_offset": 1040836,
@@ -745,13 +737,13 @@
     0.3184,
     0.2115
    ],
-   "texture": "de_aztec_wood_plank_7.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "de_cbble/grounddirt",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1040932,
    "vertex_count": 508,
    "index_offset": 1061252,
@@ -761,13 +753,13 @@
     0.1851,
     0.1491
    ],
-   "texture": "de_cbble_grounddirt.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "de_cbble/grounddirt",
    "role": "PLATFORM",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1064324,
    "vertex_count": 166,
    "index_offset": 1070964,
@@ -777,13 +769,13 @@
     0.1851,
     0.1491
    ],
-   "texture": "de_cbble_grounddirt.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "de_chateau/logb",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1072284,
    "vertex_count": 92,
    "index_offset": 1075964,
@@ -793,13 +785,13 @@
     0.3848,
     0.3273
    ],
-   "texture": "de_chateau_logb.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "de_chateau/logb",
    "role": "PLATFORM",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1076900,
    "vertex_count": 199,
    "index_offset": 1084860,
@@ -809,13 +801,13 @@
     0.3848,
     0.3273
    ],
-   "texture": "de_chateau_logb.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "de_chateau/rockf",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1086888,
    "vertex_count": 150,
    "index_offset": 1092888,
@@ -825,13 +817,13 @@
     0.2738,
     0.2232
    ],
-   "texture": "de_chateau_rockf.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "de_chateau/rockf",
    "role": "PLATFORM",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1095192,
    "vertex_count": 100,
    "index_offset": 1099192,
@@ -841,7 +833,7 @@
     0.2738,
     0.2232
    ],
-   "texture": "de_chateau_rockf.png",
+   "texture": null,
    "translucent": false
   },
   {
@@ -863,7 +855,7 @@
   {
    "material": "de_piranesi/pi_wood1",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1100912,
    "vertex_count": 1418,
    "index_offset": 1157632,
@@ -873,13 +865,13 @@
     0.2292,
     0.1705
    ],
-   "texture": "de_piranesi_pi_wood1.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "de_piranesi/pi_wood1",
    "role": "PLATFORM",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1166632,
    "vertex_count": 29,
    "index_offset": 1167792,
@@ -889,13 +881,13 @@
     0.2292,
     0.1705
    ],
-   "texture": "de_piranesi_pi_wood1.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "de_train/train_metalceiling_01",
    "role": "PLATFORM",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1168020,
    "vertex_count": 16,
    "index_offset": 1168660,
@@ -905,7 +897,7 @@
     0.149,
     0.1582
    ],
-   "texture": "de_train_train_metalceiling_01.png",
+   "texture": null,
    "translucent": false
   },
   {
@@ -1391,7 +1383,7 @@
   {
    "material": "metal/prodventa",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1252660,
    "vertex_count": 36,
    "index_offset": 1254100,
@@ -1401,13 +1393,13 @@
     0.5151,
     0.5304
    ],
-   "texture": "metal_prodventa.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "metal/prodventa",
    "role": "PLATFORM",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1254316,
    "vertex_count": 4,
    "index_offset": 1254476,
@@ -1417,7 +1409,7 @@
     0.5151,
     0.5304
    ],
-   "texture": "metal_prodventa.png",
+   "texture": null,
    "translucent": false
   },
   {
@@ -1439,184 +1431,170 @@
   {
    "material": "nature/blendmilground008_2",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1254868,
    "vertex_count": 2425,
    "index_offset": 1351868,
    "index_count": 9312,
-   "alpha_offset": 1389116,
    "colour": [
     0.4207,
     0.3581,
     0.2913
    ],
-   "texture": "nature_milground008.png",
-   "texture2": "nature_milground002.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "nature/blendmilground008_2",
    "role": "PLATFORM",
-   "prototype": false,
-   "vertex_offset": 1398816,
+   "prototype": true,
+   "vertex_offset": 1389116,
    "vertex_count": 375,
-   "index_offset": 1413816,
+   "index_offset": 1404116,
    "index_count": 1440,
-   "alpha_offset": 1419576,
    "colour": [
     0.4207,
     0.3581,
     0.2913
    ],
-   "texture": "nature_milground008.png",
-   "texture2": "nature_milground002.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "nature/blendmilground008_2_plants",
    "role": "FLOOR",
-   "prototype": false,
-   "vertex_offset": 1421076,
+   "prototype": true,
+   "vertex_offset": 1409876,
    "vertex_count": 1400,
-   "index_offset": 1477076,
+   "index_offset": 1465876,
    "index_count": 5376,
-   "alpha_offset": 1498580,
    "colour": [
     0.4207,
     0.3581,
     0.2913
    ],
-   "texture": "nature_milground008.png",
-   "texture2": "nature_milground002.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "nature/blendmilground008_2_plants",
    "role": "PLATFORM",
-   "prototype": false,
-   "vertex_offset": 1504180,
+   "prototype": true,
+   "vertex_offset": 1487380,
    "vertex_count": 350,
-   "index_offset": 1518180,
+   "index_offset": 1501380,
    "index_count": 1344,
-   "alpha_offset": 1523556,
    "colour": [
     0.4207,
     0.3581,
     0.2913
    ],
-   "texture": "nature_milground008.png",
-   "texture2": "nature_milground002.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "nature/blendmilground008_2_plants",
    "role": "RAMP",
-   "prototype": false,
-   "vertex_offset": 1524956,
+   "prototype": true,
+   "vertex_offset": 1506756,
    "vertex_count": 50,
-   "index_offset": 1526956,
+   "index_offset": 1508756,
    "index_count": 192,
-   "alpha_offset": 1527724,
    "colour": [
     0.4207,
     0.3581,
     0.2913
    ],
-   "texture": "nature_milground008.png",
-   "texture2": "nature_milground002.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "nature/blendmilground008b_2",
    "role": "FLOOR",
-   "prototype": false,
-   "vertex_offset": 1527924,
+   "prototype": true,
+   "vertex_offset": 1509524,
    "vertex_count": 725,
-   "index_offset": 1556924,
+   "index_offset": 1538524,
    "index_count": 2784,
    "colour": [
     0.2132,
     0.1999,
     0.1869
    ],
-   "texture": "nature_milground008b.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "nature/blendmilground008b_2",
    "role": "PLATFORM",
-   "prototype": false,
-   "vertex_offset": 1568060,
+   "prototype": true,
+   "vertex_offset": 1549660,
    "vertex_count": 175,
-   "index_offset": 1575060,
+   "index_offset": 1556660,
    "index_count": 672,
    "colour": [
     0.2132,
     0.1999,
     0.1869
    ],
-   "texture": "nature_milground008b.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "nature/blendmilground008b_2",
    "role": "RAMP",
-   "prototype": false,
-   "vertex_offset": 1577748,
+   "prototype": true,
+   "vertex_offset": 1559348,
    "vertex_count": 100,
-   "index_offset": 1581748,
+   "index_offset": 1563348,
    "index_count": 384,
    "colour": [
     0.2132,
     0.1999,
     0.1869
    ],
-   "texture": "nature_milground008b.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "nature/blendrockgrass",
    "role": "FLOOR",
-   "prototype": false,
-   "vertex_offset": 1583284,
+   "prototype": true,
+   "vertex_offset": 1564884,
    "vertex_count": 75,
-   "index_offset": 1586284,
+   "index_offset": 1567884,
    "index_count": 288,
-   "alpha_offset": 1587436,
    "colour": [
     0.3052,
     0.2738,
     0.2232
    ],
-   "texture": "de_chateau_rockf.png",
-   "texture2": "nature_milground002.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "nature/blendrockgrass",
    "role": "PLATFORM",
-   "prototype": false,
-   "vertex_offset": 1587736,
+   "prototype": true,
+   "vertex_offset": 1569036,
    "vertex_count": 25,
-   "index_offset": 1588736,
+   "index_offset": 1570036,
    "index_count": 96,
-   "alpha_offset": 1589120,
    "colour": [
     0.3052,
     0.2738,
     0.2232
    ],
-   "texture": "de_chateau_rockf.png",
-   "texture2": "nature_milground002.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "nature/cliffface001a",
    "role": "FLOOR",
    "prototype": false,
-   "vertex_offset": 1589220,
+   "vertex_offset": 1570420,
    "vertex_count": 240,
-   "index_offset": 1598820,
+   "index_offset": 1580020,
    "index_count": 462,
    "colour": [
     0.4121,
@@ -1630,9 +1608,9 @@
    "material": "nature/ice",
    "role": "PLATFORM",
    "prototype": true,
-   "vertex_offset": 1600668,
+   "vertex_offset": 1581868,
    "vertex_count": 346,
-   "index_offset": 1614508,
+   "index_offset": 1595708,
    "index_count": 1095,
    "colour": [
     0.4845,
@@ -1645,42 +1623,42 @@
   {
    "material": "nature/milground002",
    "role": "FLOOR",
-   "prototype": false,
-   "vertex_offset": 1618888,
+   "prototype": true,
+   "vertex_offset": 1600088,
    "vertex_count": 1286,
-   "index_offset": 1670328,
+   "index_offset": 1651528,
    "index_count": 4854,
    "colour": [
     0.3377,
     0.3784,
     0.2751
    ],
-   "texture": "nature_milground002.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "nature/milground002",
    "role": "PLATFORM",
-   "prototype": false,
-   "vertex_offset": 1689744,
+   "prototype": true,
+   "vertex_offset": 1670944,
    "vertex_count": 286,
-   "index_offset": 1701184,
+   "index_offset": 1682384,
    "index_count": 1014,
    "colour": [
     0.3377,
     0.3784,
     0.2751
    ],
-   "texture": "nature_milground002.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "nature/sewer_water001",
    "role": "PLATFORM",
    "prototype": true,
-   "vertex_offset": 1705240,
+   "vertex_offset": 1686440,
    "vertex_count": 72,
-   "index_offset": 1708120,
+   "index_offset": 1689320,
    "index_count": 174,
    "colour": [
     0.4845,
@@ -1694,9 +1672,9 @@
    "material": "nature/sewer_water001_bottom",
    "role": "FLOOR",
    "prototype": true,
-   "vertex_offset": 1708816,
+   "vertex_offset": 1690016,
    "vertex_count": 72,
-   "index_offset": 1711696,
+   "index_offset": 1692896,
    "index_count": 174,
    "colour": [
     0.4845,
@@ -1710,9 +1688,9 @@
    "material": "nature/snowfloor001a",
    "role": "FLOOR",
    "prototype": false,
-   "vertex_offset": 1712392,
+   "vertex_offset": 1693592,
    "vertex_count": 1568,
-   "index_offset": 1775112,
+   "index_offset": 1756312,
    "index_count": 5925,
    "colour": [
     0.8125,
@@ -1726,9 +1704,9 @@
    "material": "nature/snowfloor001a",
    "role": "PLATFORM",
    "prototype": false,
-   "vertex_offset": 1798812,
+   "vertex_offset": 1780012,
    "vertex_count": 1516,
-   "index_offset": 1859452,
+   "index_offset": 1840652,
    "index_count": 2274,
    "colour": [
     0.8125,
@@ -1742,9 +1720,9 @@
    "material": "nature/snowfloor002a",
    "role": "FLOOR",
    "prototype": false,
-   "vertex_offset": 1868548,
+   "vertex_offset": 1849748,
    "vertex_count": 32,
-   "index_offset": 1869828,
+   "index_offset": 1851028,
    "index_count": 54,
    "colour": [
     0.9416,
@@ -1758,9 +1736,9 @@
    "material": "nature/snowfloor002a",
    "role": "PLATFORM",
    "prototype": false,
-   "vertex_offset": 1870044,
+   "vertex_offset": 1851244,
    "vertex_count": 306,
-   "index_offset": 1882284,
+   "index_offset": 1863484,
    "index_count": 645,
    "colour": [
     0.9416,
@@ -1774,9 +1752,9 @@
    "material": "nature/snowfloor002a",
    "role": "RAMP",
    "prototype": false,
-   "vertex_offset": 1884864,
+   "vertex_offset": 1866064,
    "vertex_count": 20,
-   "index_offset": 1885664,
+   "index_offset": 1866864,
    "index_count": 36,
    "colour": [
     0.9416,
@@ -1790,9 +1768,9 @@
    "material": "nature/snowwall002a",
    "role": "FLOOR",
    "prototype": false,
-   "vertex_offset": 1885808,
+   "vertex_offset": 1867008,
    "vertex_count": 8505,
-   "index_offset": 2226008,
+   "index_offset": 2207208,
    "index_count": 24255,
    "colour": [
     0.6992,
@@ -1806,9 +1784,9 @@
    "material": "nature/snowwall002a",
    "role": "PLATFORM",
    "prototype": false,
-   "vertex_offset": 2323028,
+   "vertex_offset": 2304228,
    "vertex_count": 191,
-   "index_offset": 2330668,
+   "index_offset": 2311868,
    "index_count": 708,
    "colour": [
     0.6992,
@@ -1822,9 +1800,9 @@
    "material": "nature/snowwall002a",
    "role": "RAMP",
    "prototype": false,
-   "vertex_offset": 2333500,
+   "vertex_offset": 2314700,
    "vertex_count": 96,
-   "index_offset": 2337340,
+   "index_offset": 2318540,
    "index_count": 96,
    "colour": [
     0.6992,
@@ -1838,9 +1816,9 @@
    "material": "nature/snowwall003a",
    "role": "FLOOR",
    "prototype": false,
-   "vertex_offset": 2337724,
+   "vertex_offset": 2318924,
    "vertex_count": 5427,
-   "index_offset": 2554804,
+   "index_offset": 2536004,
    "index_count": 8145,
    "colour": [
     0.7066,
@@ -1854,9 +1832,9 @@
    "material": "nature/water_canals_water_clear",
    "role": "PLATFORM",
    "prototype": true,
-   "vertex_offset": 2587384,
+   "vertex_offset": 2568584,
    "vertex_count": 295,
-   "index_offset": 2599184,
+   "index_offset": 2580384,
    "index_count": 906,
    "colour": [
     0.4845,
@@ -1870,9 +1848,9 @@
    "material": "nature/water_canals_waterbeneath_clear",
    "role": "FLOOR",
    "prototype": true,
-   "vertex_offset": 2602808,
+   "vertex_offset": 2584008,
    "vertex_count": 295,
-   "index_offset": 2614608,
+   "index_offset": 2595808,
    "index_count": 906,
    "colour": [
     0.4845,
@@ -1886,9 +1864,9 @@
    "material": "nature/water_coast01_beneath",
    "role": "FLOOR",
    "prototype": true,
-   "vertex_offset": 2618232,
+   "vertex_offset": 2599432,
    "vertex_count": 6,
-   "index_offset": 2618472,
+   "index_offset": 2599672,
    "index_count": 12,
    "colour": [
     0.4845,
@@ -1902,9 +1880,9 @@
    "material": "nature/water_coast03",
    "role": "PLATFORM",
    "prototype": true,
-   "vertex_offset": 2618520,
+   "vertex_offset": 2599720,
    "vertex_count": 6,
-   "index_offset": 2618760,
+   "index_offset": 2599960,
    "index_count": 12,
    "colour": [
     0.4845,
@@ -1918,9 +1896,9 @@
    "material": "neon/blacktored",
    "role": "FLOOR",
    "prototype": true,
-   "vertex_offset": 2618808,
+   "vertex_offset": 2600008,
    "vertex_count": 100,
-   "index_offset": 2622808,
+   "index_offset": 2604008,
    "index_count": 384,
    "colour": [
     0.0,
@@ -1934,9 +1912,9 @@
    "material": "neon/bluebrick",
    "role": "FLOOR",
    "prototype": false,
-   "vertex_offset": 2624344,
+   "vertex_offset": 2605544,
    "vertex_count": 413,
-   "index_offset": 2640864,
+   "index_offset": 2622064,
    "index_count": 771,
    "colour": [
     0.0,
@@ -1950,9 +1928,9 @@
    "material": "neon/bluebrick",
    "role": "PLATFORM",
    "prototype": false,
-   "vertex_offset": 2643948,
+   "vertex_offset": 2625148,
    "vertex_count": 6,
-   "index_offset": 2644188,
+   "index_offset": 2625388,
    "index_count": 12,
    "colour": [
     0.0,
@@ -1966,9 +1944,9 @@
    "material": "neon/bluegrid",
    "role": "FLOOR",
    "prototype": false,
-   "vertex_offset": 2644236,
+   "vertex_offset": 2625436,
    "vertex_count": 2401,
-   "index_offset": 2740276,
+   "index_offset": 2721476,
    "index_count": 4536,
    "colour": [
     0.0,
@@ -1982,9 +1960,9 @@
    "material": "neon/bluegrid",
    "role": "PLATFORM",
    "prototype": false,
-   "vertex_offset": 2758420,
+   "vertex_offset": 2739620,
    "vertex_count": 261,
-   "index_offset": 2768860,
+   "index_offset": 2750060,
    "index_count": 486,
    "colour": [
     0.0,
@@ -1998,11 +1976,11 @@
    "material": "neon/bluetored",
    "role": "FLOOR",
    "prototype": false,
-   "vertex_offset": 2770804,
+   "vertex_offset": 2752004,
    "vertex_count": 150,
-   "index_offset": 2776804,
+   "index_offset": 2758004,
    "index_count": 576,
-   "alpha_offset": 2779108,
+   "alpha_offset": 2760308,
    "colour": [
     0.0,
     0.0977,
@@ -2016,11 +1994,11 @@
    "material": "neon/bluetored",
    "role": "PLATFORM",
    "prototype": false,
-   "vertex_offset": 2779708,
+   "vertex_offset": 2760908,
    "vertex_count": 50,
-   "index_offset": 2781708,
+   "index_offset": 2762908,
    "index_count": 192,
-   "alpha_offset": 2782476,
+   "alpha_offset": 2763676,
    "colour": [
     0.0,
     0.0977,
@@ -2034,9 +2012,9 @@
    "material": "neon/bluetored_wvt_patch",
    "role": "FLOOR",
    "prototype": true,
-   "vertex_offset": 2782676,
+   "vertex_offset": 2763876,
    "vertex_count": 32,
-   "index_offset": 2783956,
+   "index_offset": 2765156,
    "index_count": 48,
    "colour": [
     0.0,
@@ -2050,9 +2028,9 @@
    "material": "neon/greenbrick",
    "role": "FLOOR",
    "prototype": false,
-   "vertex_offset": 2784148,
+   "vertex_offset": 2765348,
    "vertex_count": 181,
-   "index_offset": 2791388,
+   "index_offset": 2772588,
    "index_count": 285,
    "colour": [
     0.0,
@@ -2066,9 +2044,9 @@
    "material": "neon/greenbrick",
    "role": "PLATFORM",
    "prototype": false,
-   "vertex_offset": 2792528,
+   "vertex_offset": 2773728,
    "vertex_count": 14,
-   "index_offset": 2793088,
+   "index_offset": 2774288,
    "index_count": 24,
    "colour": [
     0.0,
@@ -2082,9 +2060,9 @@
    "material": "neon/greengrid",
    "role": "FLOOR",
    "prototype": false,
-   "vertex_offset": 2793184,
+   "vertex_offset": 2774384,
    "vertex_count": 2253,
-   "index_offset": 2883304,
+   "index_offset": 2864504,
    "index_count": 3783,
    "colour": [
     0.0,
@@ -2098,9 +2076,9 @@
    "material": "neon/greengrid",
    "role": "PLATFORM",
    "prototype": false,
-   "vertex_offset": 2898436,
+   "vertex_offset": 2879636,
    "vertex_count": 273,
-   "index_offset": 2909356,
+   "index_offset": 2890556,
    "index_count": 441,
    "colour": [
     0.0,
@@ -2114,11 +2092,11 @@
    "material": "neon/greentoblue",
    "role": "FLOOR",
    "prototype": false,
-   "vertex_offset": 2911120,
+   "vertex_offset": 2892320,
    "vertex_count": 250,
-   "index_offset": 2921120,
+   "index_offset": 2902320,
    "index_count": 960,
-   "alpha_offset": 2924960,
+   "alpha_offset": 2906160,
    "colour": [
     0.0,
     0.299,
@@ -2132,11 +2110,11 @@
    "material": "neon/greentoblue",
    "role": "PLATFORM",
    "prototype": false,
-   "vertex_offset": 2925960,
+   "vertex_offset": 2907160,
    "vertex_count": 50,
-   "index_offset": 2927960,
+   "index_offset": 2909160,
    "index_count": 192,
-   "alpha_offset": 2928728,
+   "alpha_offset": 2909928,
    "colour": [
     0.0,
     0.299,
@@ -2150,9 +2128,9 @@
    "material": "neon/purplebrick",
    "role": "FLOOR",
    "prototype": false,
-   "vertex_offset": 2928928,
+   "vertex_offset": 2910128,
    "vertex_count": 172,
-   "index_offset": 2935808,
+   "index_offset": 2917008,
    "index_count": 276,
    "colour": [
     0.353,
@@ -2166,9 +2144,9 @@
    "material": "neon/purplebrick",
    "role": "PLATFORM",
    "prototype": false,
-   "vertex_offset": 2936912,
+   "vertex_offset": 2918112,
    "vertex_count": 14,
-   "index_offset": 2937472,
+   "index_offset": 2918672,
    "index_count": 24,
    "colour": [
     0.353,
@@ -2182,9 +2160,9 @@
    "material": "neon/purplegrid",
    "role": "FLOOR",
    "prototype": false,
-   "vertex_offset": 2937568,
+   "vertex_offset": 2918768,
    "vertex_count": 2768,
-   "index_offset": 3048288,
+   "index_offset": 3029488,
    "index_count": 4434,
    "colour": [
     0.2822,
@@ -2198,9 +2176,9 @@
    "material": "neon/purplegrid",
    "role": "PLATFORM",
    "prototype": false,
-   "vertex_offset": 3066024,
+   "vertex_offset": 3047224,
    "vertex_count": 604,
-   "index_offset": 3090184,
+   "index_offset": 3071384,
    "index_count": 966,
    "colour": [
     0.2822,
@@ -2214,9 +2192,9 @@
    "material": "neon/redbrick",
    "role": "FLOOR",
    "prototype": false,
-   "vertex_offset": 3094048,
+   "vertex_offset": 3075248,
    "vertex_count": 109,
-   "index_offset": 3098408,
+   "index_offset": 3079608,
    "index_count": 177,
    "colour": [
     0.3646,
@@ -2230,9 +2208,9 @@
    "material": "neon/redbrick",
    "role": "PLATFORM",
    "prototype": false,
-   "vertex_offset": 3099116,
+   "vertex_offset": 3080316,
    "vertex_count": 13,
-   "index_offset": 3099636,
+   "index_offset": 3080836,
    "index_count": 21,
    "colour": [
     0.3646,
@@ -2246,9 +2224,9 @@
    "material": "neon/redgrid",
    "role": "FLOOR",
    "prototype": false,
-   "vertex_offset": 3099720,
+   "vertex_offset": 3080920,
    "vertex_count": 1244,
-   "index_offset": 3149480,
+   "index_offset": 3130680,
    "index_count": 2199,
    "colour": [
     0.29,
@@ -2262,9 +2240,9 @@
    "material": "neon/redgrid",
    "role": "PLATFORM",
    "prototype": false,
-   "vertex_offset": 3158276,
+   "vertex_offset": 3139476,
    "vertex_count": 1049,
-   "index_offset": 3200236,
+   "index_offset": 3181436,
    "index_count": 1896,
    "colour": [
     0.29,
@@ -2278,11 +2256,11 @@
    "material": "neon/redtogreen",
    "role": "FLOOR",
    "prototype": false,
-   "vertex_offset": 3207820,
+   "vertex_offset": 3189020,
    "vertex_count": 250,
-   "index_offset": 3217820,
+   "index_offset": 3199020,
    "index_count": 960,
-   "alpha_offset": 3221660,
+   "alpha_offset": 3202860,
    "colour": [
     0.29,
     0.0,
@@ -2296,11 +2274,11 @@
    "material": "neon/redtogreen",
    "role": "PLATFORM",
    "prototype": false,
-   "vertex_offset": 3222660,
+   "vertex_offset": 3203860,
    "vertex_count": 50,
-   "index_offset": 3224660,
+   "index_offset": 3205860,
    "index_count": 192,
-   "alpha_offset": 3225428,
+   "alpha_offset": 3206628,
    "colour": [
     0.29,
     0.0,
@@ -2314,9 +2292,9 @@
    "material": "neon/yellowbrick",
    "role": "FLOOR",
    "prototype": false,
-   "vertex_offset": 3225628,
+   "vertex_offset": 3206828,
    "vertex_count": 53,
-   "index_offset": 3227748,
+   "index_offset": 3208948,
    "index_count": 87,
    "colour": [
     0.353,
@@ -2330,9 +2308,9 @@
    "material": "neon/yellowbrick",
    "role": "PLATFORM",
    "prototype": false,
-   "vertex_offset": 3228096,
+   "vertex_offset": 3209296,
    "vertex_count": 13,
-   "index_offset": 3228616,
+   "index_offset": 3209816,
    "index_count": 21,
    "colour": [
     0.353,
@@ -2346,9 +2324,9 @@
    "material": "neon/yellowgrid",
    "role": "FLOOR",
    "prototype": false,
-   "vertex_offset": 3228700,
+   "vertex_offset": 3209900,
    "vertex_count": 7848,
-   "index_offset": 3542620,
+   "index_offset": 3523820,
    "index_count": 12168,
    "colour": [
     0.2822,
@@ -2362,9 +2340,9 @@
    "material": "neon/yellowgrid",
    "role": "PLATFORM",
    "prototype": false,
-   "vertex_offset": 3591292,
+   "vertex_offset": 3572492,
    "vertex_count": 1826,
-   "index_offset": 3664332,
+   "index_offset": 3645532,
    "index_count": 3048,
    "colour": [
     0.2822,
@@ -2378,9 +2356,9 @@
    "material": "shadertest/water_refract_only",
    "role": "PLATFORM",
    "prototype": true,
-   "vertex_offset": 3676524,
+   "vertex_offset": 3657724,
    "vertex_count": 6,
-   "index_offset": 3676764,
+   "index_offset": 3657964,
    "index_count": 12,
    "colour": [
     0.4845,
@@ -2394,9 +2372,9 @@
    "material": "stone/stonewall029c",
    "role": "FLOOR",
    "prototype": false,
-   "vertex_offset": 3676812,
+   "vertex_offset": 3658012,
    "vertex_count": 646,
-   "index_offset": 3702652,
+   "index_offset": 3683852,
    "index_count": 1344,
    "colour": [
     0.4686,
@@ -2410,9 +2388,9 @@
    "material": "stone/stonewall029c",
    "role": "PLATFORM",
    "prototype": false,
-   "vertex_offset": 3708028,
+   "vertex_offset": 3689228,
    "vertex_count": 337,
-   "index_offset": 3721508,
+   "index_offset": 3702708,
    "index_count": 537,
    "colour": [
     0.4686,
@@ -2426,9 +2404,9 @@
    "material": "stone/stonewall029c",
    "role": "RAMP",
    "prototype": false,
-   "vertex_offset": 3723656,
+   "vertex_offset": 3704856,
    "vertex_count": 16,
-   "index_offset": 3724296,
+   "index_offset": 3705496,
    "index_count": 24,
    "colour": [
     0.4686,
@@ -2442,9 +2420,9 @@
    "material": "text/back",
    "role": "FLOOR",
    "prototype": false,
-   "vertex_offset": 3724392,
+   "vertex_offset": 3705592,
    "vertex_count": 16,
-   "index_offset": 3725032,
+   "index_offset": 3706232,
    "index_count": 24,
    "colour": [
     0.0885,
@@ -2458,9 +2436,9 @@
    "material": "text/bonus",
    "role": "FLOOR",
    "prototype": false,
-   "vertex_offset": 3725128,
+   "vertex_offset": 3706328,
    "vertex_count": 20,
-   "index_offset": 3725928,
+   "index_offset": 3707128,
    "index_count": 30,
    "colour": [
     0.1004,
@@ -2474,9 +2452,9 @@
    "material": "text/bonus",
    "role": "PLATFORM",
    "prototype": false,
-   "vertex_offset": 3726048,
+   "vertex_offset": 3707248,
    "vertex_count": 4,
-   "index_offset": 3726208,
+   "index_offset": 3707408,
    "index_count": 6,
    "colour": [
     0.1004,
@@ -2490,9 +2468,9 @@
    "material": "text/information",
    "role": "FLOOR",
    "prototype": false,
-   "vertex_offset": 3726232,
+   "vertex_offset": 3707432,
    "vertex_count": 4,
-   "index_offset": 3726392,
+   "index_offset": 3707592,
    "index_count": 6,
    "colour": [
     0.3364,
@@ -2506,9 +2484,9 @@
    "material": "text/ljs",
    "role": "FLOOR",
    "prototype": false,
-   "vertex_offset": 3726416,
+   "vertex_offset": 3707616,
    "vertex_count": 20,
-   "index_offset": 3727216,
+   "index_offset": 3708416,
    "index_count": 30,
    "colour": [
     0.1446,
@@ -2522,9 +2500,9 @@
    "material": "text/ljs",
    "role": "PLATFORM",
    "prototype": false,
-   "vertex_offset": 3727336,
+   "vertex_offset": 3708536,
    "vertex_count": 4,
-   "index_offset": 3727496,
+   "index_offset": 3708696,
    "index_count": 6,
    "colour": [
     0.1446,
@@ -2538,9 +2516,9 @@
    "material": "text/restart",
    "role": "FLOOR",
    "prototype": false,
-   "vertex_offset": 3727520,
+   "vertex_offset": 3708720,
    "vertex_count": 68,
-   "index_offset": 3730240,
+   "index_offset": 3711440,
    "index_count": 102,
    "colour": [
     0.1101,
@@ -2554,9 +2532,9 @@
    "material": "text/restart",
    "role": "PLATFORM",
    "prototype": false,
-   "vertex_offset": 3730648,
+   "vertex_offset": 3711848,
    "vertex_count": 4,
-   "index_offset": 3730808,
+   "index_offset": 3712008,
    "index_count": 6,
    "colour": [
     0.1101,
@@ -2570,9 +2548,9 @@
    "material": "text/secrets",
    "role": "FLOOR",
    "prototype": false,
-   "vertex_offset": 3730832,
+   "vertex_offset": 3712032,
    "vertex_count": 4,
-   "index_offset": 3730992,
+   "index_offset": 3712192,
    "index_count": 6,
    "colour": [
     0.2587,
@@ -2586,9 +2564,9 @@
    "material": "text/warning",
    "role": "FLOOR",
    "prototype": false,
-   "vertex_offset": 3731016,
+   "vertex_offset": 3712216,
    "vertex_count": 4,
-   "index_offset": 3731176,
+   "index_offset": 3712376,
    "index_count": 6,
    "colour": [
     0.3002,
@@ -2602,9 +2580,9 @@
    "material": "text/weapons",
    "role": "FLOOR",
    "prototype": false,
-   "vertex_offset": 3731200,
+   "vertex_offset": 3712400,
    "vertex_count": 20,
-   "index_offset": 3732000,
+   "index_offset": 3713200,
    "index_count": 30,
    "colour": [
     0.1309,
@@ -2618,9 +2596,9 @@
    "material": "text/weapons",
    "role": "PLATFORM",
    "prototype": false,
-   "vertex_offset": 3732120,
+   "vertex_offset": 3713320,
    "vertex_count": 4,
-   "index_offset": 3732280,
+   "index_offset": 3713480,
    "index_count": 6,
    "colour": [
     0.1309,
@@ -2634,9 +2612,9 @@
    "material": "tools/toolsblack",
    "role": "FLOOR",
    "prototype": true,
-   "vertex_offset": 3732304,
+   "vertex_offset": 3713504,
    "vertex_count": 934,
-   "index_offset": 3769664,
+   "index_offset": 3750864,
    "index_count": 1542,
    "colour": [
     0.0,
@@ -2650,9 +2628,9 @@
    "material": "tools/toolsblack",
    "role": "PLATFORM",
    "prototype": true,
-   "vertex_offset": 3775832,
+   "vertex_offset": 3757032,
    "vertex_count": 335,
-   "index_offset": 3789232,
+   "index_offset": 3770432,
    "index_count": 525,
    "colour": [
     0.0,
@@ -2666,9 +2644,9 @@
    "material": "watersource/waterfall/waterfallfull_512_clear",
    "role": "FLOOR",
    "prototype": false,
-   "vertex_offset": 3791332,
+   "vertex_offset": 3772532,
    "vertex_count": 24,
-   "index_offset": 3792292,
+   "index_offset": 3773492,
    "index_count": 36,
    "colour": [
     0.5161,
@@ -2682,9 +2660,9 @@
    "material": "watersource/waterfall/waterfallfull_512_clear",
    "role": "PLATFORM",
    "prototype": false,
-   "vertex_offset": 3792436,
+   "vertex_offset": 3773636,
    "vertex_count": 4,
-   "index_offset": 3792596,
+   "index_offset": 3773796,
    "index_count": 6,
    "colour": [
     0.5161,
@@ -2698,9 +2676,9 @@
    "material": "watersource/waterfall/waterfallfull_512_clear",
    "role": "RAMP",
    "prototype": false,
-   "vertex_offset": 3792620,
+   "vertex_offset": 3773820,
    "vertex_count": 8,
-   "index_offset": 3792940,
+   "index_offset": 3774140,
    "index_count": 12,
    "colour": [
     0.5161,
@@ -2714,9 +2692,9 @@
    "material": "watersource/waterfall/waterfallfull_512_nrm_clear",
    "role": "FLOOR",
    "prototype": true,
-   "vertex_offset": 3792988,
+   "vertex_offset": 3774188,
    "vertex_count": 30,
-   "index_offset": 3794188,
+   "index_offset": 3775388,
    "index_count": 48,
    "colour": [
     0.4845,
@@ -2730,9 +2708,9 @@
    "material": "watersource/waterfall/waterfallfull_512_nrm_clear",
    "role": "PLATFORM",
    "prototype": true,
-   "vertex_offset": 3794380,
+   "vertex_offset": 3775580,
    "vertex_count": 13,
-   "index_offset": 3794900,
+   "index_offset": 3776100,
    "index_count": 30,
    "colour": [
     0.4845,
@@ -2746,9 +2724,9 @@
    "material": "watersource/waterfall/waterfallfull_512_nrm_clear",
    "role": "RAMP",
    "prototype": true,
-   "vertex_offset": 3795020,
+   "vertex_offset": 3776220,
    "vertex_count": 8,
-   "index_offset": 3795340,
+   "index_offset": 3776540,
    "index_count": 12,
    "colour": [
     0.4845,
@@ -2761,61 +2739,86 @@
   {
    "material": "models/de_dust/crates/crate_128x128",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
-   "vertex_offset": 3795388,
+   "vertex_offset": 3776588,
    "vertex_count": 24,
-   "index_offset": 3796348,
+   "index_offset": 3777548,
    "index_count": 36,
-   "texture": "models_de_dust_crates_crate_128x128.png",
+   "colour": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "texture": null,
    "translucent": false
   },
   {
    "material": "models/de_dust/crates/crate_64x64",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
-   "vertex_offset": 3796492,
+   "vertex_offset": 3777692,
    "vertex_count": 144,
-   "index_offset": 3802252,
+   "index_offset": 3783452,
    "index_count": 216,
-   "texture": "models_de_dust_crates_crate_64x64.png",
+   "colour": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "texture": null,
    "translucent": false
   },
   {
    "material": "models/de_dust/crates/crate_64x64b",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
-   "vertex_offset": 3803116,
+   "vertex_offset": 3784316,
    "vertex_count": 144,
-   "index_offset": 3808876,
+   "index_offset": 3790076,
    "index_count": 216,
-   "texture": "models_de_dust_crates_crate_64x64b.png",
+   "colour": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "texture": null,
    "translucent": false
   },
   {
    "material": "models/pi_shrub/pi_bush",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
-   "vertex_offset": 3809740,
+   "vertex_offset": 3790940,
    "vertex_count": 72,
-   "index_offset": 3812620,
+   "index_offset": 3793820,
    "index_count": 324,
-   "texture": "models_pi_shrub_pi_bush.png",
-   "translucent": true
+   "colour": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "texture": null,
+   "translucent": false
   },
   {
    "material": "models/props/cs_militia/crate_extralargemill",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
-   "vertex_offset": 3813916,
+   "vertex_offset": 3795116,
    "vertex_count": 1500,
-   "index_offset": 3873916,
+   "index_offset": 3855116,
    "index_count": 2250,
-   "texture": "models_props_cs_militia_crate_extralargemill.png",
+   "colour": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "texture": null,
    "translucent": false
   },
   {
@@ -2823,9 +2826,9 @@
    "role": "FLOOR",
    "prototype": false,
    "prop": true,
-   "vertex_offset": 3882916,
+   "vertex_offset": 3864116,
    "vertex_count": 1380,
-   "index_offset": 3938116,
+   "index_offset": 3919316,
    "index_count": 2070,
    "texture": "models_props_cs_militia_crate_extrasmallmil.png",
    "translucent": false
@@ -2833,109 +2836,154 @@
   {
    "material": "models/props/cs_militia/fern01",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
-   "vertex_offset": 3946396,
+   "vertex_offset": 3927596,
    "vertex_count": 4116,
-   "index_offset": 4111036,
+   "index_offset": 4092236,
    "index_count": 14118,
-   "texture": "models_props_cs_militia_fern01.png",
-   "translucent": true
+   "colour": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "texture": null,
+   "translucent": false
   },
   {
    "material": "models/props/cs_militia/tree_large_militia",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
-   "vertex_offset": 4167508,
+   "vertex_offset": 4148708,
    "vertex_count": 27636,
-   "index_offset": 5272948,
+   "index_offset": 5254148,
    "index_count": 97884,
-   "texture": "models_props_cs_militia_tree_large_militia.png",
-   "translucent": true
+   "colour": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "texture": null,
+   "translucent": false
   },
   {
    "material": "models/props/cs_militia/trees1",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
-   "vertex_offset": 5664484,
+   "vertex_offset": 5645684,
    "vertex_count": 2033,
-   "index_offset": 5745804,
+   "index_offset": 5727004,
    "index_count": 7977,
-   "texture": "models_props_cs_militia_trees1.png",
-   "translucent": true
+   "colour": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "texture": null,
+   "translucent": false
   },
   {
    "material": "models/props/cs_militia/trees1b",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
-   "vertex_offset": 5777712,
+   "vertex_offset": 5758912,
    "vertex_count": 1452,
-   "index_offset": 5835792,
+   "index_offset": 5816992,
    "index_count": 4356,
-   "texture": "models_props_cs_militia_trees1b.png",
-   "translucent": true
+   "colour": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "texture": null,
+   "translucent": false
   },
   {
    "material": "models/props/cs_militia/trees2",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
-   "vertex_offset": 5853216,
+   "vertex_offset": 5834416,
    "vertex_count": 1155,
-   "index_offset": 5899416,
+   "index_offset": 5880616,
    "index_count": 5670,
-   "texture": "models_props_cs_militia_trees2.png",
-   "translucent": true
+   "colour": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "texture": null,
+   "translucent": false
   },
   {
    "material": "models/props/cs_militia/trees3",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
-   "vertex_offset": 5922096,
+   "vertex_offset": 5903296,
    "vertex_count": 1272,
-   "index_offset": 5972976,
+   "index_offset": 5954176,
    "index_count": 3816,
-   "texture": "models_props_cs_militia_trees3.png",
-   "translucent": true
+   "colour": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "texture": null,
+   "translucent": false
   },
   {
    "material": "models/props/cs_militia/trees3b",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
-   "vertex_offset": 5988240,
+   "vertex_offset": 5969440,
    "vertex_count": 3038,
-   "index_offset": 6109760,
+   "index_offset": 6090960,
    "index_count": 13005,
-   "texture": "models_props_cs_militia_trees3b.png",
-   "translucent": true
+   "colour": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "texture": null,
+   "translucent": false
   },
   {
    "material": "models/props/cs_office/crates_indoor",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
-   "vertex_offset": 6161780,
+   "vertex_offset": 6142980,
    "vertex_count": 1236,
-   "index_offset": 6211220,
+   "index_offset": 6192420,
    "index_count": 2334,
-   "texture": "models_props_cs_office_crates_indoor.png",
+   "colour": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "texture": null,
    "translucent": false
   },
   {
    "material": "models/props/cs_office/crates_outdoor",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
-   "vertex_offset": 6220556,
+   "vertex_offset": 6201756,
    "vertex_count": 30352,
-   "index_offset": 7434636,
+   "index_offset": 7415836,
    "index_count": 85092,
-   "texture": "models_props_cs_office_crates_outdoor.png",
+   "colour": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "texture": null,
    "translucent": false
   },
   {
@@ -2943,9 +2991,9 @@
    "role": "FLOOR",
    "prototype": false,
    "prop": true,
-   "vertex_offset": 7775004,
+   "vertex_offset": 7756204,
    "vertex_count": 1791,
-   "index_offset": 7846644,
+   "index_offset": 7827844,
    "index_count": 6822,
    "texture": "models_props_de_inferno_bushgreen.png",
    "translucent": true
@@ -2953,59 +3001,79 @@
   {
    "material": "models/props/de_inferno/largebushc",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
-   "vertex_offset": 7873932,
+   "vertex_offset": 7855132,
    "vertex_count": 2808,
-   "index_offset": 7986252,
+   "index_offset": 7967452,
    "index_count": 10656,
-   "texture": "models_props_de_inferno_largebushc.png",
-   "translucent": true
+   "colour": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "texture": null,
+   "translucent": false
   },
   {
    "material": "models/props/de_inferno/largebushc1",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
-   "vertex_offset": 8028876,
+   "vertex_offset": 8010076,
    "vertex_count": 54,
-   "index_offset": 8031036,
+   "index_offset": 8012236,
    "index_count": 144,
-   "texture": "models_props_de_inferno_largebushc1.png",
-   "translucent": true
+   "colour": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "texture": null,
+   "translucent": false
   },
   {
    "material": "models/props/de_inferno/largebushd",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
-   "vertex_offset": 8031612,
+   "vertex_offset": 8012812,
    "vertex_count": 840,
-   "index_offset": 8065212,
+   "index_offset": 8046412,
    "index_count": 3360,
-   "texture": "models_props_de_inferno_largebushd.png",
-   "translucent": true
+   "colour": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "texture": null,
+   "translucent": false
   },
   {
    "material": "models/props/de_inferno/largebushe",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
-   "vertex_offset": 8078652,
+   "vertex_offset": 8059852,
    "vertex_count": 210,
-   "index_offset": 8087052,
+   "index_offset": 8068252,
    "index_count": 432,
-   "texture": "models_props_de_inferno_largebushe.png",
-   "translucent": true
+   "colour": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "texture": null,
+   "translucent": false
   },
   {
    "material": "models/props/de_inferno/largebushf",
    "role": "FLOOR",
    "prototype": false,
    "prop": true,
-   "vertex_offset": 8088780,
+   "vertex_offset": 8069980,
    "vertex_count": 485,
-   "index_offset": 8108180,
+   "index_offset": 8089380,
    "index_count": 1836,
    "texture": "models_props_de_inferno_largebushf.png",
    "translucent": true
@@ -3015,9 +3083,9 @@
    "role": "FLOOR",
    "prototype": false,
    "prop": true,
-   "vertex_offset": 8115524,
+   "vertex_offset": 8096724,
    "vertex_count": 153,
-   "index_offset": 8121644,
+   "index_offset": 8102844,
    "index_count": 312,
    "texture": "models_props_de_inferno_largebushg.png",
    "translucent": true
@@ -3027,9 +3095,9 @@
    "role": "FLOOR",
    "prototype": false,
    "prop": true,
-   "vertex_offset": 8122892,
+   "vertex_offset": 8104092,
    "vertex_count": 465,
-   "index_offset": 8141492,
+   "index_offset": 8122692,
    "index_count": 1788,
    "texture": "models_props_de_inferno_largebushh.png",
    "translucent": true
@@ -3039,9 +3107,9 @@
    "role": "FLOOR",
    "prototype": false,
    "prop": true,
-   "vertex_offset": 8148644,
+   "vertex_offset": 8129844,
    "vertex_count": 306,
-   "index_offset": 8160884,
+   "index_offset": 8142084,
    "index_count": 624,
    "texture": "models_props_de_inferno_largebushi.png",
    "translucent": true
@@ -3049,37 +3117,52 @@
   {
    "material": "models/props/de_inferno/largebushj",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
-   "vertex_offset": 8163380,
+   "vertex_offset": 8144580,
    "vertex_count": 420,
-   "index_offset": 8180180,
+   "index_offset": 8161380,
    "index_count": 1680,
-   "texture": "models_props_de_inferno_largebushj.png",
-   "translucent": true
+   "colour": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "texture": null,
+   "translucent": false
   },
   {
    "material": "models/props/de_inferno/tree_large",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
-   "vertex_offset": 8186900,
+   "vertex_offset": 8168100,
    "vertex_count": 17500,
-   "index_offset": 8886900,
+   "index_offset": 8868100,
    "index_count": 62844,
-   "texture": "models_props_de_inferno_tree_large.png",
-   "translucent": true
+   "colour": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "texture": null,
+   "translucent": false
   },
   {
    "material": "models/props/de_tides/tides_light_streetlight",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
-   "vertex_offset": 9138276,
+   "vertex_offset": 9119476,
    "vertex_count": 19845,
-   "index_offset": 9932076,
+   "index_offset": 9913276,
    "index_count": 51156,
-   "texture": "models_props_de_tides_tides_light_streetlight.png",
+   "colour": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "texture": null,
    "translucent": false
   },
   {
@@ -3087,9 +3170,9 @@
    "role": "FLOOR",
    "prototype": false,
    "prop": true,
-   "vertex_offset": 10136700,
+   "vertex_offset": 10117900,
    "vertex_count": 36210,
-   "index_offset": 11585100,
+   "index_offset": 11566300,
    "index_count": 79866,
    "texture": "models_props_c17_cagebulb01.png",
    "translucent": false
@@ -3099,9 +3182,9 @@
    "role": "FLOOR",
    "prototype": false,
    "prop": true,
-   "vertex_offset": 11904564,
+   "vertex_offset": 11885764,
    "vertex_count": 2327,
-   "index_offset": 11997644,
+   "index_offset": 11978844,
    "index_count": 5220,
    "texture": "models_props_c17_gasmeters001a.png",
    "translucent": false
@@ -3109,25 +3192,35 @@
   {
    "material": "models/props_c17/industrialbell01",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
-   "vertex_offset": 12018524,
+   "vertex_offset": 11999724,
    "vertex_count": 2156,
-   "index_offset": 12104764,
+   "index_offset": 12085964,
    "index_count": 7920,
-   "texture": "models_props_c17_industrialbell01.png",
+   "colour": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "texture": null,
    "translucent": false
   },
   {
    "material": "models/props_c17/industrialbellbottomon02",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
-   "vertex_offset": 12136444,
+   "vertex_offset": 12117644,
    "vertex_count": 462,
-   "index_offset": 12154924,
+   "index_offset": 12136124,
    "index_count": 1320,
-   "texture": "models_props_c17_industrialbellbottomon02.png",
+   "colour": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "texture": null,
    "translucent": false
   },
   {
@@ -3135,9 +3228,9 @@
    "role": "FLOOR",
    "prototype": false,
    "prop": true,
-   "vertex_offset": 12160204,
+   "vertex_offset": 12141404,
    "vertex_count": 7035,
-   "index_offset": 12441604,
+   "index_offset": 12422804,
    "index_count": 22554,
    "texture": "models_props_c17_light_domelight02_on.png",
    "translucent": false
@@ -3147,9 +3240,9 @@
    "role": "FLOOR",
    "prototype": false,
    "prop": true,
-   "vertex_offset": 12531820,
+   "vertex_offset": 12513020,
    "vertex_count": 8460,
-   "index_offset": 12870220,
+   "index_offset": 12851420,
    "index_count": 36468,
    "texture": "models_props_foliage_tree_deciduous_01a_trunk.png",
    "translucent": false
@@ -3157,23 +3250,28 @@
   {
    "material": "models/props_foliage/tree_deciduous_01a_branches",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
-   "vertex_offset": 13016092,
+   "vertex_offset": 12997292,
    "vertex_count": 4720,
-   "index_offset": 13204892,
+   "index_offset": 13186092,
    "index_count": 7992,
-   "texture": "models_props_foliage_tree_deciduous_01a_branches.png",
-   "translucent": true
+   "colour": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "texture": null,
+   "translucent": false
   },
   {
    "material": "models/props_foliage/tree_deciduous_01a_trunk",
    "role": "FLOOR",
    "prototype": false,
    "prop": true,
-   "vertex_offset": 13236860,
+   "vertex_offset": 13218060,
    "vertex_count": 8709,
-   "index_offset": 13585220,
+   "index_offset": 13566420,
    "index_count": 34413,
    "texture": "models_props_foliage_tree_deciduous_01a_trunk.png",
    "translucent": false
@@ -3183,9 +3281,9 @@
    "role": "FLOOR",
    "prototype": false,
    "prop": true,
-   "vertex_offset": 13722872,
+   "vertex_offset": 13704072,
    "vertex_count": 2230,
-   "index_offset": 13812072,
+   "index_offset": 13793272,
    "index_count": 3450,
    "texture": "models_props_foliage_tree_deciduous_cards_01.png",
    "translucent": true
@@ -3195,9 +3293,9 @@
    "role": "FLOOR",
    "prototype": false,
    "prop": true,
-   "vertex_offset": 13825872,
+   "vertex_offset": 13807072,
    "vertex_count": 186,
-   "index_offset": 13833312,
+   "index_offset": 13814512,
    "index_count": 282,
    "texture": "models_props_lab_powerbox001.png",
    "translucent": false
@@ -3207,9 +3305,9 @@
    "role": "FLOOR",
    "prototype": true,
    "prop": true,
-   "vertex_offset": 13834440,
+   "vertex_offset": 13815640,
    "vertex_count": 1682,
-   "index_offset": 13901720,
+   "index_offset": 13882920,
    "index_count": 5712,
    "colour": [
     0.3013,
@@ -3224,9 +3322,9 @@
    "role": "FLOOR",
    "prototype": false,
    "prop": true,
-   "vertex_offset": 13924568,
+   "vertex_offset": 13905768,
    "vertex_count": 21571,
-   "index_offset": 14787408,
+   "index_offset": 14768608,
    "index_count": 62586,
    "texture": "models_props_pipes_pipeset_metal.png",
    "translucent": false
@@ -3236,9 +3334,9 @@
    "role": "FLOOR",
    "prototype": false,
    "prop": true,
-   "vertex_offset": 15037752,
+   "vertex_offset": 15018952,
    "vertex_count": 7673,
-   "index_offset": 15344672,
+   "index_offset": 15325872,
    "index_count": 25986,
    "texture": "models_props_pipes_pipeset_metal02.png",
    "translucent": false
@@ -3246,10 +3344,10 @@
  ],
  "collision": {
   "hull_count": 2676,
-  "hull_offset": 15448616,
-  "displacement_vertex_offset": 15760016,
+  "hull_offset": 15429816,
+  "displacement_vertex_offset": 15741216,
   "displacement_vertex_count": 10597,
-  "displacement_index_offset": 15887180,
+  "displacement_index_offset": 15868380,
   "displacement_index_count": 58176,
   "playerclip_hulls": 51,
   "prop_hulls": 113

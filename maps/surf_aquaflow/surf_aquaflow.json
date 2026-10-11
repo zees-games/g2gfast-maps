@@ -405,7 +405,7 @@
   {
    "material": "graything",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1090632,
    "vertex_count": 108,
    "index_offset": 1094952,
@@ -415,7 +415,7 @@
     0.5266,
     0.5266
    ],
-   "texture": "detail_dt_smooth1.png",
+   "texture": null,
    "translucent": false
   },
   {

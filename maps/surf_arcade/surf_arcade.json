@@ -2659,13 +2659,18 @@
   {
    "material": "models/comp/bramp1/train_metalceiling_02",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
    "vertex_offset": 8736100,
    "vertex_count": 59,
    "index_offset": 8738460,
    "index_count": 90,
-   "texture": "de_train_train_metalceiling_02.png",
+   "colour": [
+    0.373,
+    0.2475,
+    0.1756
+   ],
+   "texture": null,
    "translucent": false
   },
   {
@@ -2705,13 +2710,18 @@
   {
    "material": "models/comp/bramp2/train_metalceiling_02",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
    "vertex_offset": 8742012,
    "vertex_count": 32,
    "index_offset": 8743292,
    "index_count": 48,
-   "texture": "de_train_train_metalceiling_02.png",
+   "colour": [
+    0.373,
+    0.2475,
+    0.1756
+   ],
+   "texture": null,
    "translucent": false
   },
   {
@@ -2751,13 +2761,18 @@
   {
    "material": "models/comp/bramp3/train_metalceiling_02",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
    "vertex_offset": 8750764,
    "vertex_count": 164,
    "index_offset": 8757324,
    "index_count": 252,
-   "texture": "de_train_train_metalceiling_02.png",
+   "colour": [
+    0.373,
+    0.2475,
+    0.1756
+   ],
+   "texture": null,
    "translucent": false
   },
   {
@@ -2797,13 +2812,18 @@
   {
    "material": "models/comp/bramp4/train_metalceiling_02",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
    "vertex_offset": 8765612,
    "vertex_count": 160,
    "index_offset": 8772012,
    "index_count": 252,
-   "texture": "de_train_train_metalceiling_02.png",
+   "colour": [
+    0.373,
+    0.2475,
+    0.1756
+   ],
+   "texture": null,
    "translucent": false
   },
   {
@@ -2843,13 +2863,18 @@
   {
    "material": "models/comp/bramp5/train_metalceiling_02",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
    "vertex_offset": 8779276,
    "vertex_count": 145,
    "index_offset": 8785076,
    "index_count": 222,
-   "texture": "de_train_train_metalceiling_02.png",
+   "colour": [
+    0.373,
+    0.2475,
+    0.1756
+   ],
+   "texture": null,
    "translucent": false
   },
   {
@@ -2889,13 +2914,18 @@
   {
    "material": "models/comp/bramp6/train_metalceiling_02",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
    "vertex_offset": 8792220,
    "vertex_count": 145,
    "index_offset": 8798020,
    "index_count": 222,
-   "texture": "de_train_train_metalceiling_02.png",
+   "colour": [
+    0.373,
+    0.2475,
+    0.1756
+   ],
+   "texture": null,
    "translucent": false
   },
   {
@@ -10761,7 +10791,7 @@
   "drawn": 525,
   "stock_models": 4,
   "surfaces": 682,
-  "tinted": 114,
+  "tinted": 120,
   "open_sky_lit": 404
  },
  "brush_entities": {

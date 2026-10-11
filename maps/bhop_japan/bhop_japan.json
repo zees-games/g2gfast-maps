@@ -57,15 +57,7 @@
    ],
    "scale": 16.0
   },
-  "baked_light_count": 21,
-  "sky_faces": {
-   "rt": "sky_rt.png",
-   "bk": "sky_bk.png",
-   "lf": "sky_lf.png",
-   "ft": "sky_ft.png",
-   "up": "sky_up.png",
-   "dn": "sky_dn.png"
-  }
+  "baked_light_count": 21
  },
  "surfaces": [
   {

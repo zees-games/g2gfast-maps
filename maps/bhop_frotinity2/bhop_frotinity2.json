@@ -1400,7 +1400,7 @@
   {
    "material": "de_train/train_brick_wall_04",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 3465028,
    "vertex_count": 121,
    "index_offset": 3469868,
@@ -1410,7 +1410,7 @@
     0.6443,
     0.6132
    ],
-   "texture": "de_train_train_brick_wall_04.png",
+   "texture": null,
    "translucent": false
   },
   {
@@ -2104,7 +2104,7 @@
   {
    "material": "metal/milwall005",
    "role": "PLATFORM",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 5041112,
    "vertex_count": 56,
    "index_offset": 5043352,
@@ -2114,7 +2114,7 @@
     0.436,
     0.4565
    ],
-   "texture": "metal_milwall005.png",
+   "texture": null,
    "translucent": false
   },
   {
@@ -3557,37 +3557,52 @@
   {
    "material": "models/props/cs_militia/trees1",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
    "vertex_offset": 24003624,
    "vertex_count": 6099,
    "index_offset": 24247584,
    "index_count": 23931,
-   "texture": "models_props_cs_militia_trees1.png",
-   "translucent": true
+   "colour": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "texture": null,
+   "translucent": false
   },
   {
    "material": "models/props/cs_militia/trees1b",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
    "vertex_offset": 24343308,
    "vertex_count": 2088,
    "index_offset": 24426828,
    "index_count": 6264,
-   "texture": "models_props_cs_militia_trees1b.png",
-   "translucent": true
+   "colour": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "texture": null,
+   "translucent": false
   },
   {
    "material": "models/props/de_nuke/crate_extralarge",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
    "vertex_offset": 24451884,
    "vertex_count": 736,
    "index_offset": 24481324,
    "index_count": 1104,
-   "texture": "models_props_de_nuke_crate_extralarge.png",
+   "colour": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "texture": null,
    "translucent": false
   },
   {
@@ -3908,14 +3923,19 @@
   {
    "material": "models/props_foliage/tree_deciduous_01a_branches",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
    "vertex_offset": 36923324,
    "vertex_count": 18698,
    "index_offset": 37671244,
    "index_count": 30882,
-   "texture": "models_props_foliage_tree_deciduous_01a_branches.png",
-   "translucent": true
+   "colour": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "texture": null,
+   "translucent": false
   },
   {
    "material": "models/props_foliage/tree_deciduous_01a_trunk",

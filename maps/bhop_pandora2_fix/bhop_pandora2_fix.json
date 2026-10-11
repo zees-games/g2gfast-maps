@@ -72,7 +72,7 @@
   {
    "material": "de_dust/rockwall01",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 0,
    "vertex_count": 24,
    "index_offset": 960,
@@ -82,7 +82,7 @@
     0.291,
     0.1974
    ],
-   "texture": "de_dust_rockwall01.png",
+   "texture": null,
    "translucent": false
   },
   {
@@ -1036,14 +1036,19 @@
   {
    "material": "models/props/cs_office/clouds",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
    "vertex_offset": 7924848,
    "vertex_count": 52,
    "index_offset": 7926928,
    "index_count": 240,
-   "texture": "models_props_cs_office_clouds.png",
-   "translucent": true
+   "colour": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "texture": null,
+   "translucent": false
   },
   {
    "material": "models/props/pandora/xen_c1a4a_obsidian_001a",

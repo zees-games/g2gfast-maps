@@ -1029,7 +1029,7 @@
   {
    "material": "de_piranesi/pi_wood1",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 4119352,
    "vertex_count": 44,
    "index_offset": 4121112,
@@ -1039,13 +1039,13 @@
     0.2292,
     0.1705
    ],
-   "texture": "de_piranesi_pi_wood1.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "de_piranesi/pi_wood1",
    "role": "PLATFORM",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 4121424,
    "vertex_count": 10,
    "index_offset": 4121824,
@@ -1055,7 +1055,7 @@
     0.2292,
     0.1705
    ],
-   "texture": "de_piranesi_pi_wood1.png",
+   "texture": null,
    "translucent": false
   },
   {
