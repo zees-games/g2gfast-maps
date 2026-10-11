@@ -255,7 +255,7 @@
   {
    "material": "cs_havana/stonework01",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 187376,
    "vertex_count": 864,
    "index_offset": 221936,
@@ -265,13 +265,13 @@
     0.7408,
     0.6658
    ],
-   "texture": "de_aztec_stonework01.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "cs_havana/stonework01",
    "role": "PLATFORM",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 227528,
    "vertex_count": 82,
    "index_offset": 230808,
@@ -281,13 +281,13 @@
     0.7408,
     0.6658
    ],
-   "texture": "de_aztec_stonework01.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "cs_havana/stonework01",
    "role": "RAMP",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 231528,
    "vertex_count": 60,
    "index_offset": 233928,
@@ -297,7 +297,7 @@
     0.7408,
     0.6658
    ],
-   "texture": "de_aztec_stonework01.png",
+   "texture": null,
    "translucent": false
   },
   {
@@ -543,7 +543,7 @@
   {
    "material": "de_aztec/stonework01g",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 875912,
    "vertex_count": 865,
    "index_offset": 910512,
@@ -553,13 +553,13 @@
     0.7159,
     0.6283
    ],
-   "texture": "de_aztec_stonework01g.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "de_aztec/stonework01g",
    "role": "PLATFORM",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 916140,
    "vertex_count": 32,
    "index_offset": 917420,
@@ -569,13 +569,13 @@
     0.7159,
     0.6283
    ],
-   "texture": "de_aztec_stonework01g.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "de_aztec/stonework01g",
    "role": "RAMP",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 917612,
    "vertex_count": 24,
    "index_offset": 918572,
@@ -585,13 +585,13 @@
     0.7159,
     0.6283
    ],
-   "texture": "de_aztec_stonework01g.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "de_aztec/stonework01mossa",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 918716,
    "vertex_count": 645,
    "index_offset": 944516,
@@ -601,13 +601,13 @@
     0.4353,
     0.3503
    ],
-   "texture": "de_aztec_stonework01mossa.png",
+   "texture": null,
    "translucent": false
   },
   {
    "material": "de_aztec/stonework01mossa",
    "role": "RAMP",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 949064,
    "vertex_count": 56,
    "index_offset": 951304,
@@ -617,7 +617,7 @@
     0.4353,
     0.3503
    ],
-   "texture": "de_aztec_stonework01mossa.png",
+   "texture": null,
    "translucent": false
   },
   {
@@ -847,7 +847,7 @@
   {
    "material": "de_chateau/{cxarrow01",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1100728,
    "vertex_count": 4,
    "index_offset": 1100888,
@@ -857,8 +857,8 @@
     0.5327,
     0.3252
    ],
-   "texture": "de_chateau_{cxarrow01.png",
-   "translucent": true
+   "texture": null,
+   "translucent": false
   },
   {
    "material": "de_piranesi/pi_wood1",
@@ -911,7 +911,7 @@
   {
    "material": "decals/infnum0",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1168756,
    "vertex_count": 92,
    "index_offset": 1172436,
@@ -921,13 +921,13 @@
     0.3695,
     0.3896
    ],
-   "texture": "decals_infnum0.png",
-   "translucent": true
+   "texture": null,
+   "translucent": false
   },
   {
    "material": "decals/infnum2",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1172988,
    "vertex_count": 64,
    "index_offset": 1175548,
@@ -937,13 +937,13 @@
     0.3466,
     0.3731
    ],
-   "texture": "decals_infnum2.png",
-   "translucent": true
+   "texture": null,
+   "translucent": false
   },
   {
    "material": "decals/infnum3",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1175932,
    "vertex_count": 36,
    "index_offset": 1177372,
@@ -953,13 +953,13 @@
     0.3643,
     0.3916
    ],
-   "texture": "decals_infnum3.png",
-   "translucent": true
+   "texture": null,
+   "translucent": false
   },
   {
    "material": "decals/infnum4",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1177588,
    "vertex_count": 36,
    "index_offset": 1179028,
@@ -969,13 +969,13 @@
     0.3443,
     0.3725
    ],
-   "texture": "decals_infnum4.png",
-   "translucent": true
+   "texture": null,
+   "translucent": false
   },
   {
    "material": "decals/infnum5",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1179244,
    "vertex_count": 36,
    "index_offset": 1180684,
@@ -985,13 +985,13 @@
     0.3473,
     0.3748
    ],
-   "texture": "decals_infnum5.png",
-   "translucent": true
+   "texture": null,
+   "translucent": false
   },
   {
    "material": "decals/infnum6",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1180900,
    "vertex_count": 16,
    "index_offset": 1181540,
@@ -1001,13 +1001,13 @@
     0.3644,
     0.3858
    ],
-   "texture": "decals_infnum6.png",
-   "translucent": true
+   "texture": null,
+   "translucent": false
   },
   {
    "material": "decals/infnum8",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1181636,
    "vertex_count": 8,
    "index_offset": 1181956,
@@ -1017,8 +1017,8 @@
     0.3501,
     0.3776
    ],
-   "texture": "decals_infnum8.png",
-   "translucent": true
+   "texture": null,
+   "translucent": false
   },
   {
    "material": "dev/dev_waterbeneath2",
@@ -3205,13 +3205,18 @@
   {
    "material": "models/props_pipes/pipemetal001a",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "prop": true,
    "vertex_offset": 13834440,
    "vertex_count": 1682,
    "index_offset": 13901720,
    "index_count": 5712,
-   "texture": "models_props_pipes_pipemetal001a.png",
+   "colour": [
+    0.3013,
+    0.2564,
+    0.2171
+   ],
+   "texture": null,
    "translucent": false
   },
   {
@@ -3255,7 +3260,7 @@
   "drawn": 285,
   "stock_models": 0,
   "surfaces": 40,
-  "tinted": 0,
+  "tinted": 1,
   "open_sky_lit": 19
  },
  "brush_entities": {

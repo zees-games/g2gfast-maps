@@ -256,7 +256,7 @@
   {
    "material": "bucknasty/river_flow",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 67244,
    "vertex_count": 24,
    "index_offset": 68204,
@@ -266,13 +266,13 @@
     0.157,
     0.1496
    ],
-   "texture": "bucknasty_river_flow.png",
-   "translucent": true
+   "texture": null,
+   "translucent": false
   },
   {
    "material": "bucknasty/river_flow",
    "role": "PLATFORM",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 68348,
    "vertex_count": 12,
    "index_offset": 68828,
@@ -282,8 +282,8 @@
     0.157,
     0.1496
    ],
-   "texture": "bucknasty_river_flow.png",
-   "translucent": true
+   "texture": null,
+   "translucent": false
   },
   {
    "material": "bucknasty/spacedoutvmf",

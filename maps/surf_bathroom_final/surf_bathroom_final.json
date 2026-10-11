@@ -1555,7 +1555,7 @@
   {
    "material": "smooth/river_flow",
    "role": "FLOOR",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1654824,
    "vertex_count": 24,
    "index_offset": 1655784,
@@ -1565,13 +1565,13 @@
     0.157,
     0.1496
    ],
-   "texture": "smooth_river_flow.png",
-   "translucent": true
+   "texture": null,
+   "translucent": false
   },
   {
    "material": "smooth/river_flow",
    "role": "PLATFORM",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1655928,
    "vertex_count": 24,
    "index_offset": 1656888,
@@ -1581,13 +1581,13 @@
     0.157,
     0.1496
    ],
-   "texture": "smooth_river_flow.png",
-   "translucent": true
+   "texture": null,
+   "translucent": false
   },
   {
    "material": "smooth/river_flow",
    "role": "RAMP",
-   "prototype": false,
+   "prototype": true,
    "vertex_offset": 1657032,
    "vertex_count": 20,
    "index_offset": 1657832,
@@ -1597,8 +1597,8 @@
     0.157,
     0.1496
    ],
-   "texture": "smooth_river_flow.png",
-   "translucent": true
+   "texture": null,
+   "translucent": false
   },
   {
    "material": "smooth/rubber",
