@@ -2048,11 +2048,11 @@
  "max_slope": 45.57,
  "spawn": {
   "origin": [
-   -1088,
-   168.0,
-   -4768
+   -240.0,
+   32.0,
+   -4752.0
   ],
-  "yaw": -90.0
+  "yaw": 0.0
  },
  "spawns": [
   {
@@ -2574,27 +2574,34 @@
    "kind": "START",
    "track": 0,
    "min": [
-    -1376,
-    -32,
-    -5056
+    -368.0,
+    -88.0,
+    -4880.0
    ],
    "max": [
-    -800,
-    288,
-    -4480
+    -112.0,
+    104.0,
+    -4624.0
    ],
    "inflated": false,
-   "comment": "the spawn room, around the 32 + 32 team spawns (x -1312..-864, y 4544..4992, z 128)"
+   "destination": [
+    -240.0,
+    32.0,
+    -4752.0
+   ],
+   "destination_yaw": 0.0,
+   "comment": "round `start`, where the spawn room sends you (2026-10-11): 64 team spawns stand in a holding room whose floor is a teleport to `start`, so a player is there a second after appearing. The start was the spawn room until then, and the importer had that floor send back to the spawn, which held every player in the room"
   },
   {
    "kind": "SPAWN",
    "track": 0,
    "destination": [
-    -1088,
-    168.0,
-    -4768
+    -240.0,
+    32.0,
+    -4752.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0,
+   "comment": "`start`, where the spawn room's floor sends you; see the start's note"
   },
   {
    "kind": "END",
@@ -6423,7 +6430,7 @@
    ],
    "max": [
     -768.0,
-    167.0,
+    172.0,
     -4480.0
    ],
    "inflated": true
@@ -11959,11 +11966,11 @@
    "max": [
     -768.0,
     5504.0,
-    167.0
+    172.0
    ],
    "inflated": true,
    "hung": false,
-   "cleared": true,
+   "cleared": false,
    "trimmed": false,
    "track": 0,
    "original_min": [

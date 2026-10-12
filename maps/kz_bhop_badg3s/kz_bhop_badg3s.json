@@ -1622,11 +1622,11 @@
  "max_slope": 45.57,
  "spawn": {
   "origin": [
-   -2368,
-   3584.0,
-   -448
+   -2016.0,
+   2656.0,
+   -1440.0
   ],
-  "yaw": -90.0
+  "yaw": 0.0
  },
  "spawns": [
   {
@@ -1716,27 +1716,34 @@
    "kind": "START",
    "track": 0,
    "min": [
-    -2624,
-    3344,
-    -704
+    -2144.0,
+    2536.0,
+    -1568.0
    ],
    "max": [
-    -2112,
-    3744,
-    -192
+    -1888.0,
+    2728.0,
+    -1312.0
    ],
    "inflated": false,
-   "comment": "the spawn, around the 10 info_player_counterterrorist (x -2400..-2336, y 384..512, z 3544)"
+   "destination": [
+    -2016.0,
+    2656.0,
+    -1440.0
+   ],
+   "destination_yaw": 0.0,
+   "comment": "round `1`, where the spawn room sends you (2026-10-11): 10 team spawns stand in a holding room whose floor is a teleport to checkpoint `1`, so a player is there a second after appearing. The start was the spawn room until then, and the importer had that floor send back to the spawn, which held every player in the room"
   },
   {
    "kind": "SPAWN",
    "track": 0,
    "destination": [
-    -2368,
-    3584.0,
-    -448
+    -2016.0,
+    2656.0,
+    -1440.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0,
+   "comment": "`1`, where the spawn room's floor sends you; see the start's note"
   },
   {
    "kind": "END",
@@ -1866,13 +1873,7 @@
     2600.0,
     -896.0
    ],
-   "inflated": true,
-   "destination": [
-    -2016.0,
-    2656.0,
-    -1440.0
-   ],
-   "destination_yaw": 0.0
+   "inflated": true
   },
   {
    "kind": "RESPAWN",

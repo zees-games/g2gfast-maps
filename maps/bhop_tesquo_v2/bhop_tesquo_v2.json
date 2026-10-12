@@ -3368,7 +3368,8 @@
     0.0
    ],
    "texture": "flash_crystal_ms_fade_ora01.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true
   },
   {
    "material": "fof/c_pv_18y",

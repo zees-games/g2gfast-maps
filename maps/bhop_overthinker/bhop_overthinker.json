@@ -1095,7 +1095,9 @@
     0.8608
    ],
    "texture": "watersource_waterfall_highfall.png",
-   "translucent": true
+   "translucent": true,
+   "additive": true,
+   "two_sided": true
   },
   {
    "material": "watersource/waterfall/waterfallhigh",
@@ -1111,7 +1113,9 @@
     0.8608
    ],
    "texture": "watersource_waterfall_highfall.png",
-   "translucent": true
+   "translucent": true,
+   "additive": true,
+   "two_sided": true
   },
   {
    "material": "models/bhop_overthinker/blue_nop",

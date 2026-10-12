@@ -699,7 +699,8 @@
     1.0
    ],
    "texture": "crash bandicoot 3_egypt_light1.png",
-   "translucent": true
+   "translucent": true,
+   "additive": true
   },
   {
    "material": "crash bandicoot 3/egypt/light1",
@@ -715,7 +716,8 @@
     1.0
    ],
    "texture": "crash bandicoot 3_egypt_light1.png",
-   "translucent": true
+   "translucent": true,
+   "additive": true
   },
   {
    "material": "crash bandicoot 3/egypt/nightsky_side",

@@ -2440,9 +2440,9 @@
  "max_slope": 45.57,
  "spawn": {
   "origin": [
-   -3360.0,
-   -9104.0,
-   -1159.47
+   1840,
+   280.0,
+   -4144
   ],
   "yaw": -90.0
  },
@@ -2478,11 +2478,12 @@
    "kind": "SPAWN",
    "track": 0,
    "destination": [
-    -3360.0,
-    -9104.0,
-    -1159.47
+    1840,
+    280.0,
+    -4144
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": -90.0,
+   "comment": "the foot of the chute under `stato`, which `map0stato` teleports to: see notes"
   },
   {
    "kind": "RESPAWN",
@@ -8062,7 +8063,13 @@
     -9296.0,
     -960.0
    ],
-   "inflated": true
+   "inflated": true,
+   "destination": [
+    840.0,
+    1176.0,
+    -4144.0
+   ],
+   "destination_yaw": -90.0
   },
   {
    "kind": "RESPAWN",
@@ -24455,5 +24462,5 @@
   }
  ],
  "author": "Aoki",
- "notes": "Credit and a spawn, and no start or finish, on purpose (gb-maps-1): an adventure climb map whose progress is buttons, levers, timed doors and a minecart (16 buttons, 13 func_wall_toggle, 12 logic_timer), with 79 joke-named destinations and no labelled start or finish. Its players spawn over an intro room and drop 800 units into it; the button there (finbut1) triggers `mapstartodesu`, which opens the room and 25 s later enables the teleport to `map0stato`, the start of the map proper. This game runs none of that, so the spawn here is `map0stato` itself. Nothing in the file marks where the map ends, and a finish line guessed from the logic is a board measuring a route the map does not have. Loads, draws and collides; zones want drawing in-game with the zone editor. Not published."
+ "notes": "Credit and a spawn, and no start or finish, on purpose (gb-maps-1): an adventure climb map whose progress is buttons, levers, timed doors and a minecart (16 buttons, 13 func_wall_toggle, 12 logic_timer), with 79 joke-named destinations and no labelled start or finish. Its players spawn over an intro room and drop 800 units into it; the button there (finbut1) triggers `mapstartodesu`, which opens the room and 25 s later enables the teleport to `map0stato`, the start of the map proper. This game runs none of that, so the spawn is where `map0stato` leads (2026-10-11): `map0stato` itself is a sealed black box (cs_italy/black walls, an unlit ceiling) whose floor teleports to `stato` (until 2026-10-11 the importer made that floor send back to the spawn and held every player in the dark box), and `stato` is the top of a 46-degree chute the player slides 920 units down into the first corridor. The spawn is the foot of the chute, where the original puts a player a second after `map0stato`: measured by sliding a player down it here, at rest at 1840 4144 256. Nothing in the file marks where the map ends, and a finish line guessed from the logic is a board measuring a route the map does not have. Loads, draws and collides; zones want drawing in-game with the zone editor. Not published."
 }

@@ -1861,11 +1861,11 @@
  "max_slope": 45.57,
  "spawn": {
   "origin": [
-   6144.0,
-   544.0,
-   8224.0
+   5056.0,
+   168.0,
+   8141.91
   ],
-  "yaw": -90.0
+  "yaw": 180.0
  },
  "spawns": [
   {
@@ -2383,6 +2383,17 @@
  ],
  "min_zone_thickness": 192.0,
  "zones": [
+  {
+   "kind": "SPAWN",
+   "track": 0,
+   "destination": [
+    5056.0,
+    168.0,
+    8141.91
+   ],
+   "destination_yaw": 180.0,
+   "comment": "where the spawn room sends you (2026-10-11): the 64 team spawns stand in a sealed tools/toolsblack box whose floor is a teleport to `spawn_tele`; until then the importer had that floor send back to the spawn and every player was held in the black box"
+  },
   {
    "kind": "RESPAWN",
    "track": 0,
@@ -25579,5 +25590,5 @@
   }
  ],
  "author": "Tony Montana (tmontana)",
- "notes": "No finish, on purpose: a section-chain map whose end is not labelled (see README.md and NOT_COURSES in examples/headless_imported.gd). This file exists only for its conditional teleports: 185 of the map's 409 teleports sit on its blocks behind `filter_activator`, the anti-standing trap, and 184 trigger_multiples pulse the name that filter passes."
+ "notes": "No finish, on purpose: a section-chain map whose end is not labelled (see README.md and NOT_COURSES in examples/headless_imported.gd). This file exists for its spawn (below) and its conditional teleports: 185 of the map's 409 teleports sit on its blocks behind `filter_activator`, the anti-standing trap, and 184 trigger_multiples pulse the name that filter passes."
 }

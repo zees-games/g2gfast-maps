@@ -1082,11 +1082,11 @@
  "max_slope": 45.57,
  "spawn": {
   "origin": [
-   -12544,
-   4424.0,
-   8448
+   -3184.0,
+   -840.0,
+   2400.0
   ],
-  "yaw": -90.0
+  "yaw": 180.0
  },
  "spawns": [
   {
@@ -1256,27 +1256,34 @@
    "kind": "START",
    "track": 0,
    "min": [
-    -12800,
-    4224,
-    8192
+    -3312.0,
+    -960.0,
+    2272.0
    ],
    "max": [
-    -12288,
-    4544,
-    8704
+    -3056.0,
+    -768.0,
+    2528.0
    ],
    "inflated": false,
-   "comment": "the spawn room round the 20 info_player_counterterrorist (x -12640..-12448, y -8512..-8384, z 4384); the room's own opening trigger is 64 units tall, thinner than a run at speed crosses in a tick"
+   "destination": [
+    -3184.0,
+    -840.0,
+    2400.0
+   ],
+   "destination_yaw": 180.0,
+   "comment": "round `spawn`, where the spawn room sends you (2026-10-11): 20 team spawns stand in a 512-square holding room whose floor is a teleport to `spawn`, so a player is there a second after appearing. The start was the spawn room until then, and the importer had that floor send back to the spawn, which held every player in the room"
   },
   {
    "kind": "SPAWN",
    "track": 0,
    "destination": [
-    -12544,
-    4424.0,
-    8448
+    -3184.0,
+    -840.0,
+    2400.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 180.0,
+   "comment": "`spawn`, where the spawn room's floor sends you; see the start's note"
   },
   {
    "kind": "END",

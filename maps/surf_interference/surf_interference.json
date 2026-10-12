@@ -337,7 +337,9 @@
     0.4937
    ],
    "texture": "scrolling_screen.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true,
+   "two_sided": true
   },
   {
    "material": "surface",
@@ -1000,7 +1002,9 @@
    "index_offset": 7485684,
    "index_count": 384,
    "texture": "models_env_endthing_endthing_disk_halo.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true,
+   "two_sided": true
   },
   {
    "material": "models/env/fakeskybox/fakeskybox",
@@ -1094,7 +1098,9 @@
    "index_offset": 8089584,
    "index_count": 1080,
    "texture": "models_env_portals_portal_emitter_effect.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true,
+   "two_sided": true
   },
   {
    "material": "models/env/railings/pole/surface",

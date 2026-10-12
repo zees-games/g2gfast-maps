@@ -789,7 +789,8 @@
     0.2498
    ],
    "texture": "surf_lt_glass_cyber_stripes_grey.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true
   },
   {
    "material": "surf_lt/glass_cyber_stripes_grey",
@@ -805,7 +806,8 @@
     0.2498
    ],
    "texture": "surf_lt_glass_cyber_stripes_grey.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true
   },
   {
    "material": "tools/toolsblack",
@@ -1231,7 +1233,8 @@
    "index_offset": 19248652,
    "index_count": 20676,
    "texture": "surf_lt_glass_cyber_stripes_grey.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true
   },
   {
    "material": "models/props/surf_lt/white",

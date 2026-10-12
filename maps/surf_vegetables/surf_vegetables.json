@@ -2730,7 +2730,8 @@
    "index_offset": 2783656,
    "index_count": 216,
    "texture": "de_nightfever_decal_lampe01.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true
   },
   {
    "material": "de_nuke/nukwater_movingplane",

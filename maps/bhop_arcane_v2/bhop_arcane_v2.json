@@ -1042,7 +1042,8 @@
     0.236
    ],
    "texture": "effects_combineshield_comshieldwall.png",
-   "translucent": true
+   "translucent": true,
+   "additive": true
   },
   {
    "material": "environment maps/pipeset_metal",

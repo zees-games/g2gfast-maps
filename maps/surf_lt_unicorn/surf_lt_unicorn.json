@@ -930,7 +930,8 @@
     0.2994
    ],
    "texture": "surf_lt_unicorn_neon_sign_arctic.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true
   },
   {
    "material": "surf_lt_unicorn/neon_sign_c4",
@@ -946,7 +947,8 @@
     0.3133
    ],
    "texture": "surf_lt_unicorn_neon_sign_c4.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true
   },
   {
    "material": "surf_lt_unicorn/neon_sign_cs16",
@@ -962,7 +964,8 @@
     0.29
    ],
    "texture": "surf_lt_unicorn_neon_sign_cs16.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true
   },
   {
    "material": "surf_lt_unicorn/neon_sign_csgo",
@@ -978,7 +981,8 @@
     0.1964
    ],
    "texture": "surf_lt_unicorn_neon_sign_csgo.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true
   },
   {
    "material": "surf_lt_unicorn/neon_sign_css",
@@ -994,7 +998,8 @@
     0.3753
    ],
    "texture": "surf_lt_unicorn_neon_sign_css.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true
   },
   {
    "material": "surf_lt_unicorn/neon_sign_leet",
@@ -1010,7 +1015,8 @@
     0.146
    ],
    "texture": "surf_lt_unicorn_neon_sign_leet.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true
   },
   {
    "material": "surf_lt_unicorn/neon_sign_lt",
@@ -1026,7 +1032,8 @@
     0.2717
    ],
    "texture": "surf_lt_unicorn_neon_sign_lt.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true
   },
   {
    "material": "surf_lt_unicorn/neon_sign_phoenix",
@@ -1042,7 +1049,8 @@
     0.178
    ],
    "texture": "surf_lt_unicorn_neon_sign_phoenix.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true
   },
   {
    "material": "surf_lt_unicorn/neon_sign_sas",
@@ -1058,7 +1066,8 @@
     0.3001
    ],
    "texture": "surf_lt_unicorn_neon_sign_sas.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true
   },
   {
    "material": "surf_lt_unicorn/neon_sign_unicorn",
@@ -1074,7 +1083,8 @@
     0.2296
    ],
    "texture": "surf_lt_unicorn_neon_sign_unicorn.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true
   },
   {
    "material": "surf_lt_unicorn/pure_white",
@@ -1122,7 +1132,9 @@
     0.3121
    ],
    "texture": "surf_lt_unicorn_rainbow.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true,
+   "two_sided": true
   },
   {
    "material": "surf_lt_unicorn/rainbow_bands",
@@ -1138,7 +1150,9 @@
     0.097
    ],
    "texture": "surf_lt_unicorn_rainbow_bands.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true,
+   "two_sided": true
   },
   {
    "material": "surf_lt_unicorn/rainbow_bands_fade",
@@ -1154,7 +1168,9 @@
     0.0474
    ],
    "texture": "surf_lt_unicorn_rainbow_bands_fade.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true,
+   "two_sided": true
   },
   {
    "material": "surf_lt_unicorn/rainbow_fade",
@@ -1170,7 +1186,9 @@
     0.1923
    ],
    "texture": "surf_lt_unicorn_rainbow_fade.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true,
+   "two_sided": true
   },
   {
    "material": "surf_lt_unicorn/rainbow_surf",
@@ -1186,7 +1204,8 @@
     0.5278
    ],
    "texture": "surf_lt_unicorn_rainbow_surf.png",
-   "translucent": true
+   "translucent": true,
+   "additive": true
   },
   {
    "material": "surf_lt_unicorn/rainbow_surf",
@@ -1202,7 +1221,8 @@
     0.5278
    ],
    "texture": "surf_lt_unicorn_rainbow_surf.png",
-   "translucent": true
+   "translucent": true,
+   "additive": true
   },
   {
    "material": "surf_lt_unicorn/rainbow_tube_fade",
@@ -1218,7 +1238,8 @@
     0.8262
    ],
    "texture": "surf_lt_unicorn_rainbow_tube_fade.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true
   },
   {
    "material": "surf_lt_unicorn/rainbow_tube_fade",
@@ -1234,7 +1255,8 @@
     0.8262
    ],
    "texture": "surf_lt_unicorn_rainbow_tube_fade.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true
   },
   {
    "material": "surf_lt_unicorn/rainbow_tube_fade_nocull",
@@ -1250,7 +1272,9 @@
     0.8262
    ],
    "texture": "surf_lt_unicorn_rainbow_tube_fade.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true,
+   "two_sided": true
   },
   {
    "material": "surf_lt_unicorn/water",
@@ -2335,7 +2359,9 @@
    "index_offset": 44520668,
    "index_count": 36672,
    "texture": "surf_lt_unicorn_rainbow.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true,
+   "two_sided": true
   },
   {
    "material": "models/props/surf_lt_unicorn/rainbow_bands",
@@ -2347,7 +2373,9 @@
    "index_offset": 49211596,
    "index_count": 176064,
    "texture": "surf_lt_unicorn_rainbow_bands.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true,
+   "two_sided": true
   },
   {
    "material": "models/props/surf_lt_unicorn/rainbow_bands_fade",
@@ -2359,7 +2387,9 @@
    "index_offset": 49928172,
    "index_count": 462,
    "texture": "surf_lt_unicorn_rainbow_bands_fade.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true,
+   "two_sided": true
   },
   {
    "material": "models/props/surf_lt_unicorn/rainbow_fade",
@@ -2371,7 +2401,9 @@
    "index_offset": 49931780,
    "index_count": 66,
    "texture": "surf_lt_unicorn_rainbow_fade.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true,
+   "two_sided": true
   },
   {
    "material": "models/props/surf_lt_unicorn/rainbow_surf",
@@ -2383,7 +2415,8 @@
    "index_offset": 50253844,
    "index_count": 12150,
    "texture": "surf_lt_unicorn_rainbow_surf.png",
-   "translucent": true
+   "translucent": true,
+   "additive": true
   },
   {
    "material": "models/props/surf_lt_unicorn/rainbow_tube_fade",
@@ -2395,7 +2428,8 @@
    "index_offset": 50528444,
    "index_count": 9978,
    "texture": "surf_lt_unicorn_rainbow_tube_fade.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true
   },
   {
    "material": "models/props/surf_lt_unicorn/rockgranite02a",

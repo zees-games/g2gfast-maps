@@ -189,7 +189,8 @@
     0.4734
    ],
    "texture": "esther_nature_water_seafoam_004_night.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true
   },
   {
    "material": "liquids/militiawater",

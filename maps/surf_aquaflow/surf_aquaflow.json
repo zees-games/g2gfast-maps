@@ -658,7 +658,8 @@
     1.0
    ],
    "texture": "u_bubbles.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true
   },
   {
    "material": "u_glow",
@@ -690,7 +691,9 @@
     1.0
    ],
    "texture": "models_ramps_ramp_glow_volumetric_noclamp.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true,
+   "two_sided": true
   },
   {
    "material": "u_turn",
@@ -706,7 +709,8 @@
     1.0
    ],
    "texture": "u_turn.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true
   },
   {
    "material": "models/corals/coral_13_15_16",
@@ -956,7 +960,8 @@
    "index_offset": 30522088,
    "index_count": 4476,
    "texture": "models_ramps_ramp_glow_volumetric.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true
   },
   {
    "material": "models/ramps/ramp_side",
@@ -980,7 +985,8 @@
    "index_offset": 30673152,
    "index_count": 3456,
    "texture": "white_pixel.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true
   },
   {
    "material": "models/ramps/ramp_special_side",
@@ -992,7 +998,8 @@
    "index_offset": 30709696,
    "index_count": 888,
    "texture": "models_ramps_ramp_special_side.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true
   },
   {
    "material": "models/scrolling1",
@@ -1004,7 +1011,9 @@
    "index_offset": 30749368,
    "index_count": 4608,
    "texture": "models_scrolling1.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true,
+   "two_sided": true
   },
   {
    "material": "models/scrolling2",
@@ -1016,7 +1025,9 @@
    "index_offset": 30798760,
    "index_count": 3840,
    "texture": "models_scrolling2.png",
-   "translucent": false
+   "translucent": false,
+   "additive": true,
+   "two_sided": true
   },
   {
    "material": "models/scrolling_end_1",
