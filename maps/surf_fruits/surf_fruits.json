@@ -4520,9 +4520,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    368.0
+    -733.0,
+    1129.0,
+    32.0
    ],
    "destination_yaw": -90.0
   },
@@ -4541,9 +4541,9 @@
    ],
    "inflated": false,
    "destination": [
-    -11648.0,
-    -1008.0,
-    368.0
+    -733.0,
+    1129.0,
+    32.0
    ],
    "destination_yaw": -90.0
   },
@@ -4562,11 +4562,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -4583,11 +4583,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -4604,11 +4604,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -4625,11 +4625,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -4646,11 +4646,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -4667,11 +4667,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -4688,11 +4688,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -4709,11 +4709,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -4730,11 +4730,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -4751,11 +4751,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -4772,11 +4772,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -4793,11 +4793,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -4814,11 +4814,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -4835,11 +4835,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -4856,11 +4856,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -4877,11 +4877,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -4898,11 +4898,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -4919,11 +4919,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -4940,11 +4940,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -4961,11 +4961,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -4982,11 +4982,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5003,11 +5003,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5024,11 +5024,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5045,11 +5045,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5066,11 +5066,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5087,9 +5087,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -192.0
+    -1480.0,
+    -64.0,
+    -5957.0
    ],
    "destination_yaw": -90.0
   },
@@ -5108,11 +5108,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5129,11 +5129,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5150,11 +5150,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5171,11 +5171,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5192,11 +5192,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5213,11 +5213,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5234,11 +5234,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5255,11 +5255,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5276,11 +5276,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5297,11 +5297,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5318,11 +5318,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5339,11 +5339,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5360,11 +5360,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5381,11 +5381,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5402,11 +5402,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5423,11 +5423,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5444,11 +5444,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5465,11 +5465,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5486,11 +5486,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5507,11 +5507,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5528,11 +5528,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5549,11 +5549,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5570,11 +5570,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5591,11 +5591,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5612,11 +5612,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5633,11 +5633,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5654,11 +5654,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5675,11 +5675,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5696,11 +5696,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5717,11 +5717,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5738,11 +5738,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5759,11 +5759,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5780,11 +5780,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5801,11 +5801,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5822,11 +5822,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5843,11 +5843,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    906.38,
+    1276.0,
+    6264.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -5864,11 +5864,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    368.0
+    -1699.0,
+    -1322.0,
+    2029.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 180.0
   },
   {
    "kind": "RESPAWN",
@@ -5885,11 +5885,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    368.0
+    -1699.0,
+    -1322.0,
+    2029.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 180.0
   },
   {
    "kind": "RESPAWN",
@@ -5906,11 +5906,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    368.0
+    -1699.0,
+    -1322.0,
+    2029.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 180.0
   },
   {
    "kind": "RESPAWN",
@@ -5927,11 +5927,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    368.0
+    -1699.0,
+    -1322.0,
+    2029.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 180.0
   },
   {
    "kind": "RESPAWN",
@@ -5948,11 +5948,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    368.0
+    -1699.0,
+    -1322.0,
+    2029.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 180.0
   },
   {
    "kind": "RESPAWN",
@@ -5969,11 +5969,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    368.0
+    -1699.0,
+    -1322.0,
+    2029.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 180.0
   },
   {
    "kind": "RESPAWN",
@@ -5990,11 +5990,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    368.0
+    -1699.0,
+    -1322.0,
+    2029.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 180.0
   },
   {
    "kind": "RESPAWN",
@@ -6011,11 +6011,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    368.0
+    -1699.0,
+    -1322.0,
+    2029.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 180.0
   },
   {
    "kind": "RESPAWN",
@@ -6032,11 +6032,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    368.0
+    -1699.0,
+    -1322.0,
+    2029.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 180.0
   },
   {
    "kind": "RESPAWN",
@@ -6053,11 +6053,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    368.0
+    -1699.0,
+    -1322.0,
+    2029.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 180.0
   },
   {
    "kind": "RESPAWN",
@@ -6074,11 +6074,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    368.0
+    -1699.0,
+    -1322.0,
+    2029.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 180.0
   },
   {
    "kind": "RESPAWN",
@@ -6095,11 +6095,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    368.0
+    -1699.0,
+    -1322.0,
+    2029.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 180.0
   },
   {
    "kind": "RESPAWN",
@@ -6116,11 +6116,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    368.0
+    -1699.0,
+    -1322.0,
+    2029.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 180.0
   },
   {
    "kind": "RESPAWN",
@@ -6137,11 +6137,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    368.0
+    -1699.0,
+    -1322.0,
+    2029.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 180.0
   },
   {
    "kind": "RESPAWN",
@@ -6158,11 +6158,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    368.0
+    -1699.0,
+    -1322.0,
+    2029.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 180.0
   },
   {
    "kind": "RESPAWN",
@@ -6179,11 +6179,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    368.0
+    -1699.0,
+    -1322.0,
+    2029.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 180.0
   },
   {
    "kind": "RESPAWN",
@@ -6200,11 +6200,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    368.0
+    -1699.0,
+    -1322.0,
+    2029.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 180.0
   },
   {
    "kind": "RESPAWN",
@@ -6221,11 +6221,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    368.0
+    -1699.0,
+    -1322.0,
+    2029.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 180.0
   },
   {
    "kind": "RESPAWN",
@@ -6242,9 +6242,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    368.0
+    -733.0,
+    1129.0,
+    32.0
    ],
    "destination_yaw": -90.0
   },
@@ -6263,9 +6263,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -192.0
+    -1480.0,
+    -64.0,
+    -5957.0
    ],
    "destination_yaw": -90.0
   },
@@ -6284,9 +6284,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -192.0
+    -1480.0,
+    -64.0,
+    -5957.0
    ],
    "destination_yaw": -90.0
   },
@@ -6305,9 +6305,9 @@
    ],
    "inflated": false,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -192.0
+    -1480.0,
+    -64.0,
+    -5957.0
    ],
    "destination_yaw": -90.0
   },
@@ -6326,9 +6326,9 @@
    ],
    "inflated": false,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -192.0
+    -1480.0,
+    -64.0,
+    -5957.0
    ],
    "destination_yaw": -90.0
   },
@@ -6347,11 +6347,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -192.0
+    -1682.0,
+    -1167.0,
+    -5440.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 135.0
   },
   {
    "kind": "RESPAWN",
@@ -6368,9 +6368,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -192.0
+    -1480.0,
+    -64.0,
+    -5957.0
    ],
    "destination_yaw": -90.0
   },
@@ -6389,9 +6389,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -192.0
+    -1480.0,
+    -64.0,
+    -5957.0
    ],
    "destination_yaw": -90.0
   },
@@ -6410,9 +6410,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -192.0
+    -1480.0,
+    -64.0,
+    -5957.0
    ],
    "destination_yaw": -90.0
   },
@@ -6431,9 +6431,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -192.0
+    -1480.0,
+    -64.0,
+    -5957.0
    ],
    "destination_yaw": -90.0
   },
@@ -6452,9 +6452,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -472.0
+    -6119.0,
+    -3304.0,
+    5504.0
    ],
    "destination_yaw": -90.0
   },
@@ -6473,9 +6473,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -472.0
+    -6119.0,
+    -3304.0,
+    5504.0
    ],
    "destination_yaw": -90.0
   },
@@ -6494,9 +6494,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -752.0
+    -8368.0,
+    136.0,
+    -2272.0
    ],
    "destination_yaw": -90.0
   },
@@ -6515,9 +6515,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -752.0
+    -8368.0,
+    136.0,
+    -2272.0
    ],
    "destination_yaw": -90.0
   },
@@ -6536,9 +6536,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -472.0
+    -6119.0,
+    -3304.0,
+    5504.0
    ],
    "destination_yaw": -90.0
   },
@@ -6557,9 +6557,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -752.0
+    -8368.0,
+    136.0,
+    -2272.0
    ],
    "destination_yaw": -90.0
   },
@@ -6578,9 +6578,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -752.0
+    -8368.0,
+    136.0,
+    -2272.0
    ],
    "destination_yaw": -90.0
   },
@@ -6599,9 +6599,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -752.0
+    -8368.0,
+    136.0,
+    -2272.0
    ],
    "destination_yaw": -90.0
   },
@@ -6620,9 +6620,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -752.0
+    -8368.0,
+    136.0,
+    -2272.0
    ],
    "destination_yaw": -90.0
   },
@@ -6641,9 +6641,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -752.0
+    -8368.0,
+    136.0,
+    -2272.0
    ],
    "destination_yaw": -90.0
   },
@@ -6662,9 +6662,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -752.0
+    -8368.0,
+    136.0,
+    -2272.0
    ],
    "destination_yaw": -90.0
   },
@@ -6683,9 +6683,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -752.0
+    -8368.0,
+    136.0,
+    -2272.0
    ],
    "destination_yaw": -90.0
   },
@@ -6704,9 +6704,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -752.0
+    -8368.0,
+    136.0,
+    -2272.0
    ],
    "destination_yaw": -90.0
   },
@@ -6725,9 +6725,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -752.0
+    -8368.0,
+    136.0,
+    -2272.0
    ],
    "destination_yaw": -90.0
   },
@@ -6746,9 +6746,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -752.0
+    -8368.0,
+    136.0,
+    -2272.0
    ],
    "destination_yaw": -90.0
   },
@@ -6767,9 +6767,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -752.0
+    -8368.0,
+    136.0,
+    -2272.0
    ],
    "destination_yaw": -90.0
   },
@@ -6788,9 +6788,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -752.0
+    -8368.0,
+    136.0,
+    -2272.0
    ],
    "destination_yaw": -90.0
   },
@@ -6809,9 +6809,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -6830,9 +6830,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -6851,9 +6851,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -6872,9 +6872,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -6893,9 +6893,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -6914,9 +6914,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -6935,9 +6935,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -6956,9 +6956,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -6977,9 +6977,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -6998,9 +6998,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -7019,9 +7019,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -7040,9 +7040,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -7061,9 +7061,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -7082,9 +7082,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -7103,9 +7103,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -7124,9 +7124,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -7145,9 +7145,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -7166,9 +7166,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -7187,9 +7187,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -7208,9 +7208,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -7229,9 +7229,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -7250,9 +7250,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -7271,9 +7271,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -7292,9 +7292,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -7313,9 +7313,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -7334,9 +7334,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -7355,9 +7355,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -7376,9 +7376,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -7397,9 +7397,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -7418,9 +7418,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -7460,11 +7460,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1032.0
+    2008.0,
+    -5038.0,
+    11342.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -7481,11 +7481,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    648.0
+    -3391.0,
+    -5936.0,
+    -5192.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 90.0
   },
   {
    "kind": "RESPAWN",
@@ -7502,11 +7502,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    648.0
+    -4778.0,
+    -5395.12,
+    -5192.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 90.0
   },
   {
    "kind": "RESPAWN",
@@ -7523,9 +7523,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    -6570.0,
+    1104.0,
+    9016.0
    ],
    "destination_yaw": -90.0
   },
@@ -7544,9 +7544,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    -6570.0,
+    1104.0,
+    9016.0
    ],
    "destination_yaw": -90.0
   },
@@ -7565,9 +7565,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    -6570.0,
+    1104.0,
+    9016.0
    ],
    "destination_yaw": -90.0
   },
@@ -7586,9 +7586,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    -6570.0,
+    1104.0,
+    9016.0
    ],
    "destination_yaw": -90.0
   },
@@ -7607,9 +7607,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    -6570.0,
+    1104.0,
+    9016.0
    ],
    "destination_yaw": -90.0
   },
@@ -7628,9 +7628,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    -6570.0,
+    1104.0,
+    9016.0
    ],
    "destination_yaw": -90.0
   },
@@ -7649,9 +7649,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    -6570.0,
+    1104.0,
+    9016.0
    ],
    "destination_yaw": -90.0
   },
@@ -7670,9 +7670,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    -6570.0,
+    1104.0,
+    9016.0
    ],
    "destination_yaw": -90.0
   },
@@ -7691,9 +7691,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    -6570.0,
+    1104.0,
+    9016.0
    ],
    "destination_yaw": -90.0
   },
@@ -7712,9 +7712,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    -6570.0,
+    1104.0,
+    9016.0
    ],
    "destination_yaw": -90.0
   },
@@ -7733,9 +7733,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    -6570.0,
+    1104.0,
+    9016.0
    ],
    "destination_yaw": -90.0
   },
@@ -7754,9 +7754,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    -6570.0,
+    1104.0,
+    9016.0
    ],
    "destination_yaw": -90.0
   },
@@ -7775,9 +7775,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    -6623.0,
+    1104.0,
+    9016.0
    ],
    "destination_yaw": -90.0
   },
@@ -7796,11 +7796,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    648.0
+    -5956.0,
+    -4804.81,
+    2712.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 91.5
   },
   {
    "kind": "RESPAWN",
@@ -7817,11 +7817,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    648.0
+    -5956.0,
+    -4804.81,
+    2712.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 91.5
   },
   {
    "kind": "RESPAWN",
@@ -7838,11 +7838,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    368.0
+    -1699.0,
+    -1322.0,
+    2029.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 180.0
   },
   {
    "kind": "RESPAWN",
@@ -7859,11 +7859,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    648.0
+    -4778.0,
+    -5395.12,
+    -5192.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 90.0
   },
   {
    "kind": "RESPAWN",
@@ -7880,11 +7880,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    648.0
+    -4778.0,
+    -5395.12,
+    -5192.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 90.0
   },
   {
    "kind": "RESPAWN",
@@ -7901,11 +7901,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    648.0
+    -4778.0,
+    -5395.12,
+    -5192.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 90.0
   },
   {
    "kind": "RESPAWN",
@@ -7922,11 +7922,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    648.0
+    -4778.0,
+    -5395.12,
+    -5192.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 90.0
   },
   {
    "kind": "RESPAWN",
@@ -7943,11 +7943,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    648.0
+    -5956.0,
+    -4804.81,
+    2712.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 91.5
   },
   {
    "kind": "RESPAWN",
@@ -7964,9 +7964,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -7985,9 +7985,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -8006,9 +8006,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -8027,9 +8027,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -8048,9 +8048,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -8069,9 +8069,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -8090,9 +8090,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -8111,9 +8111,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -8132,9 +8132,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -8153,9 +8153,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -8174,9 +8174,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -8195,9 +8195,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -8216,11 +8216,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    648.0
+    -1051.0,
+    -1888.0,
+    2169.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -8237,11 +8237,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    648.0
+    -4778.0,
+    -5395.12,
+    -5192.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 90.0
   },
   {
    "kind": "RESPAWN",
@@ -8258,9 +8258,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
+    -6623.0,
+    1104.0,
+    9016.0
    ],
    "destination_yaw": -90.0
   },
@@ -8279,11 +8279,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    648.0
+    -4778.0,
+    -5395.12,
+    -5192.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 90.0
   },
   {
    "kind": "RESPAWN",
@@ -8300,11 +8300,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1032.0
+    2008.0,
+    -5038.0,
+    11342.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -8321,11 +8321,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1032.0
+    2008.0,
+    -5038.0,
+    11342.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -8342,11 +8342,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1032.0
+    2008.0,
+    -5038.0,
+    11342.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -8363,11 +8363,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1032.0
+    2008.0,
+    -5038.0,
+    11342.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -8384,11 +8384,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1032.0
+    2008.0,
+    -5038.0,
+    11342.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -8405,11 +8405,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1032.0
+    2008.0,
+    -5038.0,
+    11342.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -8426,11 +8426,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1032.0
+    2008.0,
+    -5038.0,
+    11342.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -8447,11 +8447,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1032.0
+    2008.0,
+    -5038.0,
+    11342.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -8468,11 +8468,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1032.0
+    2008.0,
+    -5038.0,
+    11342.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -8489,11 +8489,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1032.0
+    2008.0,
+    -5038.0,
+    11342.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -8510,11 +8510,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1032.0
+    2008.0,
+    -5038.0,
+    11342.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -8531,11 +8531,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1032.0
+    2008.0,
+    -5038.0,
+    11342.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -8552,11 +8552,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1032.0
+    2008.0,
+    -5038.0,
+    11342.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -8573,11 +8573,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1032.0
+    2008.0,
+    -5038.0,
+    11342.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -8594,11 +8594,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1032.0
+    2008.0,
+    -5038.0,
+    11342.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -8615,11 +8615,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1032.0
+    2008.0,
+    -5038.0,
+    11342.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -8636,11 +8636,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1032.0
+    2008.0,
+    -5038.0,
+    11342.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -8657,11 +8657,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1032.0
+    2008.0,
+    -5038.0,
+    11342.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -8678,11 +8678,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1032.0
+    2008.0,
+    -5038.0,
+    11342.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -8699,11 +8699,11 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1032.0
+    2008.0,
+    -5038.0,
+    11342.0
    ],
-   "destination_yaw": -90.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -8720,9 +8720,9 @@
    ],
    "inflated": true,
    "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
+    -7080.5,
+    -3260.0,
+    652.0
    ],
    "destination_yaw": -90.0
   },
@@ -8746,273 +8746,6 @@
     4078.0
    ],
    "destination_yaw": 180.0
-  },
-  {
-   "kind": "RESPAWN",
-   "track": 0,
-   "min": [
-    -13560.0,
-    -6648.0,
-    -6017.0
-   ],
-   "max": [
-    -3288.0,
-    -3776.0,
-    -4392.0
-   ],
-   "inflated": false,
-   "destination": [
-    -11648.0,
-    -1008.0,
-    648.0
-   ],
-   "destination_yaw": -90.0
-  },
-  {
-   "kind": "RESPAWN",
-   "track": 0,
-   "min": [
-    -8528.0,
-    -2672.0,
-    -3048.0
-   ],
-   "max": [
-    -320.0,
-    416.0,
-    -1491.0
-   ],
-   "inflated": false,
-   "destination": [
-    -11648.0,
-    -1008.0,
-    -752.0
-   ],
-   "destination_yaw": -90.0
-  },
-  {
-   "kind": "RESPAWN",
-   "track": 0,
-   "min": [
-    -9760.0,
-    -6888.0,
-    -120.0
-   ],
-   "max": [
-    -4800.0,
-    -3184.0,
-    1424.0
-   ],
-   "inflated": false,
-   "destination": [
-    -11648.0,
-    -1008.0,
-    -1304.0
-   ],
-   "destination_yaw": -90.0
-  },
-  {
-   "kind": "RESPAWN",
-   "track": 0,
-   "min": [
-    -6192.0,
-    -4760.0,
-    4984.0
-   ],
-   "max": [
-    -536.0,
-    -3208.0,
-    6024.0
-   ],
-   "inflated": false,
-   "destination": [
-    -11648.0,
-    -1008.0,
-    -472.0
-   ],
-   "destination_yaw": -90.0
-  },
-  {
-   "kind": "RESPAWN",
-   "track": 0,
-   "min": [
-    1216.0,
-    -8632.0,
-    -4736.0
-   ],
-   "max": [
-    2800.0,
-    -4840.0,
-    11408.0
-   ],
-   "inflated": false,
-   "destination": [
-    -11648.0,
-    -1008.0,
-    -1032.0
-   ],
-   "destination_yaw": -90.0
-  },
-  {
-   "kind": "RESPAWN",
-   "track": 0,
-   "min": [
-    -7320.0,
-    -5480.0,
-    2480.0
-   ],
-   "max": [
-    -5920.0,
-    -4664.0,
-    4352.0
-   ],
-   "inflated": false,
-   "destination": [
-    -11648.0,
-    -1008.0,
-    648.0
-   ],
-   "destination_yaw": -90.0
-  },
-  {
-   "kind": "RESPAWN",
-   "track": 0,
-   "min": [
-    -7527.0,
-    -6632.0,
-    8408.0
-   ],
-   "max": [
-    -2616.0,
-    1192.0,
-    9624.0
-   ],
-   "inflated": false,
-   "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
-   ],
-   "destination_yaw": -90.0
-  },
-  {
-   "kind": "RESPAWN",
-   "track": 0,
-   "min": [
-    -1920.0,
-    -3952.0,
-    1784.0
-   ],
-   "max": [
-    -1488.0,
-    -1256.0,
-    3280.0
-   ],
-   "inflated": false,
-   "destination": [
-    -11648.0,
-    -1008.0,
-    368.0
-   ],
-   "destination_yaw": -90.0
-  },
-  {
-   "kind": "RESPAWN",
-   "track": 0,
-   "min": [
-    -2088.0,
-    -2112.0,
-    -6040.0
-   ],
-   "max": [
-    -360.0,
-    112.0,
-    -3808.0
-   ],
-   "inflated": false,
-   "destination": [
-    -11648.0,
-    -1008.0,
-    -192.0
-   ],
-   "destination_yaw": -90.0
-  },
-  {
-   "kind": "RESPAWN",
-   "track": 0,
-   "min": [
-    -2944.0,
-    -464.0,
-    -640.0
-   ],
-   "max": [
-    -272.0,
-    1360.0,
-    696.0
-   ],
-   "inflated": false,
-   "destination": [
-    -11648.0,
-    -1008.0,
-    368.0
-   ],
-   "destination_yaw": -90.0
-  },
-  {
-   "kind": "RESPAWN",
-   "track": 0,
-   "min": [
-    -1304.0,
-    -2000.0,
-    1536.0
-   ],
-   "max": [
-    -808.0,
-    -1727.0,
-    2208.0
-   ],
-   "inflated": false,
-   "destination": [
-    -11648.0,
-    -1008.0,
-    648.0
-   ],
-   "destination_yaw": -90.0
-  },
-  {
-   "kind": "RESPAWN",
-   "track": 0,
-   "min": [
-    -3760.0,
-    -2152.0,
-    1536.0
-   ],
-   "max": [
-    -2816.0,
-    -1728.0,
-    3752.0
-   ],
-   "inflated": false
-  },
-  {
-   "kind": "RESPAWN",
-   "track": 0,
-   "min": [
-    712.0,
-    -3472.0,
-    -6656.0
-   ],
-   "max": [
-    2432.0,
-    1800.0,
-    6472.0
-   ],
-   "inflated": false,
-   "destination": [
-    -11648.0,
-    -1008.0,
-    88.0
-   ],
-   "destination_yaw": -90.0
   },
   {
    "kind": "RESPAWN",
@@ -14849,357 +14582,6 @@
     -10040.0,
     -4337.0,
     -2408.0
-   ]
-  },
-  {
-   "min": [
-    -13560.0,
-    4392.0,
-    -6648.0
-   ],
-   "max": [
-    -3288.0,
-    6017.0,
-    -3776.0
-   ],
-   "inflated": false,
-   "hung": false,
-   "cleared": false,
-   "trimmed": false,
-   "track": 0,
-   "original_min": [
-    -13560.0,
-    4392.0,
-    -6648.0
-   ],
-   "original_max": [
-    -3288.0,
-    6017.0,
-    -3776.0
-   ]
-  },
-  {
-   "min": [
-    -8528.0,
-    1491.0,
-    -2672.0
-   ],
-   "max": [
-    -320.0,
-    3048.0,
-    416.0
-   ],
-   "inflated": false,
-   "hung": false,
-   "cleared": false,
-   "trimmed": false,
-   "track": 0,
-   "original_min": [
-    -8528.0,
-    1491.0,
-    -2672.0
-   ],
-   "original_max": [
-    -320.0,
-    3048.0,
-    416.0
-   ]
-  },
-  {
-   "min": [
-    -9760.0,
-    -1424.0,
-    -6888.0
-   ],
-   "max": [
-    -4800.0,
-    120.0,
-    -3184.0
-   ],
-   "inflated": false,
-   "hung": false,
-   "cleared": false,
-   "trimmed": false,
-   "track": 0,
-   "original_min": [
-    -9760.0,
-    -1424.0,
-    -6888.0
-   ],
-   "original_max": [
-    -4800.0,
-    120.0,
-    -3184.0
-   ]
-  },
-  {
-   "min": [
-    -6192.0,
-    -6024.0,
-    -4760.0
-   ],
-   "max": [
-    -536.0,
-    -4984.0,
-    -3208.0
-   ],
-   "inflated": false,
-   "hung": false,
-   "cleared": false,
-   "trimmed": false,
-   "track": 0,
-   "original_min": [
-    -6192.0,
-    -6024.0,
-    -4760.0
-   ],
-   "original_max": [
-    -536.0,
-    -4984.0,
-    -3208.0
-   ]
-  },
-  {
-   "min": [
-    1216.0,
-    -11408.0,
-    -8632.0
-   ],
-   "max": [
-    2800.0,
-    4736.0,
-    -4840.0
-   ],
-   "inflated": false,
-   "hung": false,
-   "cleared": false,
-   "trimmed": false,
-   "track": 0,
-   "original_min": [
-    1216.0,
-    -11408.0,
-    -8632.0
-   ],
-   "original_max": [
-    2800.0,
-    4736.0,
-    -4840.0
-   ]
-  },
-  {
-   "min": [
-    -7320.0,
-    -4352.0,
-    -5480.0
-   ],
-   "max": [
-    -5920.0,
-    -2480.0,
-    -4664.0
-   ],
-   "inflated": false,
-   "hung": false,
-   "cleared": false,
-   "trimmed": false,
-   "track": 0,
-   "original_min": [
-    -7320.0,
-    -4352.0,
-    -5480.0
-   ],
-   "original_max": [
-    -5920.0,
-    -2480.0,
-    -4664.0
-   ]
-  },
-  {
-   "min": [
-    -7527.0,
-    -9624.0,
-    -6632.0
-   ],
-   "max": [
-    -2616.0,
-    -8408.0,
-    1192.0
-   ],
-   "inflated": false,
-   "hung": false,
-   "cleared": false,
-   "trimmed": false,
-   "track": 0,
-   "original_min": [
-    -7527.0,
-    -9624.0,
-    -6632.0
-   ],
-   "original_max": [
-    -2616.0,
-    -8408.0,
-    1192.0
-   ]
-  },
-  {
-   "min": [
-    -1920.0,
-    -3280.0,
-    -3952.0
-   ],
-   "max": [
-    -1488.0,
-    -1784.0,
-    -1256.0
-   ],
-   "inflated": false,
-   "hung": false,
-   "cleared": false,
-   "trimmed": false,
-   "track": 0,
-   "original_min": [
-    -1920.0,
-    -3280.0,
-    -3952.0
-   ],
-   "original_max": [
-    -1488.0,
-    -1784.0,
-    -1256.0
-   ]
-  },
-  {
-   "min": [
-    -2088.0,
-    3808.0,
-    -2112.0
-   ],
-   "max": [
-    -360.0,
-    6040.0,
-    112.0
-   ],
-   "inflated": false,
-   "hung": false,
-   "cleared": false,
-   "trimmed": false,
-   "track": 0,
-   "original_min": [
-    -2088.0,
-    3808.0,
-    -2112.0
-   ],
-   "original_max": [
-    -360.0,
-    6040.0,
-    112.0
-   ]
-  },
-  {
-   "min": [
-    -2944.0,
-    -696.0,
-    -464.0
-   ],
-   "max": [
-    -272.0,
-    640.0,
-    1360.0
-   ],
-   "inflated": false,
-   "hung": false,
-   "cleared": false,
-   "trimmed": false,
-   "track": 0,
-   "original_min": [
-    -2944.0,
-    -696.0,
-    -464.0
-   ],
-   "original_max": [
-    -272.0,
-    640.0,
-    1360.0
-   ]
-  },
-  {
-   "min": [
-    -1304.0,
-    -2208.0,
-    -2000.0
-   ],
-   "max": [
-    -808.0,
-    -1536.0,
-    -1727.0
-   ],
-   "inflated": false,
-   "hung": false,
-   "cleared": false,
-   "trimmed": false,
-   "track": 0,
-   "original_min": [
-    -1304.0,
-    -2208.0,
-    -2000.0
-   ],
-   "original_max": [
-    -808.0,
-    -1536.0,
-    -1727.0
-   ]
-  },
-  {
-   "min": [
-    -3760.0,
-    -3752.0,
-    -2152.0
-   ],
-   "max": [
-    -2816.0,
-    -1536.0,
-    -1728.0
-   ],
-   "inflated": false,
-   "hung": false,
-   "cleared": false,
-   "trimmed": false,
-   "track": 0,
-   "original_min": [
-    -3760.0,
-    -3752.0,
-    -2152.0
-   ],
-   "original_max": [
-    -2816.0,
-    -1536.0,
-    -1728.0
-   ]
-  },
-  {
-   "min": [
-    712.0,
-    -6472.0,
-    -3472.0
-   ],
-   "max": [
-    2432.0,
-    6656.0,
-    1800.0
-   ],
-   "inflated": false,
-   "hung": false,
-   "cleared": false,
-   "trimmed": false,
-   "track": 0,
-   "original_min": [
-    712.0,
-    -6472.0,
-    -3472.0
-   ],
-   "original_max": [
-    2432.0,
-    6656.0,
-    1800.0
    ]
   },
   {
