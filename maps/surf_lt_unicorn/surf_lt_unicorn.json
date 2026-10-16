@@ -16170,21 +16170,6 @@
   },
   {
    "kind": "RESPAWN",
-   "track": 0,
-   "min": [
-    -15616.0,
-    -16352.0,
-    -16352.0
-   ],
-   "max": [
-    16352.0,
-    -6656.0,
-    4096.0
-   ],
-   "inflated": false
-  },
-  {
-   "kind": "RESPAWN",
    "track": 3,
    "min": [
     2832.0,
@@ -16196,7 +16181,13 @@
     -6585.0,
     -8336.0
    ],
-   "inflated": true
+   "inflated": true,
+   "destination": [
+    2928.0,
+    -8168.0,
+    -8432.0
+   ],
+   "destination_yaw": 90.0
   },
   {
    "kind": "RESPAWN",
@@ -16211,7 +16202,13 @@
     -6476.0,
     -8433.0
    ],
-   "inflated": true
+   "inflated": true,
+   "destination": [
+    2928.0,
+    -8168.0,
+    -8432.0
+   ],
+   "destination_yaw": 90.0
   },
   {
    "kind": "RESPAWN",
@@ -16226,7 +16223,13 @@
     -6476.0,
     -8336.0
    ],
-   "inflated": true
+   "inflated": true,
+   "destination": [
+    2928.0,
+    -8168.0,
+    -8432.0
+   ],
+   "destination_yaw": 90.0
   },
   {
    "kind": "RESPAWN",
@@ -16241,7 +16244,13 @@
     -6476.0,
     -8336.0
    ],
-   "inflated": true
+   "inflated": true,
+   "destination": [
+    2928.0,
+    -8168.0,
+    -8432.0
+   ],
+   "destination_yaw": 90.0
   },
   {
    "kind": "RESPAWN",
@@ -16256,7 +16265,13 @@
     -6476.0,
     -8310.0
    ],
-   "inflated": true
+   "inflated": true,
+   "destination": [
+    2928.0,
+    -8168.0,
+    -8432.0
+   ],
+   "destination_yaw": 90.0
   },
   {
    "kind": "RESPAWN",
@@ -16271,7 +16286,13 @@
     -6422.0,
     -8336.0
    ],
-   "inflated": true
+   "inflated": true,
+   "destination": [
+    2928.0,
+    -8168.0,
+    -8432.0
+   ],
+   "destination_yaw": 90.0
   },
   {
    "kind": "RESPAWN",
@@ -56005,33 +56026,6 @@
     -5168.0,
     -1600.99810791,
     7442.413272180696
-   ]
-  },
-  {
-   "min": [
-    -15616.0,
-    -4096.0,
-    -16352.0
-   ],
-   "max": [
-    16352.0,
-    16352.0,
-    -6656.0
-   ],
-   "inflated": false,
-   "hung": false,
-   "cleared": false,
-   "trimmed": false,
-   "track": 0,
-   "original_min": [
-    -15616.0,
-    -4096.0,
-    -16352.0
-   ],
-   "original_max": [
-    16352.0,
-    16352.0,
-    -6656.0
    ]
   },
   {
