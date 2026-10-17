@@ -123,12 +123,6 @@
       "bytes": 37061754
     },
     {
-      "id": "bhop_mario_fxd",
-      "author": "DroN (SWM|DroN)",
-      "source": "https://gamebanana.com/mods/125494",
-      "bytes": 14233039
-    },
-    {
       "id": "bhop_monster_jam",
       "author": "monster jam and Aoki",
       "source": "https://gamebanana.com/mods/125558",
@@ -163,6 +157,12 @@
       "author": "Roady",
       "source": "https://gamebanana.com/mods/453100",
       "bytes": 12058111
+    },
+    {
+      "id": "bhop_platformer_fxd",
+      "author": "DroN (SWM|DroN)",
+      "source": "https://gamebanana.com/mods/125494",
+      "bytes": 14234265
     },
     {
       "id": "bhop_sqee",
@@ -402,7 +402,7 @@
       "id": "surf_lt_unicorn",
       "author": "nyro",
       "source": "https://gamebanana.com/mods/122471",
-      "bytes": 79311784
+      "bytes": 79311798
     },
     {
       "id": "surf_machine2",
@@ -498,7 +498,7 @@
       "id": "surf_ski_2_source",
       "author": "Korliki ''Angel",
       "source": "https://gamebanana.com/mods/122956",
-      "bytes": 3378849
+      "bytes": 3378855
     },
     {
       "id": "surf_skyworld",

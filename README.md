@@ -53,10 +53,10 @@ tools/g2gmaps fetch --pub path/to/content.pub
 | `bhop_grove` | Tony Montana | https://gamebanana.com/mods/125167 |
 | `bhop_interloper` | Tony Montana | https://gamebanana.com/mods/125285 |
 | `bhop_lego2` | Tony Montana (tmontana) | https://gamebanana.com/mods/125408 |
-| `bhop_mario_fxd` | DroN (SWM/DroN) | https://gamebanana.com/mods/125494 |
 | `bhop_monster_jam` | monster jam and Aoki | https://gamebanana.com/mods/125558 |
 | `bhop_pandora2_fix` | Sonia_ (map); skybox Mr.Who; textures Wolves Hero and Sonia_; original bhop_pandora video/advice tmontana | https://gamebanana.com/mods/125705 |
 | `bhop_pit` | Roady | https://gamebanana.com/mods/453100 |
+| `bhop_platformer_fxd` | DroN (SWM/DroN); published on GameBanana under its original title `bhop_mario_fxd`, renamed here to a neutral id | https://gamebanana.com/mods/125494 |
 | `bhop_supernova` | Sonia_ (map design) and Benchmarked (gameplay); skybox Mr.Who; textures TopHATTwaffle and Sonia_; testers Juked, tricksterr, plar, samurai; Subnautica models by Unknown Worlds Entertainment | https://gamebanana.com/mods/313046 |
 | `bhop_tesquo_v2` | george (GeorgeRulesLOL); 'Made a stage': Jagg | https://gamebanana.com/mods/126185 |
 | `buses_from_hell_fixed` | siXMan | https://gamebanana.com/mods/127607 |
