@@ -4,7 +4,9 @@ Every map here is somebody else's work, made for the genre years ago and importe
 
 ## Why the maps are not in the game's repository
 
-A player joining a server downloads the map that is running, not every map there is. So each map is published as its own signed pack, `gamemann/<map id>`, and game-g2gfast fetches the one it needs when the map changes. Keeping them here means a map can be added, fixed or withdrawn without a release of the game, and 570 MB of maps does not ride along with every clone of the game's code.
+A player joining a server downloads the map that is running, not every map there is. So each map is published as its own signed pack, `gamemann/<map id>`, and game-g2gfast fetches the one it needs when the map changes. Keeping them here means a map can be added, fixed or withdrawn without a release of the game, and 1.5 GB of maps does not ride along with every clone of the game's code.
+
+Combat surf maps (a deathmatch to fight on, not a course to time) are not kept here: they live in `arena-surf-dm-maps`.
 
 ## Layout
 

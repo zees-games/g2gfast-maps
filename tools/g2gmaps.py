@@ -89,7 +89,12 @@ def cmd_manifest(args: argparse.Namespace) -> None:
         zone = zones / f"{mid}.json"
         credit = {}
         if zone.is_file():
-            credit = json.loads(zone.read_text()).get("attribution") or {}
+            zdoc = json.loads(zone.read_text())
+            if zdoc.get("kind") == "arena":
+                # Combat surf lives in arena-surf-dm-maps; refused rather than skipped so
+                # a stray copy is noticed and deleted instead of quietly left unpublished.
+                die(f"{mid} is kind \"arena\": combat surf maps belong in ../arena-surf-dm-maps, not here", 2)
+            credit = zdoc.get("attribution") or {}
         if not credit.get("author"):
             uncredited.append(mid)
         maps.append({
