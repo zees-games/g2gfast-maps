@@ -1536,25 +1536,77 @@
    ],
    "texture": "textury_zz14.png",
    "translucent": false
+  },
+  {
+   "material": "concrete/standin_block",
+   "role": "FLOOR",
+   "prototype": true,
+   "prop": true,
+   "vertex_offset": 2252332,
+   "vertex_count": 48,
+   "index_offset": 2254252,
+   "index_count": 72,
+   "colour": [
+    0.626,
+    0.5715,
+    0.4853
+   ],
+   "texture": null,
+   "translucent": false
+  },
+  {
+   "material": "wood/standin_basket",
+   "role": "FLOOR",
+   "prototype": true,
+   "prop": true,
+   "vertex_offset": 2254540,
+   "vertex_count": 240,
+   "index_offset": 2264140,
+   "index_count": 360,
+   "colour": [
+    0.626,
+    0.5715,
+    0.4853
+   ],
+   "texture": null,
+   "translucent": false
+  },
+  {
+   "material": "wood/standin_crate",
+   "role": "FLOOR",
+   "prototype": true,
+   "prop": true,
+   "vertex_offset": 2265580,
+   "vertex_count": 480,
+   "index_offset": 2284780,
+   "index_count": 720,
+   "colour": [
+    0.626,
+    0.5715,
+    0.4853
+   ],
+   "texture": null,
+   "translucent": false
   }
  ],
  "collision": {
-  "hull_count": 737,
-  "hull_offset": 2252332,
-  "displacement_vertex_offset": 2339724,
+  "hull_count": 769,
+  "hull_offset": 2287660,
+  "displacement_vertex_offset": 2378252,
   "displacement_vertex_count": 19679,
-  "displacement_index_offset": 2575872,
+  "displacement_index_offset": 2614400,
   "displacement_index_count": 112128,
   "playerclip_hulls": 2,
-  "prop_hulls": 0
+  "prop_hulls": 32
  },
  "skybox": null,
  "static_props": {
   "placed": 133,
-  "drawn": 0,
+  "drawn": 32,
   "stock_models": 133,
-  "surfaces": 0,
-  "tinted": 0,
+  "stock_standins": 32,
+  "surfaces": 3,
+  "tinted": 3,
   "open_sky_lit": 0
  },
  "brush_entities": {
