@@ -49,6 +49,10 @@
    ],
    "enabled": true
   },
+  "exposure": {
+   "min": 0.2,
+   "max": 1.0
+  },
   "sky_name": "fokgjdshlj_noskyboxpls",
   "sky_camera": {
    "origin": [

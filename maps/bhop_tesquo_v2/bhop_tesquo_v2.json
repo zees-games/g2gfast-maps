@@ -38,6 +38,10 @@
    "ambient_brightness": 100.0,
    "spread_degrees": 0.0
   },
+  "exposure": {
+   "min": 0.15,
+   "max": 0.7
+  },
   "sky_name": "mpa104",
   "sky_camera": {
    "origin": [

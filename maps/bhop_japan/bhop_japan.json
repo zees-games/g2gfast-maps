@@ -48,6 +48,10 @@
    ],
    "enabled": true
   },
+  "exposure": {
+   "max": 0.75,
+   "min": 0.35
+  },
   "sky_name": "militia_hdr",
   "sky_camera": {
    "origin": [

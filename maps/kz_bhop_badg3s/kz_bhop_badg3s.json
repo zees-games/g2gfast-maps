@@ -38,6 +38,10 @@
    "ambient_brightness": 60.0,
    "spread_degrees": 5.0
   },
+  "exposure": {
+   "max": 5.0,
+   "min": 0.8
+  },
   "sky_name": "stormydays_",
   "baked_light_count": 183,
   "sky_faces": {

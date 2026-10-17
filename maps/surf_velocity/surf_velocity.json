@@ -38,6 +38,10 @@
    "ambient_brightness": 20.0,
    "spread_degrees": 5.0
   },
+  "exposure": {
+   "max": 2.0,
+   "min": 0.8
+  },
   "sky_name": "sky_day01_01",
   "baked_light_count": 480
  },

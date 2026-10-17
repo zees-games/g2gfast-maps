@@ -38,6 +38,10 @@
    "ambient_brightness": 70.0,
    "spread_degrees": 2.5
   },
+  "exposure": {
+   "min": 0.9,
+   "max": 1.0
+  },
   "sky_name": "mpa104",
   "baked_light_count": 15,
   "sky_faces": {

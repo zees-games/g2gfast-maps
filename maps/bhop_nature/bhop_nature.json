@@ -37,6 +37,10 @@
    ],
    "ambient_brightness": 20.0
   },
+  "exposure": {
+   "max": 1.7,
+   "min": 0.4
+  },
   "sky_name": "mpa88",
   "baked_light_count": 173,
   "sky_faces": {
