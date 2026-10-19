@@ -66,6 +66,7 @@ tools/g2gmaps fetch --pub path/to/content.pub
 | `surf_arcade` | maz64 (maz) | https://gamebanana.com/mods/137716 |
 | `surf_beginner2` | Kiiru | https://gamebanana.com/mods/137722 |
 | `surf_greensway` | NvC_DmN_CH | https://gamebanana.com/mods/137798 |
+| `surf_hologram` | Chent (a Source 2 map, converted with ValveResourceFormat) | https://gamebanana.com/mods/525468 |
 | `surf_interference` | NvC_DmN_CH | https://gamebanana.com/mods/137815 |
 | `surf_kitsune` | Arblarg | https://gamebanana.com/mods/122382 |
 | `surf_mesa` | Arblarg | https://gamebanana.com/mods/122542 |

@@ -1,0 +1,974 @@
+{
+ "id": "surf_hologram",
+ "source": "surf_test_2.vpk",
+ "units": "genre units (Source units), Godot axes; x metres = x * 0.01905",
+ "tier": 1,
+ "bounds": {
+  "min": [
+   -7309.623778335692,
+   -7511.997373085323,
+   16377.623550535187
+  ],
+  "max": [
+   7309.656218280943,
+   16047.99886388103,
+   -14223.998062253937
+  ]
+ },
+ "lightmap": {
+  "file": "surf_hologram_lightmap.png",
+  "width": 8,
+  "height": 8
+ },
+ "lighting": {
+  "sun": {
+   "yaw_src": 45.0,
+   "pitch_src": -45.0,
+   "colour": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "brightness": 400.0
+  },
+  "sky_name": "sky_day01_01",
+  "baked_light_count": 258
+ },
+ "surfaces": [
+  {
+   "material": "full_ramp_end_mat",
+   "role": "FLOOR",
+   "prototype": true,
+   "vertex_offset": 0,
+   "vertex_count": 210,
+   "index_offset": 8400,
+   "index_count": 378,
+   "texture": null,
+   "translucent": false,
+   "colour": [
+    0.8,
+    0.5,
+    0.2
+   ]
+  },
+  {
+   "material": "full_ramp_end_mat",
+   "role": "PLATFORM",
+   "prototype": true,
+   "vertex_offset": 9912,
+   "vertex_count": 5,
+   "index_offset": 10112,
+   "index_count": 9,
+   "texture": null,
+   "translucent": false,
+   "colour": [
+    0.8,
+    0.5,
+    0.2
+   ]
+  },
+  {
+   "material": "full_ramp_end_mat",
+   "role": "RAMP",
+   "prototype": true,
+   "vertex_offset": 10148,
+   "vertex_count": 42,
+   "index_offset": 11828,
+   "index_count": 72,
+   "texture": null,
+   "translucent": false,
+   "colour": [
+    0.8,
+    0.5,
+    0.2
+   ]
+  },
+  {
+   "material": "half_ramp_end_flip_mat",
+   "role": "FLOOR",
+   "prototype": true,
+   "vertex_offset": 12116,
+   "vertex_count": 52,
+   "index_offset": 14196,
+   "index_count": 78,
+   "texture": null,
+   "translucent": false,
+   "colour": [
+    0.8,
+    0.5,
+    0.2
+   ]
+  },
+  {
+   "material": "half_ramp_end_flip_mat",
+   "role": "RAMP",
+   "prototype": true,
+   "vertex_offset": 14508,
+   "vertex_count": 8,
+   "index_offset": 14828,
+   "index_count": 12,
+   "texture": null,
+   "translucent": false,
+   "colour": [
+    0.8,
+    0.5,
+    0.2
+   ]
+  },
+  {
+   "material": "half_ramp_end_mat",
+   "role": "FLOOR",
+   "prototype": true,
+   "vertex_offset": 14876,
+   "vertex_count": 20,
+   "index_offset": 15676,
+   "index_count": 30,
+   "texture": null,
+   "translucent": false,
+   "colour": [
+    0.8,
+    0.5,
+    0.2
+   ]
+  },
+  {
+   "material": "half_ramp_end_mat",
+   "role": "RAMP",
+   "prototype": true,
+   "vertex_offset": 15796,
+   "vertex_count": 8,
+   "index_offset": 16116,
+   "index_count": 12,
+   "texture": null,
+   "translucent": false,
+   "colour": [
+    0.8,
+    0.5,
+    0.2
+   ]
+  },
+  {
+   "material": "ramp_surf_side_mat",
+   "role": "FLOOR",
+   "prototype": true,
+   "vertex_offset": 16164,
+   "vertex_count": 70,
+   "index_offset": 18964,
+   "index_count": 108,
+   "texture": null,
+   "translucent": false,
+   "colour": [
+    0.25,
+    0.45,
+    0.75
+   ]
+  },
+  {
+   "material": "ramp_surf_side_mat",
+   "role": "PLATFORM",
+   "prototype": true,
+   "vertex_offset": 19396,
+   "vertex_count": 47,
+   "index_offset": 21276,
+   "index_count": 69,
+   "texture": null,
+   "translucent": false,
+   "colour": [
+    0.25,
+    0.45,
+    0.75
+   ]
+  },
+  {
+   "material": "ramp_surf_side_mat",
+   "role": "RAMP",
+   "prototype": true,
+   "vertex_offset": 21552,
+   "vertex_count": 1704,
+   "index_offset": 89712,
+   "index_count": 2487,
+   "texture": null,
+   "translucent": false,
+   "colour": [
+    0.25,
+    0.45,
+    0.75
+   ]
+  },
+  {
+   "material": "reflectivity_30",
+   "role": "FLOOR",
+   "prototype": true,
+   "vertex_offset": 99660,
+   "vertex_count": 2830,
+   "index_offset": 212860,
+   "index_count": 4956,
+   "texture": null,
+   "translucent": false,
+   "colour": [
+    0.55,
+    0.55,
+    0.58
+   ]
+  },
+  {
+   "material": "reflectivity_30",
+   "role": "PLATFORM",
+   "prototype": true,
+   "vertex_offset": 232684,
+   "vertex_count": 337,
+   "index_offset": 246164,
+   "index_count": 639,
+   "texture": null,
+   "translucent": false,
+   "colour": [
+    0.55,
+    0.55,
+    0.58
+   ]
+  },
+  {
+   "material": "reflectivity_30",
+   "role": "RAMP",
+   "prototype": true,
+   "vertex_offset": 248720,
+   "vertex_count": 651,
+   "index_offset": 274760,
+   "index_count": 1077,
+   "texture": null,
+   "translucent": false,
+   "colour": [
+    0.55,
+    0.55,
+    0.58
+   ]
+  },
+  {
+   "material": "reflectivity_31",
+   "role": "FLOOR",
+   "prototype": true,
+   "vertex_offset": 279068,
+   "vertex_count": 37,
+   "index_offset": 280548,
+   "index_count": 75,
+   "texture": null,
+   "translucent": false
+  },
+  {
+   "material": "side_rail_ramp_mat",
+   "role": "FLOOR",
+   "prototype": true,
+   "vertex_offset": 280848,
+   "vertex_count": 4165,
+   "index_offset": 447448,
+   "index_count": 6924,
+   "texture": null,
+   "translucent": false,
+   "colour": [
+    0.2,
+    0.55,
+    0.4
+   ]
+  },
+  {
+   "material": "side_rail_ramp_mat",
+   "role": "PLATFORM",
+   "prototype": true,
+   "vertex_offset": 475144,
+   "vertex_count": 234,
+   "index_offset": 484504,
+   "index_count": 372,
+   "texture": null,
+   "translucent": false,
+   "colour": [
+    0.2,
+    0.55,
+    0.4
+   ]
+  },
+  {
+   "material": "side_rail_ramp_mat",
+   "role": "RAMP",
+   "prototype": true,
+   "vertex_offset": 485992,
+   "vertex_count": 45,
+   "index_offset": 487792,
+   "index_count": 69,
+   "texture": null,
+   "translucent": false,
+   "colour": [
+    0.2,
+    0.55,
+    0.4
+   ]
+  },
+  {
+   "material": "tileable_surf_dec_mat",
+   "role": "FLOOR",
+   "prototype": true,
+   "vertex_offset": 488068,
+   "vertex_count": 1341,
+   "index_offset": 541708,
+   "index_count": 2778,
+   "texture": null,
+   "translucent": false,
+   "colour": [
+    0.4,
+    0.42,
+    0.48
+   ]
+  },
+  {
+   "material": "tileable_surf_dec_mat",
+   "role": "PLATFORM",
+   "prototype": true,
+   "vertex_offset": 552820,
+   "vertex_count": 210,
+   "index_offset": 561220,
+   "index_count": 411,
+   "texture": null,
+   "translucent": false,
+   "colour": [
+    0.4,
+    0.42,
+    0.48
+   ]
+  }
+ ],
+ "collision": {
+  "hull_count": 135,
+  "hull_offset": 562864,
+  "displacement_vertex_offset": 578452,
+  "displacement_vertex_count": 1853,
+  "displacement_index_offset": 600688,
+  "displacement_index_count": 12852,
+  "playerclip_hulls": 0,
+  "prop_hulls": 0
+ },
+ "skybox": null,
+ "static_props": {
+  "placed": 0,
+  "drawn": 0,
+  "stock_models": 0,
+  "stock_standins": 0,
+  "surfaces": 0,
+  "tinted": 0,
+  "open_sky_lit": 0
+ },
+ "brush_entities": {
+  "solid": 0,
+  "faces_drawn": 0
+ },
+ "units_per_square": 64.0,
+ "max_slope": 45.57,
+ "spawn": {
+  "origin": [
+   -1.382111,
+   15204.328125,
+   -11463.423828
+  ],
+  "yaw": 180.0
+ },
+ "spawns": [
+  {
+   "origin": [
+    -34.686981,
+    15180.428711,
+    -12018.360352
+   ],
+   "yaw": 180.0
+  },
+  {
+   "origin": [
+    28.129982,
+    15180.743164,
+    -12012.027344
+   ],
+   "yaw": 180.0
+  },
+  {
+   "origin": [
+    -1.382111,
+    15180.328125,
+    -11463.423828
+   ],
+   "yaw": 180.0
+  }
+ ],
+ "min_zone_thickness": 192.0,
+ "zones": [
+  {
+   "kind": "START",
+   "track": 0,
+   "min": [
+    -319.99803694868405,
+    15166.179231699065,
+    -12255.99735951908
+   ],
+   "max": [
+    320.00170973595533,
+    15358.179231699065,
+    -11327.998703473046
+   ],
+   "inflated": true,
+   "destination": [
+    -1.382111,
+    15204.328125,
+    -11463.423828
+   ],
+   "destination_yaw": 180.0,
+   "comment": "map_start"
+  },
+  {
+   "kind": "END",
+   "track": 0,
+   "min": [
+    -1280.0003129284114,
+    -4319.9981049165435,
+    -13061.42745256303
+   ],
+   "max": [
+    1279.9994298341694,
+    -3095.997958164408,
+    -11237.427434631338
+   ],
+   "inflated": false,
+   "comment": "map_end"
+  },
+  {
+   "kind": "SPAWN",
+   "track": 0,
+   "destination": [
+    -1.382111,
+    15204.328125,
+    -11463.423828
+   ],
+   "destination_yaw": 180.0,
+   "comment": "the spawn for main"
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -2405.0517573104808,
+    4989.326466934371,
+    -876.010347073554
+   ],
+   "max": [
+    2415.9997303329965,
+    7437.58660998171,
+    5540.000605648904
+   ],
+   "inflated": false,
+   "destination": [
+    -1.382111,
+    15204.328125,
+    -11463.423828
+   ],
+   "destination_yaw": 180.0,
+   "comment": "spawn"
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -4400.00035058205,
+    -7279.998803779527,
+    -13983.99752832673
+   ],
+   "max": [
+    4423.998267441047,
+    -7087.998803779527,
+    9103.999887670547
+   ],
+   "inflated": true,
+   "destination": [
+    -1.382111,
+    15204.328125,
+    -11463.423828
+   ],
+   "destination_yaw": 180.0,
+   "comment": "spawn"
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -7167.99839012987,
+    2063.9996088188977,
+    -11263.998527378615
+   ],
+   "max": [
+    7167.998387114081,
+    2255.9996088188977,
+    11887.997582496724
+   ],
+   "inflated": true,
+   "destination": [
+    -1.382111,
+    15204.328125,
+    -11463.423828
+   ],
+   "destination_yaw": 180.0,
+   "comment": "spawn"
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    4448.000206543834,
+    4991.997251653544,
+    11887.998324301281
+   ],
+   "max": [
+    7167.999782012074,
+    5183.997251653544,
+    15920.001675698722
+   ],
+   "inflated": true,
+   "destination": [
+    -1.382111,
+    15204.328125,
+    -11463.423828
+   ],
+   "destination_yaw": 180.0,
+   "comment": "spawn"
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -7167.998218653016,
+    4991.997251653544,
+    11887.999111702857
+   ],
+   "max": [
+    -4447.998643184776,
+    5183.997251653544,
+    15920.002463100296
+   ],
+   "inflated": true,
+   "destination": [
+    -1.382111,
+    15204.328125,
+    -11463.423828
+   ],
+   "destination_yaw": 180.0,
+   "comment": "spawn"
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -1279.9995137326996,
+    1272.0012517945793,
+    -13167.998468264948
+   ],
+   "max": [
+    1279.9998408844567,
+    1464.0012517945793,
+    -11343.99857240358
+   ],
+   "inflated": true,
+   "destination": [
+    -1.382111,
+    15204.328125,
+    -11463.423828
+   ],
+   "destination_yaw": 180.0,
+   "comment": "spawn"
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -1295.9996991015892,
+    504.0011341191821,
+    -11327.99760678543
+   ],
+   "max": [
+    1279.9998971364687,
+    696.0011341191821,
+    -9487.996490833435
+   ],
+   "inflated": true,
+   "destination": [
+    -1.382111,
+    15204.328125,
+    -11463.423828
+   ],
+   "destination_yaw": 180.0,
+   "comment": "spawn"
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -1279.9998726916604,
+    -711.9984295875602,
+    -13152.137489230883
+   ],
+   "max": [
+    1279.9994819255023,
+    -519.9984295875602,
+    -11327.99916565694
+   ],
+   "inflated": true,
+   "destination": [
+    -1.382111,
+    15204.328125,
+    -11463.423828
+   ],
+   "destination_yaw": 180.0,
+   "comment": "spawn"
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    4319.968930480438,
+    -3087.9998349606303,
+    -1216.0002253203488
+   ],
+   "max": [
+    5519.998774610903,
+    -2895.9998349606303,
+    8031.999437918775
+   ],
+   "inflated": true,
+   "destination": [
+    -1.382111,
+    15204.328125,
+    -11463.423828
+   ],
+   "destination_yaw": 180.0,
+   "comment": "spawn"
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -5552.029494716412,
+    -3087.9998349606303,
+    -1215.999044217987
+   ],
+   "max": [
+    -4351.999650585947,
+    -2895.9998349606303,
+    8032.000619021137
+   ],
+   "inflated": true,
+   "destination": [
+    -1.382111,
+    15204.328125,
+    -11463.423828
+   ],
+   "destination_yaw": 180.0,
+   "comment": "spawn"
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -5552.029452683621,
+    -3088.0003861417326,
+    8031.998934274681
+   ],
+   "max": [
+    5552.029349335126,
+    -2896.0003861417326,
+    9104.001065725319
+   ],
+   "inflated": true,
+   "destination": [
+    -1.382111,
+    15204.328125,
+    -11463.423828
+   ],
+   "destination_yaw": 180.0,
+   "comment": "spawn"
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -6143.997464776146,
+    -3007.9996073293787,
+    -12255.99959812852
+   ],
+   "max": [
+    6144.000615364534,
+    10719.999291266715,
+    -959.9986704987425
+   ],
+   "inflated": false,
+   "destination": [
+    -1.382111,
+    15204.328125,
+    -11463.423828
+   ],
+   "destination_yaw": 180.0,
+   "comment": "spawn"
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -4351.997777523741,
+    12351.998818897639,
+    -12255.998417748453
+   ],
+   "max": [
+    4327.998917681222,
+    12543.998818897639,
+    -1792.0000074483976
+   ],
+   "inflated": true,
+   "destination": [
+    -1.382111,
+    15204.328125,
+    -11463.423828
+   ],
+   "destination_yaw": 180.0,
+   "comment": "spawn"
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -4319.998335253734,
+    5047.99782128421,
+    3752.0002118264797
+   ],
+   "max": [
+    4367.999323809641,
+    5239.99782128421,
+    14583.996123721703
+   ],
+   "inflated": true,
+   "destination": [
+    -1.382111,
+    15204.328125,
+    -11463.423828
+   ],
+   "destination_yaw": 180.0,
+   "comment": "spawn"
+  }
+ ],
+ "track_names": {
+  "0": "main"
+ },
+ "respawn_volumes": [
+  {
+   "min": [
+    -2405.0517573104808,
+    4989.326466934371,
+    -876.010347073554
+   ],
+   "max": [
+    2415.9997303329965,
+    7437.58660998171,
+    5540.000605648904
+   ],
+   "inflated": false,
+   "track": 0
+  },
+  {
+   "min": [
+    -4400.00035058205,
+    -7279.998803779527,
+    -13983.99752832673
+   ],
+   "max": [
+    4423.998267441047,
+    -7087.998803779527,
+    9103.999887670547
+   ],
+   "inflated": true,
+   "track": 0
+  },
+  {
+   "min": [
+    -7167.99839012987,
+    2063.9996088188977,
+    -11263.998527378615
+   ],
+   "max": [
+    7167.998387114081,
+    2255.9996088188977,
+    11887.997582496724
+   ],
+   "inflated": true,
+   "track": 0
+  },
+  {
+   "min": [
+    4448.000206543834,
+    4991.997251653544,
+    11887.998324301281
+   ],
+   "max": [
+    7167.999782012074,
+    5183.997251653544,
+    15920.001675698722
+   ],
+   "inflated": true,
+   "track": 0
+  },
+  {
+   "min": [
+    -7167.998218653016,
+    4991.997251653544,
+    11887.999111702857
+   ],
+   "max": [
+    -4447.998643184776,
+    5183.997251653544,
+    15920.002463100296
+   ],
+   "inflated": true,
+   "track": 0
+  },
+  {
+   "min": [
+    -1279.9995137326996,
+    1272.0012517945793,
+    -13167.998468264948
+   ],
+   "max": [
+    1279.9998408844567,
+    1464.0012517945793,
+    -11343.99857240358
+   ],
+   "inflated": true,
+   "track": 0
+  },
+  {
+   "min": [
+    -1295.9996991015892,
+    504.0011341191821,
+    -11327.99760678543
+   ],
+   "max": [
+    1279.9998971364687,
+    696.0011341191821,
+    -9487.996490833435
+   ],
+   "inflated": true,
+   "track": 0
+  },
+  {
+   "min": [
+    -1279.9998726916604,
+    -711.9984295875602,
+    -13152.137489230883
+   ],
+   "max": [
+    1279.9994819255023,
+    -519.9984295875602,
+    -11327.99916565694
+   ],
+   "inflated": true,
+   "track": 0
+  },
+  {
+   "min": [
+    4319.968930480438,
+    -3087.9998349606303,
+    -1216.0002253203488
+   ],
+   "max": [
+    5519.998774610903,
+    -2895.9998349606303,
+    8031.999437918775
+   ],
+   "inflated": true,
+   "track": 0
+  },
+  {
+   "min": [
+    -5552.029494716412,
+    -3087.9998349606303,
+    -1215.999044217987
+   ],
+   "max": [
+    -4351.999650585947,
+    -2895.9998349606303,
+    8032.000619021137
+   ],
+   "inflated": true,
+   "track": 0
+  },
+  {
+   "min": [
+    -5552.029452683621,
+    -3088.0003861417326,
+    8031.998934274681
+   ],
+   "max": [
+    5552.029349335126,
+    -2896.0003861417326,
+    9104.001065725319
+   ],
+   "inflated": true,
+   "track": 0
+  },
+  {
+   "min": [
+    -6143.997464776146,
+    -3007.9996073293787,
+    -12255.99959812852
+   ],
+   "max": [
+    6144.000615364534,
+    10719.999291266715,
+    -959.9986704987425
+   ],
+   "inflated": false,
+   "track": 0
+  },
+  {
+   "min": [
+    -4351.997777523741,
+    12351.998818897639,
+    -12255.998417748453
+   ],
+   "max": [
+    4327.998917681222,
+    12543.998818897639,
+    -1792.0000074483976
+   ],
+   "inflated": true,
+   "track": 0
+  },
+  {
+   "min": [
+    -4319.998335253734,
+    5047.99782128421,
+    3752.0002118264797
+   ],
+   "max": [
+    4367.999323809641,
+    5239.99782128421,
+    14583.996123721703
+   ],
+   "inflated": true,
+   "track": 0
+  }
+ ],
+ "mechanics": {
+  "water": [],
+  "push": [],
+  "gravity": [],
+  "hurt": [],
+  "conveyors": [],
+  "ladders": [],
+  "blocks": []
+ },
+ "push_volumes": [],
+ "trigger_volumes": [],
+ "engine": "Source 2 via ValveResourceFormat",
+ "display_name": "surf: hologram",
+ "author": "Chent",
+ "notes": "A CS2 (Source 2) map imported through tools/vrf_import.py. The timer volumes are the mapper's own map_start / map_end; every one of the fourteen trigger_teleports aims at the spawn."
+}

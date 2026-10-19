@@ -234,7 +234,7 @@
       "id": "surf_arcade",
       "author": "maz64 (maz)",
       "source": "https://gamebanana.com/mods/137716",
-      "bytes": 41207940
+      "bytes": 41214739
     },
     {
       "id": "surf_beginner",
@@ -259,6 +259,12 @@
       "author": "NvC_DmN_CH",
       "source": "https://gamebanana.com/mods/137798",
       "bytes": 25704714
+    },
+    {
+      "id": "surf_hologram",
+      "author": "Chent",
+      "source": "https://gamebanana.com/mods/525468",
+      "bytes": 669738
     },
     {
       "id": "surf_interference",
