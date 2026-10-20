@@ -340,7 +340,8 @@
     0.1166
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "metal/metalfence004a"
   },
   {
    "material": "glass_tunnels/base",
@@ -420,7 +421,8 @@
     0.5266
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "detail/dt_smooth1"
   },
   {
    "material": "marbletile",
@@ -1124,6 +1126,8 @@
   "placed": 745,
   "drawn": 744,
   "stock_models": 1,
+  "stock_standins": 0,
+  "stock_standins_estimated": 0,
   "surfaces": 30,
   "tinted": 0,
   "open_sky_lit": 315

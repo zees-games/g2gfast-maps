@@ -63,7 +63,8 @@
     0.4845
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "aoki/refract_trans"
   },
   {
    "material": "aoki/2/aokibarscroll1",
@@ -389,7 +390,8 @@
     0.58
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "dev/reflectivity_30"
   },
   {
    "material": "aoki/aoki_blendfloor_wall",
@@ -405,7 +407,8 @@
     0.3713
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "dev/dev_measurewall01d"
   },
   {
    "material": "aoki/aoki_blendnodraw_ceil",
@@ -421,7 +424,8 @@
     0.58
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "dev/reflectivity_30"
   },
   {
    "material": "aoki/aoki_blendnodraw_floor",
@@ -437,7 +441,8 @@
     0.593
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "dev/graygrid"
   },
   {
    "material": "aoki/aoki_blendnodraw_floor",
@@ -453,7 +458,8 @@
     0.593
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "dev/graygrid"
   },
   {
    "material": "aoki/aoki_blendnodraw_wall",
@@ -469,7 +475,8 @@
     0.3713
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "dev/dev_measurewall01d"
   },
   {
    "material": "aoki/aoki_focus",
@@ -789,7 +796,8 @@
     0.3946
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "tools/toolsblocklight"
   },
   {
    "material": "aoki/aoki_toolsblocklight",
@@ -805,7 +813,8 @@
     0.3946
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "tools/toolsblocklight"
   },
   {
    "material": "aoki/aokiazunyan",
@@ -6005,7 +6014,8 @@
     0.2194
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "dev/dev_measurecrate01"
   },
   {
    "material": "decals/byron/dev_measurecrate01",
@@ -6021,7 +6031,8 @@
     0.2194
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "dev/dev_measurecrate01"
   },
   {
    "material": "decals/de_trainwindowlighting",
@@ -10143,25 +10154,248 @@
    ],
    "texture": null,
    "translucent": false
+  },
+  {
+   "material": "concrete/standin_block",
+   "role": "FLOOR",
+   "prototype": true,
+   "prop": true,
+   "vertex_offset": 8784236,
+   "vertex_count": 24,
+   "index_offset": 8785196,
+   "index_count": 36,
+   "colour": [
+    0.5877,
+    0.5608,
+    0.5313
+   ],
+   "texture": null,
+   "translucent": false
+  },
+  {
+   "material": "metal/standin_boxcar",
+   "role": "FLOOR",
+   "prototype": true,
+   "prop": true,
+   "vertex_offset": 8785340,
+   "vertex_count": 24,
+   "index_offset": 8786300,
+   "index_count": 36,
+   "colour": [
+    0.5877,
+    0.5608,
+    0.5313
+   ],
+   "texture": null,
+   "translucent": false
+  },
+  {
+   "material": "metal/standin_container",
+   "role": "FLOOR",
+   "prototype": true,
+   "prop": true,
+   "vertex_offset": 8786444,
+   "vertex_count": 24,
+   "index_offset": 8787404,
+   "index_count": 36,
+   "colour": [
+    0.5877,
+    0.5608,
+    0.5313
+   ],
+   "texture": null,
+   "translucent": false
+  },
+  {
+   "material": "metal/standin_fence",
+   "role": "FLOOR",
+   "prototype": true,
+   "prop": true,
+   "vertex_offset": 8787548,
+   "vertex_count": 24,
+   "index_offset": 8788508,
+   "index_count": 36,
+   "colour": [
+    0.5877,
+    0.5608,
+    0.5313
+   ],
+   "texture": null,
+   "translucent": false
+  },
+  {
+   "material": "metal/standin_pole",
+   "role": "FLOOR",
+   "prototype": true,
+   "prop": true,
+   "vertex_offset": 8788652,
+   "vertex_count": 96,
+   "index_offset": 8792492,
+   "index_count": 144,
+   "colour": [
+    0.5877,
+    0.5608,
+    0.5313
+   ],
+   "texture": null,
+   "translucent": false
+  },
+  {
+   "material": "metal/standin_rail",
+   "role": "FLOOR",
+   "prototype": true,
+   "prop": true,
+   "vertex_offset": 8793068,
+   "vertex_count": 120,
+   "index_offset": 8797868,
+   "index_count": 180,
+   "colour": [
+    0.5877,
+    0.5608,
+    0.5313
+   ],
+   "texture": null,
+   "translucent": false
+  },
+  {
+   "material": "metal/standin_tank",
+   "role": "FLOOR",
+   "prototype": true,
+   "prop": true,
+   "vertex_offset": 8798588,
+   "vertex_count": 48,
+   "index_offset": 8800508,
+   "index_count": 72,
+   "colour": [
+    0.5877,
+    0.5608,
+    0.5313
+   ],
+   "texture": null,
+   "translucent": false
+  },
+  {
+   "material": "metal/standin_tanker",
+   "role": "FLOOR",
+   "prototype": true,
+   "prop": true,
+   "vertex_offset": 8800796,
+   "vertex_count": 24,
+   "index_offset": 8801756,
+   "index_count": 36,
+   "colour": [
+    0.5877,
+    0.5608,
+    0.5313
+   ],
+   "texture": null,
+   "translucent": false
+  },
+  {
+   "material": "metal/standin_trailer",
+   "role": "FLOOR",
+   "prototype": true,
+   "prop": true,
+   "vertex_offset": 8801900,
+   "vertex_count": 24,
+   "index_offset": 8802860,
+   "index_count": 36,
+   "colour": [
+    0.5877,
+    0.5608,
+    0.5313
+   ],
+   "texture": null,
+   "translucent": false
+  },
+  {
+   "material": "metal/standin_truck",
+   "role": "FLOOR",
+   "prototype": true,
+   "prop": true,
+   "vertex_offset": 8803004,
+   "vertex_count": 48,
+   "index_offset": 8804924,
+   "index_count": 72,
+   "colour": [
+    0.5877,
+    0.5608,
+    0.5313
+   ],
+   "texture": null,
+   "translucent": false
+  },
+  {
+   "material": "models/props_wasteland/rockcliff_standin",
+   "role": "FLOOR",
+   "prototype": true,
+   "prop": true,
+   "vertex_offset": 8805212,
+   "vertex_count": 312,
+   "index_offset": 8817692,
+   "index_count": 468,
+   "colour": [
+    0.4268,
+    0.3922,
+    0.3438
+   ],
+   "texture": null,
+   "translucent": false
+  },
+  {
+   "material": "wood/standin_crate",
+   "role": "FLOOR",
+   "prototype": true,
+   "prop": true,
+   "vertex_offset": 8819564,
+   "vertex_count": 24,
+   "index_offset": 8820524,
+   "index_count": 36,
+   "colour": [
+    0.5877,
+    0.5608,
+    0.5313
+   ],
+   "texture": null,
+   "translucent": false
+  },
+  {
+   "material": "wood/standin_pallet",
+   "role": "FLOOR",
+   "prototype": true,
+   "prop": true,
+   "vertex_offset": 8820668,
+   "vertex_count": 72,
+   "index_offset": 8823548,
+   "index_count": 108,
+   "colour": [
+    0.5877,
+    0.5608,
+    0.5313
+   ],
+   "texture": null,
+   "translucent": false
   }
  ],
  "collision": {
-  "hull_count": 4991,
-  "hull_offset": 8784236,
-  "displacement_vertex_offset": 9379492,
+  "hull_count": 5027,
+  "hull_offset": 8823980,
+  "displacement_vertex_offset": 9422836,
   "displacement_vertex_count": 42391,
-  "displacement_index_offset": 9888184,
+  "displacement_index_offset": 9931528,
   "displacement_index_count": 241152,
   "playerclip_hulls": 96,
-  "prop_hulls": 0
+  "prop_hulls": 36
  },
  "skybox": null,
  "static_props": {
   "placed": 186,
-  "drawn": 0,
+  "drawn": 36,
   "stock_models": 186,
-  "surfaces": 0,
-  "tinted": 0,
+  "stock_standins": 36,
+  "stock_standins_estimated": 19,
+  "surfaces": 13,
+  "tinted": 13,
   "open_sky_lit": 0
  },
  "brush_entities": {

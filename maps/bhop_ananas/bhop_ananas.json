@@ -2284,25 +2284,44 @@
    ],
    "texture": "watersource_waterfall_waterfallfull_1024_clear.png",
    "translucent": true
+  },
+  {
+   "material": "wood/standin_piling",
+   "role": "FLOOR",
+   "prototype": true,
+   "prop": true,
+   "vertex_offset": 4642940,
+   "vertex_count": 96,
+   "index_offset": 4646780,
+   "index_count": 144,
+   "colour": [
+    0.5863,
+    0.5602,
+    0.5149
+   ],
+   "texture": null,
+   "translucent": false
   }
  ],
  "collision": {
-  "hull_count": 2264,
-  "hull_offset": 4642940,
-  "displacement_vertex_offset": 4903996,
+  "hull_count": 2268,
+  "hull_offset": 4647356,
+  "displacement_vertex_offset": 4908812,
   "displacement_vertex_count": 28367,
-  "displacement_index_offset": 5244400,
+  "displacement_index_offset": 5249216,
   "displacement_index_count": 153600,
   "playerclip_hulls": 40,
-  "prop_hulls": 0
+  "prop_hulls": 4
  },
  "skybox": null,
  "static_props": {
   "placed": 14,
-  "drawn": 0,
+  "drawn": 4,
   "stock_models": 14,
-  "surfaces": 0,
-  "tinted": 0,
+  "stock_standins": 4,
+  "stock_standins_estimated": 4,
+  "surfaces": 1,
+  "tinted": 1,
   "open_sky_lit": 0
  },
  "brush_entities": {

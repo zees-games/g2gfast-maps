@@ -1406,7 +1406,8 @@
     0.1321
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "nature/dirtfloor012a"
   },
   {
    "material": "tony/blendrockgrass_detail",
@@ -1422,7 +1423,8 @@
     0.4528
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "nature/rockfloor005a"
   },
   {
    "material": "tony/blendrockgrass_detail",
@@ -1438,7 +1440,8 @@
     0.4528
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "nature/rockfloor005a"
   },
   {
    "material": "tony/glas",
@@ -1454,7 +1457,8 @@
     0.2239
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "glass/offwndwb"
   },
   {
    "material": "tony/pls",
@@ -2129,13 +2133,30 @@
    "translucent": false
   },
   {
+   "material": "models/props_wasteland/rockcliff_standin",
+   "role": "FLOOR",
+   "prototype": true,
+   "prop": true,
+   "vertex_offset": 30353756,
+   "vertex_count": 1080,
+   "index_offset": 30396956,
+   "index_count": 1620,
+   "colour": [
+    0.3982,
+    0.378,
+    0.3381
+   ],
+   "texture": null,
+   "translucent": false
+  },
+  {
    "material": "models/tony/oceanmist",
    "role": "FLOOR",
    "prototype": false,
    "prop": true,
-   "vertex_offset": 30353756,
+   "vertex_offset": 30403436,
    "vertex_count": 5312,
-   "index_offset": 30566236,
+   "index_offset": 30615916,
    "index_count": 8064,
    "texture": "realworldtextures_walls_oceanmist.png",
    "translucent": false
@@ -2145,9 +2166,9 @@
    "role": "FLOOR",
    "prototype": false,
    "prop": true,
-   "vertex_offset": 30598492,
+   "vertex_offset": 30648172,
    "vertex_count": 8948,
-   "index_offset": 30956412,
+   "index_offset": 31006092,
    "index_count": 49536,
    "texture": "shiroko_ot_cliff05a.png",
    "translucent": false
@@ -2157,9 +2178,9 @@
    "role": "FLOOR",
    "prototype": true,
    "prop": true,
-   "vertex_offset": 31154556,
+   "vertex_offset": 31204236,
    "vertex_count": 832,
-   "index_offset": 31187836,
+   "index_offset": 31237516,
    "index_count": 1248,
    "colour": [
     0.3905,
@@ -2167,16 +2188,17 @@
     0.2841
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "de_piranesi/pi_wood1"
   },
   {
    "material": "models/z-o-m-b-i-e/stalker/trees/trees_bark_a_02",
    "role": "FLOOR",
    "prototype": false,
    "prop": true,
-   "vertex_offset": 31192828,
+   "vertex_offset": 31242508,
    "vertex_count": 1571,
-   "index_offset": 31255668,
+   "index_offset": 31305348,
    "index_count": 6198,
    "texture": "z-o-m-b-i-e_stalker_trees_trees_bark_a_02.png",
    "translucent": false
@@ -2186,9 +2208,9 @@
    "role": "FLOOR",
    "prototype": false,
    "prop": true,
-   "vertex_offset": 31280460,
+   "vertex_offset": 31330140,
    "vertex_count": 24,
-   "index_offset": 31281420,
+   "index_offset": 31331100,
    "index_count": 69,
    "texture": "z-o-m-b-i-e_stalker_trees_trees_spil.png",
    "translucent": false
@@ -2198,23 +2220,40 @@
    "role": "FLOOR",
    "prototype": false,
    "prop": true,
-   "vertex_offset": 31281696,
+   "vertex_offset": 31331376,
    "vertex_count": 4320,
-   "index_offset": 31454496,
+   "index_offset": 31504176,
    "index_count": 4320,
    "texture": "z-o-m-b-i-e_stalker_trees_trees_vetkagreen3.png",
    "translucent": true
+  },
+  {
+   "material": "wood/standin_basket",
+   "role": "FLOOR",
+   "prototype": true,
+   "prop": true,
+   "vertex_offset": 31521456,
+   "vertex_count": 48,
+   "index_offset": 31523376,
+   "index_count": 72,
+   "colour": [
+    0.5152,
+    0.4946,
+    0.472
+   ],
+   "texture": null,
+   "translucent": false
   }
  ],
  "collision": {
-  "hull_count": 2573,
-  "hull_offset": 31471776,
-  "displacement_vertex_offset": 31768964,
+  "hull_count": 2620,
+  "hull_offset": 31523664,
+  "displacement_vertex_offset": 31825552,
   "displacement_vertex_count": 65484,
-  "displacement_index_offset": 32554772,
+  "displacement_index_offset": 32611360,
   "displacement_index_count": 376320,
   "playerclip_hulls": 95,
-  "prop_hulls": 36
+  "prop_hulls": 83
  },
  "skybox": {
   "camera": [
@@ -2234,10 +2273,12 @@
  },
  "static_props": {
   "placed": 248,
-  "drawn": 168,
+  "drawn": 215,
   "stock_models": 80,
-  "surfaces": 42,
-  "tinted": 1,
+  "stock_standins": 47,
+  "stock_standins_estimated": 42,
+  "surfaces": 44,
+  "tinted": 3,
   "open_sky_lit": 59
  },
  "brush_entities": {

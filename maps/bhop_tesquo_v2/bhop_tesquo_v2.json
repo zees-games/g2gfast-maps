@@ -3438,7 +3438,8 @@
     0.2232
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "de_chateau/rockf"
   },
   {
    "material": "george/blend_rock",
@@ -3455,7 +3456,8 @@
     0.2232
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "de_chateau/rockf"
   },
   {
    "material": "george/tesquo/credits",
@@ -5497,7 +5499,8 @@
     0.4573
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "cs_assault/assault_brick1"
   },
   {
    "material": "models/george/tesquo/bluemet_b",
@@ -5538,7 +5541,8 @@
     0.0552
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "cs_italy/cr_miscwood2b"
   },
   {
    "material": "models/george/tesquo/nukroof01",
@@ -5555,7 +5559,8 @@
     0.5
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "props/rubberroof002a"
   },
   {
    "material": "models/george/tesquo/pi_wood3",
@@ -5572,7 +5577,8 @@
     0.1489
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "de_piranesi/pi_wood3"
   },
   {
    "material": "models/george/tesquo/prodwndwa",
@@ -5589,7 +5595,8 @@
     0.5
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "glass/prodwndwa"
   },
   {
    "material": "models/george/tesquo/stonefloor006a",
@@ -5606,7 +5613,8 @@
     0.3556
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "stone/stonefloor006a"
   },
   {
    "material": "models/george/tesquo/stonewall051a",
@@ -5623,7 +5631,8 @@
     0.4224
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "stone/stonewall051a"
   },
   {
    "material": "models/george/tesquo/wood1",
@@ -5676,7 +5685,8 @@
     0.1709
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "cs_havana/woodm"
   },
   {
    "material": "models/george/tesquo/yellow_neon",
@@ -5746,6 +5756,7 @@
   "drawn": 116,
   "stock_models": 94,
   "stock_standins": 22,
+  "stock_standins_estimated": 0,
   "surfaces": 19,
   "tinted": 7,
   "open_sky_lit": 9

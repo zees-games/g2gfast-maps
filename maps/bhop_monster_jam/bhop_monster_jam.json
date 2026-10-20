@@ -5530,35 +5530,122 @@
    "translucent": false
   },
   {
+   "material": "concrete/standin_block",
+   "role": "FLOOR",
+   "prototype": true,
+   "prop": true,
+   "vertex_offset": 4966376,
+   "vertex_count": 120,
+   "index_offset": 4971176,
+   "index_count": 180,
+   "colour": [
+    0.6182,
+    0.587,
+    0.5481
+   ],
+   "texture": null,
+   "translucent": false
+  },
+  {
    "material": "djstuff/tt",
    "role": "FLOOR",
    "prototype": false,
    "prop": true,
-   "vertex_offset": 4966376,
+   "vertex_offset": 4971896,
    "vertex_count": 247,
-   "index_offset": 4976256,
+   "index_offset": 4981776,
    "index_count": 540,
    "texture": "djstuff_tt.png",
+   "translucent": false
+  },
+  {
+   "material": "metal/standin_fence",
+   "role": "FLOOR",
+   "prototype": true,
+   "prop": true,
+   "vertex_offset": 4983936,
+   "vertex_count": 24,
+   "index_offset": 4984896,
+   "index_count": 36,
+   "colour": [
+    0.6182,
+    0.587,
+    0.5481
+   ],
+   "texture": null,
+   "translucent": false
+  },
+  {
+   "material": "metal/standin_payphone",
+   "role": "FLOOR",
+   "prototype": true,
+   "prop": true,
+   "vertex_offset": 4985040,
+   "vertex_count": 24,
+   "index_offset": 4986000,
+   "index_count": 36,
+   "colour": [
+    0.6182,
+    0.587,
+    0.5481
+   ],
+   "texture": null,
+   "translucent": false
+  },
+  {
+   "material": "metal/standin_truck",
+   "role": "FLOOR",
+   "prototype": true,
+   "prop": true,
+   "vertex_offset": 4986144,
+   "vertex_count": 24,
+   "index_offset": 4987104,
+   "index_count": 36,
+   "colour": [
+    0.6182,
+    0.587,
+    0.5481
+   ],
+   "texture": null,
+   "translucent": false
+  },
+  {
+   "material": "models/props_wasteland/rockcliff_standin",
+   "role": "FLOOR",
+   "prototype": true,
+   "prop": true,
+   "vertex_offset": 4987248,
+   "vertex_count": 336,
+   "index_offset": 5000688,
+   "index_count": 504,
+   "colour": [
+    0.4917,
+    0.4552,
+    0.3911
+   ],
+   "texture": null,
    "translucent": false
   }
  ],
  "collision": {
-  "hull_count": 2976,
-  "hull_offset": 4978416,
-  "displacement_vertex_offset": 5383032,
+  "hull_count": 2998,
+  "hull_offset": 5002704,
+  "displacement_vertex_offset": 5409520,
   "displacement_vertex_count": 14097,
-  "displacement_index_offset": 5552196,
+  "displacement_index_offset": 5578684,
   "displacement_index_count": 77088,
   "playerclip_hulls": 56,
-  "prop_hulls": 1
+  "prop_hulls": 23
  },
  "skybox": null,
  "static_props": {
   "placed": 81,
-  "drawn": 1,
+  "drawn": 23,
   "stock_models": 80,
-  "surfaces": 1,
-  "tinted": 0,
+  "stock_standins": 22,
+  "stock_standins_estimated": 16,
+  "surfaces": 6,
+  "tinted": 5,
   "open_sky_lit": 0
  },
  "brush_entities": {

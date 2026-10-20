@@ -733,26 +733,46 @@
     0.3287
    ],
    "texture": null,
+   "translucent": false,
+   "base": "nature/rockwall011g"
+  },
+  {
+   "material": "models/props_wasteland/rockcliff_standin",
+   "role": "FLOOR",
+   "prototype": true,
+   "prop": true,
+   "vertex_offset": 24612000,
+   "vertex_count": 360,
+   "index_offset": 24626400,
+   "index_count": 540,
+   "colour": [
+    0.6652,
+    0.4781,
+    0.3287
+   ],
+   "texture": null,
    "translucent": false
   }
  ],
  "collision": {
-  "hull_count": 1840,
-  "hull_offset": 24612000,
-  "displacement_vertex_offset": 24887392,
+  "hull_count": 1855,
+  "hull_offset": 24628560,
+  "displacement_vertex_offset": 24905452,
   "displacement_vertex_count": 93758,
-  "displacement_index_offset": 26012488,
+  "displacement_index_offset": 26030548,
   "displacement_index_count": 550656,
   "playerclip_hulls": 0,
-  "prop_hulls": 212
+  "prop_hulls": 227
  },
  "skybox": null,
  "static_props": {
   "placed": 233,
-  "drawn": 212,
+  "drawn": 227,
   "stock_models": 21,
-  "surfaces": 7,
-  "tinted": 1,
+  "stock_standins": 15,
+  "stock_standins_estimated": 15,
+  "surfaces": 8,
+  "tinted": 2,
   "open_sky_lit": 112
  },
  "brush_entities": {
