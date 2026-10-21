@@ -1,0 +1,1218 @@
+{
+ "id": "surf_intro",
+ "source": "surf_intro.vpk",
+ "units": "genre units (Source units), Godot axes; x metres = x * 0.01905",
+ "tier": 1,
+ "bounds": {
+  "min": [
+   -2207.780822994202,
+   704.0008034293107,
+   -4831.999831312285
+  ],
+  "max": [
+   12583.997831569883,
+   4544.000700702818,
+   -13165.342075618233
+  ]
+ },
+ "lightmap": {
+  "file": "surf_intro_lightmap.png",
+  "width": 8,
+  "height": 8
+ },
+ "lighting": {
+  "sun": {
+   "yaw_src": 0.0,
+   "pitch_src": -95.0,
+   "colour": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "brightness": 400.0
+  },
+  "sky_name": "sky_day01_01",
+  "baked_light_count": 5
+ },
+ "surfaces": [
+  {
+   "material": "hr_concrete_wall_painted_002_grey",
+   "role": "FLOOR",
+   "prototype": true,
+   "vertex_offset": 0,
+   "vertex_count": 2214,
+   "index_offset": 88560,
+   "index_count": 4332,
+   "texture": null,
+   "translucent": false,
+   "colour": [
+    0.46,
+    0.47,
+    0.5
+   ]
+  },
+  {
+   "material": "hr_concrete_wall_painted_002_grey",
+   "role": "PLATFORM",
+   "prototype": true,
+   "vertex_offset": 105888,
+   "vertex_count": 832,
+   "index_offset": 139168,
+   "index_count": 1308,
+   "texture": null,
+   "translucent": false,
+   "colour": [
+    0.46,
+    0.47,
+    0.5
+   ]
+  },
+  {
+   "material": "hr_concrete_wall_painted_002_grey",
+   "role": "RAMP",
+   "prototype": true,
+   "vertex_offset": 144400,
+   "vertex_count": 93,
+   "index_offset": 148120,
+   "index_count": 156,
+   "texture": null,
+   "translucent": false,
+   "colour": [
+    0.46,
+    0.47,
+    0.5
+   ]
+  },
+  {
+   "material": "hr_concrete_wall_painted_002_grey_dark",
+   "role": "FLOOR",
+   "prototype": true,
+   "vertex_offset": 148744,
+   "vertex_count": 1112,
+   "index_offset": 193224,
+   "index_count": 2526,
+   "texture": null,
+   "translucent": false,
+   "colour": [
+    0.26,
+    0.27,
+    0.3
+   ]
+  },
+  {
+   "material": "hr_concrete_wall_painted_002_grey_dark",
+   "role": "PLATFORM",
+   "prototype": true,
+   "vertex_offset": 203328,
+   "vertex_count": 183,
+   "index_offset": 210648,
+   "index_count": 447,
+   "texture": null,
+   "translucent": false,
+   "colour": [
+    0.26,
+    0.27,
+    0.3
+   ]
+  },
+  {
+   "material": "meshset",
+   "role": "FLOOR",
+   "prototype": true,
+   "vertex_offset": 212436,
+   "vertex_count": 200,
+   "index_offset": 220436,
+   "index_count": 300,
+   "texture": null,
+   "translucent": false,
+   "colour": [
+    0.5,
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "material": "meshset",
+   "role": "PLATFORM",
+   "prototype": true,
+   "vertex_offset": 221636,
+   "vertex_count": 40,
+   "index_offset": 223236,
+   "index_count": 60,
+   "texture": null,
+   "translucent": false,
+   "colour": [
+    0.5,
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "material": "orange_blend",
+   "role": "FLOOR",
+   "prototype": true,
+   "vertex_offset": 223476,
+   "vertex_count": 1670,
+   "index_offset": 290276,
+   "index_count": 3354,
+   "texture": null,
+   "translucent": false,
+   "colour": [
+    0.85,
+    0.45,
+    0.15
+   ]
+  },
+  {
+   "material": "orange_blend",
+   "role": "PLATFORM",
+   "prototype": true,
+   "vertex_offset": 303692,
+   "vertex_count": 275,
+   "index_offset": 314692,
+   "index_count": 489,
+   "texture": null,
+   "translucent": false,
+   "colour": [
+    0.85,
+    0.45,
+    0.15
+   ]
+  },
+  {
+   "material": "orange_blend",
+   "role": "RAMP",
+   "prototype": true,
+   "vertex_offset": 316648,
+   "vertex_count": 1630,
+   "index_offset": 381848,
+   "index_count": 1980,
+   "texture": null,
+   "translucent": false,
+   "colour": [
+    0.85,
+    0.45,
+    0.15
+   ]
+  }
+ ],
+ "collision": {
+  "hull_count": 77,
+  "hull_offset": 389768,
+  "displacement_vertex_offset": 397876,
+  "displacement_vertex_count": 1732,
+  "displacement_index_offset": 418660,
+  "displacement_index_count": 19848,
+  "playerclip_hulls": 0,
+  "prop_hulls": 0
+ },
+ "skybox": null,
+ "static_props": {
+  "placed": 0,
+  "drawn": 0,
+  "stock_models": 0,
+  "stock_standins": 0,
+  "surfaces": 0,
+  "tinted": 0,
+  "open_sky_lit": 0
+ },
+ "brush_entities": {
+  "solid": 0,
+  "faces_drawn": 0
+ },
+ "units_per_square": 64.0,
+ "max_slope": 45.57,
+ "spawn": {
+  "origin": [
+   2032.212891,
+   3496.0,
+   -6464.0
+  ],
+  "yaw": 89.999969
+ },
+ "spawns": [
+  {
+   "origin": [
+    2032.212891,
+    3472.0,
+    -6464.0
+   ],
+   "yaw": 89.999969
+  },
+  {
+   "origin": [
+    2043.090332,
+    3424.100586,
+    -6558.736328
+   ],
+   "yaw": 89.999969
+  },
+  {
+   "origin": [
+    2046.410156,
+    3424.414795,
+    -6399.693848
+   ],
+   "yaw": 89.999969
+  }
+ ],
+ "min_zone_thickness": 192.0,
+ "zones": [
+  {
+   "kind": "START",
+   "track": 0,
+   "min": [
+    1552.212891,
+    3280.0,
+    -6912.0
+   ],
+   "max": [
+    2512.212891,
+    3664.0,
+    -6016.0
+   ],
+   "inflated": false,
+   "destination": [
+    2032.212891,
+    3496.0,
+    -6464.0
+   ],
+   "destination_yaw": 89.999969,
+   "comment": "the spawn room the start entities stand in"
+  },
+  {
+   "kind": "SPAWN",
+   "track": 0,
+   "destination": [
+    2032.212891,
+    3496.0,
+    -6464.0
+   ],
+   "destination_yaw": 89.999969,
+   "comment": "the spawn for main"
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -1151.7866391998668,
+    3392.000191496063,
+    -6975.999255946181
+   ],
+   "max": [
+    928.2132850110593,
+    3584.000191496063,
+    -5951.999169250669
+   ],
+   "inflated": true,
+   "destination": [
+    -1024.0,
+    4048.0,
+    -6464.0
+   ],
+   "destination_yaw": -90.0,
+   "comment": "S1"
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -1239.7866255375773,
+    3968.000126614173,
+    -6559.998884867879
+   ],
+   "max": [
+    -1047.7866255375773,
+    4160.0001266141735,
+    -6367.998884867879
+   ],
+   "inflated": true,
+   "destination": [
+    2032.212891,
+    3496.0,
+    -6464.0
+   ],
+   "destination_yaw": 89.999969,
+   "comment": "Spawn"
+  },
+  {
+   "kind": "STAGE",
+   "track": 0,
+   "min": [
+    3824.0,
+    3928.0,
+    -6128.0
+   ],
+   "max": [
+    4144.0,
+    4120.0,
+    -5808.0
+   ],
+   "inflated": false,
+   "destination": [
+    3984.0,
+    4048.0,
+    -5968.0
+   ],
+   "destination_yaw": -90.0,
+   "comment": "the arrival of S2's gate",
+   "number": 2.0
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    824.2132427385401,
+    3904.0001366929137,
+    -6559.999540328973
+   ],
+   "max": [
+    1016.2132427385401,
+    4096.000136692914,
+    -6367.999540328973
+   ],
+   "inflated": true,
+   "destination": [
+    3984.0,
+    4048.0,
+    -5968.0
+   ],
+   "destination_yaw": -90.0,
+   "comment": "S2"
+  },
+  {
+   "kind": "STAGE",
+   "track": 0,
+   "min": [
+    -1184.0,
+    3928.0,
+    -6624.0
+   ],
+   "max": [
+    -864.0,
+    4120.0,
+    -6304.0
+   ],
+   "inflated": false,
+   "destination": [
+    -1024.0,
+    4048.0,
+    -6464.0
+   ],
+   "destination_yaw": -90.0,
+   "comment": "the arrival of S1's gate",
+   "number": 1.0
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    1416.2129807616354,
+    3416.0001266141735,
+    -6559.998884867879
+   ],
+   "max": [
+    1608.2129807616354,
+    3608.0001266141735,
+    -6367.998884867879
+   ],
+   "inflated": true,
+   "destination": [
+    -1024.0,
+    4048.0,
+    -6464.0
+   ],
+   "destination_yaw": -90.0,
+   "comment": "S1"
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    3856.212992878023,
+    3392.000306771654,
+    -7103.999709995311
+   ],
+   "max": [
+    6528.21233557943,
+    3584.000306771654,
+    -4847.9995026031165
+   ],
+   "inflated": true,
+   "destination": [
+    3984.0,
+    4048.0,
+    -5968.0
+   ],
+   "destination_yaw": -90.0,
+   "comment": "S2"
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    3840.000711726,
+    2986.7409072818255,
+    -9687.99955606909
+   ],
+   "max": [
+    7903.999592328211,
+    3178.7409072818255,
+    -7431.9994268781775
+   ],
+   "inflated": true,
+   "destination": [
+    3967.787109,
+    4272.0,
+    -8544.0
+   ],
+   "destination_yaw": -90.0,
+   "comment": "S3"
+  },
+  {
+   "kind": "STAGE",
+   "track": 0,
+   "min": [
+    3807.787109,
+    4152.0,
+    -8704.0
+   ],
+   "max": [
+    4127.787109,
+    4344.0,
+    -8384.0
+   ],
+   "inflated": false,
+   "destination": [
+    3967.787109,
+    4272.0,
+    -8544.0
+   ],
+   "destination_yaw": -90.0,
+   "comment": "the arrival of S3's gate",
+   "number": 3.0
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    5984.214290945969,
+    3824.000249624794,
+    -6952.037417493089
+   ],
+   "max": [
+    6176.214290945969,
+    4016.000249624794,
+    -6760.037417493089
+   ],
+   "inflated": true,
+   "destination": [
+    3967.787109,
+    4272.0,
+    -8544.0
+   ],
+   "destination_yaw": -90.0,
+   "comment": "S3"
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    5984.212611571096,
+    3783.9999799905313,
+    -5143.964299411371
+   ],
+   "max": [
+    6176.212611571096,
+    3975.9999799905313,
+    -4951.964299411371
+   ],
+   "inflated": true,
+   "destination": [
+    3967.787109,
+    4272.0,
+    -8544.0
+   ],
+   "destination_yaw": -90.0,
+   "comment": "S3"
+  },
+  {
+   "kind": "STAGE",
+   "track": 0,
+   "min": [
+    8479.787109,
+    4152.0,
+    -8704.0
+   ],
+   "max": [
+    8799.787109,
+    4344.0,
+    -8384.0
+   ],
+   "inflated": false,
+   "destination": [
+    8639.787109,
+    4272.0,
+    -8544.0
+   ],
+   "destination_yaw": -90.0,
+   "comment": "the arrival of S4's gate",
+   "number": 4.0
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    7784.03469222537,
+    3240.0005232701187,
+    -8631.999641658349
+   ],
+   "max": [
+    7976.03469222537,
+    3432.0005232701187,
+    -8439.999641658349
+   ],
+   "inflated": true,
+   "destination": [
+    8639.787109,
+    4272.0,
+    -8544.0
+   ],
+   "destination_yaw": -90.0,
+   "comment": "S4"
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    8511.999924324426,
+    2986.740906328151,
+    -9679.999951029718
+   ],
+   "max": [
+    12575.998804926638,
+    3178.740906328151,
+    -7423.999821838808
+   ],
+   "inflated": true,
+   "destination": [
+    8639.787109,
+    4272.0,
+    -8544.0
+   ],
+   "destination_yaw": -90.0,
+   "comment": "S4"
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    3840.0004677669467,
+    2987.5027049001824,
+    -12775.998459502405
+   ],
+   "max": [
+    8591.999483981755,
+    3179.5027049001824,
+    -10519.998248295471
+   ],
+   "inflated": true,
+   "destination": [
+    3967.787109,
+    4272.0,
+    -11648.0
+   ],
+   "destination_yaw": -90.0,
+   "comment": "S5"
+  },
+  {
+   "kind": "STAGE",
+   "track": 0,
+   "min": [
+    3807.787109,
+    4152.0,
+    -11808.0
+   ],
+   "max": [
+    4127.787109,
+    4344.0,
+    -11488.0
+   ],
+   "inflated": false,
+   "destination": [
+    3967.787109,
+    4272.0,
+    -11648.0
+   ],
+   "destination_yaw": -90.0,
+   "comment": "the arrival of S5's gate",
+   "number": 5.0
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    12456.033117422223,
+    3240.000522316445,
+    -8624.000036618978
+   ],
+   "max": [
+    12648.033117422223,
+    3432.000522316445,
+    -8432.000036618978
+   ],
+   "inflated": true,
+   "destination": [
+    3967.787109,
+    4272.0,
+    -11648.0
+   ],
+   "destination_yaw": -90.0,
+   "comment": "S5"
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -1231.7865691426507,
+    2776.000785494226,
+    -12149.330756436193
+   ],
+   "max": [
+    1616.2129842607612,
+    2968.000785494226,
+    -11125.330578187972
+   ],
+   "inflated": true,
+   "destination": [
+    -1104.0,
+    4160.0,
+    -11653.333008
+   ],
+   "destination_yaw": -90.0,
+   "comment": "S6"
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -1231.7867016945906,
+    1691.5028837223044,
+    -13149.331866116576
+   ],
+   "max": [
+    3520.212549958954,
+    1883.5028837223044,
+    -10117.331777114368
+   ],
+   "inflated": true,
+   "destination": [
+    -1104.0,
+    4160.0,
+    -11653.333008
+   ],
+   "destination_yaw": -90.0,
+   "comment": "S6"
+  },
+  {
+   "kind": "STAGE",
+   "track": 0,
+   "min": [
+    -1264.0,
+    4040.0,
+    -11813.333008
+   ],
+   "max": [
+    -944.0,
+    4232.0,
+    -11493.333008
+   ],
+   "inflated": false,
+   "destination": [
+    -1104.0,
+    4160.0,
+    -11653.333008
+   ],
+   "destination_yaw": -90.0,
+   "comment": "the arrival of S6's gate",
+   "number": 6.0
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    8488.034298524584,
+    3200.000718930937,
+    -11719.99885677646
+   ],
+   "max": [
+    8680.034298524584,
+    3392.000718930937,
+    -11527.99885677646
+   ],
+   "inflated": true,
+   "destination": [
+    -1104.0,
+    4160.0,
+    -11653.333008
+   ],
+   "destination_yaw": -90.0,
+   "comment": "S6"
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -1727.786017572385,
+    2986.740944089819,
+    -9647.998769927355
+   ],
+   "max": [
+    2336.212863029819,
+    3178.740944089819,
+    -7391.998640736445
+   ],
+   "inflated": true,
+   "destination": [
+    -1600.0,
+    4272.0,
+    -8512.0
+   ],
+   "destination_yaw": -90.0,
+   "comment": "S7"
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -1151.7866533847716,
+    2054.68574916563,
+    -9647.998816019035
+   ],
+   "max": [
+    3488.21164156508,
+    2246.68574916563,
+    -7391.998496093336
+   ],
+   "inflated": true,
+   "destination": [
+    -1600.0,
+    4272.0,
+    -8512.0
+   ],
+   "destination_yaw": -90.0,
+   "comment": "S7"
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -2168.7742268515435,
+    630.6859066459451,
+    -9647.998897398818
+   ],
+   "max": [
+    3488.2119428312276,
+    822.6859066459451,
+    -7391.99857830899
+   ],
+   "inflated": true,
+   "destination": [
+    -1600.0,
+    4272.0,
+    -8512.0
+   ],
+   "destination_yaw": -90.0,
+   "comment": "S7"
+  },
+  {
+   "kind": "STAGE",
+   "track": 0,
+   "min": [
+    -1760.0,
+    4152.0,
+    -8672.0
+   ],
+   "max": [
+    -1440.0,
+    4344.0,
+    -8352.0
+   ],
+   "inflated": false,
+   "destination": [
+    -1600.0,
+    4272.0,
+    -8512.0
+   ],
+   "destination_yaw": -90.0,
+   "comment": "the arrival of S7's gate",
+   "number": 7.0
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    3416.2483687561025,
+    2336.000855947603,
+    -11733.331138981184
+   ],
+   "max": [
+    3608.2483687561025,
+    2528.000855947603,
+    -11541.331138981184
+   ],
+   "inflated": true,
+   "destination": [
+    -1600.0,
+    4272.0,
+    -8512.0
+   ],
+   "destination_yaw": -90.0,
+   "comment": "S7"
+  },
+  {
+   "kind": "END",
+   "track": 0,
+   "min": [
+    2804.625,
+    3328.0,
+    -6631.037109
+   ],
+   "max": [
+    3124.625,
+    3520.0,
+    -6311.037109
+   ],
+   "inflated": false,
+   "destination": [
+    2964.625,
+    3448.0,
+    -6471.037109
+   ],
+   "destination_yaw": -90.0,
+   "comment": "the arrival of Win's gate"
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    3368.0005918648503,
+    1384.0007843050096,
+    -8592.001567550604
+   ],
+   "max": [
+    3560.0005918648503,
+    1576.0007843050096,
+    -8400.001567550604
+   ],
+   "inflated": true,
+   "destination": [
+    2964.625,
+    3448.0,
+    -6471.037109
+   ],
+   "destination_yaw": -90.0,
+   "comment": "Win"
+  }
+ ],
+ "track_names": {
+  "0": "main"
+ },
+ "respawn_volumes": [
+  {
+   "min": [
+    -1151.7866391998668,
+    3392.000191496063,
+    -6975.999255946181
+   ],
+   "max": [
+    928.2132850110593,
+    3584.000191496063,
+    -5951.999169250669
+   ],
+   "inflated": true,
+   "track": 0
+  },
+  {
+   "min": [
+    -1239.7866255375773,
+    3968.000126614173,
+    -6559.998884867879
+   ],
+   "max": [
+    -1047.7866255375773,
+    4160.0001266141735,
+    -6367.998884867879
+   ],
+   "inflated": true,
+   "track": 0
+  },
+  {
+   "min": [
+    824.2132427385401,
+    3904.0001366929137,
+    -6559.999540328973
+   ],
+   "max": [
+    1016.2132427385401,
+    4096.000136692914,
+    -6367.999540328973
+   ],
+   "inflated": true,
+   "track": 0
+  },
+  {
+   "min": [
+    1416.2129807616354,
+    3416.0001266141735,
+    -6559.998884867879
+   ],
+   "max": [
+    1608.2129807616354,
+    3608.0001266141735,
+    -6367.998884867879
+   ],
+   "inflated": true,
+   "track": 0
+  },
+  {
+   "min": [
+    3856.212992878023,
+    3392.000306771654,
+    -7103.999709995311
+   ],
+   "max": [
+    6528.21233557943,
+    3584.000306771654,
+    -4847.9995026031165
+   ],
+   "inflated": true,
+   "track": 0
+  },
+  {
+   "min": [
+    3840.000711726,
+    2986.7409072818255,
+    -9687.99955606909
+   ],
+   "max": [
+    7903.999592328211,
+    3178.7409072818255,
+    -7431.9994268781775
+   ],
+   "inflated": true,
+   "track": 0
+  },
+  {
+   "min": [
+    5984.214290945969,
+    3824.000249624794,
+    -6952.037417493089
+   ],
+   "max": [
+    6176.214290945969,
+    4016.000249624794,
+    -6760.037417493089
+   ],
+   "inflated": true,
+   "track": 0
+  },
+  {
+   "min": [
+    5984.212611571096,
+    3783.9999799905313,
+    -5143.964299411371
+   ],
+   "max": [
+    6176.212611571096,
+    3975.9999799905313,
+    -4951.964299411371
+   ],
+   "inflated": true,
+   "track": 0
+  },
+  {
+   "min": [
+    7784.03469222537,
+    3240.0005232701187,
+    -8631.999641658349
+   ],
+   "max": [
+    7976.03469222537,
+    3432.0005232701187,
+    -8439.999641658349
+   ],
+   "inflated": true,
+   "track": 0
+  },
+  {
+   "min": [
+    8511.999924324426,
+    2986.740906328151,
+    -9679.999951029718
+   ],
+   "max": [
+    12575.998804926638,
+    3178.740906328151,
+    -7423.999821838808
+   ],
+   "inflated": true,
+   "track": 0
+  },
+  {
+   "min": [
+    3840.0004677669467,
+    2987.5027049001824,
+    -12775.998459502405
+   ],
+   "max": [
+    8591.999483981755,
+    3179.5027049001824,
+    -10519.998248295471
+   ],
+   "inflated": true,
+   "track": 0
+  },
+  {
+   "min": [
+    12456.033117422223,
+    3240.000522316445,
+    -8624.000036618978
+   ],
+   "max": [
+    12648.033117422223,
+    3432.000522316445,
+    -8432.000036618978
+   ],
+   "inflated": true,
+   "track": 0
+  },
+  {
+   "min": [
+    -1231.7865691426507,
+    2776.000785494226,
+    -12149.330756436193
+   ],
+   "max": [
+    1616.2129842607612,
+    2968.000785494226,
+    -11125.330578187972
+   ],
+   "inflated": true,
+   "track": 0
+  },
+  {
+   "min": [
+    -1231.7867016945906,
+    1691.5028837223044,
+    -13149.331866116576
+   ],
+   "max": [
+    3520.212549958954,
+    1883.5028837223044,
+    -10117.331777114368
+   ],
+   "inflated": true,
+   "track": 0
+  },
+  {
+   "min": [
+    8488.034298524584,
+    3200.000718930937,
+    -11719.99885677646
+   ],
+   "max": [
+    8680.034298524584,
+    3392.000718930937,
+    -11527.99885677646
+   ],
+   "inflated": true,
+   "track": 0
+  },
+  {
+   "min": [
+    -1727.786017572385,
+    2986.740944089819,
+    -9647.998769927355
+   ],
+   "max": [
+    2336.212863029819,
+    3178.740944089819,
+    -7391.998640736445
+   ],
+   "inflated": true,
+   "track": 0
+  },
+  {
+   "min": [
+    -1151.7866533847716,
+    2054.68574916563,
+    -9647.998816019035
+   ],
+   "max": [
+    3488.21164156508,
+    2246.68574916563,
+    -7391.998496093336
+   ],
+   "inflated": true,
+   "track": 0
+  },
+  {
+   "min": [
+    -2168.7742268515435,
+    630.6859066459451,
+    -9647.998897398818
+   ],
+   "max": [
+    3488.2119428312276,
+    822.6859066459451,
+    -7391.99857830899
+   ],
+   "inflated": true,
+   "track": 0
+  },
+  {
+   "min": [
+    3416.2483687561025,
+    2336.000855947603,
+    -11733.331138981184
+   ],
+   "max": [
+    3608.2483687561025,
+    2528.000855947603,
+    -11541.331138981184
+   ],
+   "inflated": true,
+   "track": 0
+  },
+  {
+   "min": [
+    3368.0005918648503,
+    1384.0007843050096,
+    -8592.001567550604
+   ],
+   "max": [
+    3560.0005918648503,
+    1576.0007843050096,
+    -8400.001567550604
+   ],
+   "inflated": true,
+   "track": 0
+  }
+ ],
+ "mechanics": {
+  "water": [],
+  "push": [],
+  "gravity": [],
+  "hurt": [],
+  "conveyors": [],
+  "ladders": [],
+  "blocks": []
+ },
+ "push_volumes": [],
+ "trigger_volumes": [],
+ "engine": "Source 2 via ValveResourceFormat",
+ "display_name": "surf: intro",
+ "author": "Chent",
+ "notes": "A CS2 (Source 2) map imported through tools/vrf_import.py. Timer volumes are the mapper's own map_start / map_end; the seven stages are not zoned yet (one linear course)."
+}
