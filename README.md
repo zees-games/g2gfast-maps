@@ -50,6 +50,7 @@ tools/g2gmaps fetch --pub path/to/content.pub
 | `bhop_badges` | badges (Badgeslol) | https://gamebanana.com/mods/124524 |
 | `bhop_badges_mini` | GumPum | https://gamebanana.com/mods/124526 |
 | `bhop_eazy` | 31K4L | https://gamebanana.com/mods/124913 |
+| `bhop_epiphany` | wet (the map's own text reads "By Nate"); licence stated on the page: Creative Commons Attribution-NonCommercial-NoDerivs 4.0 | https://gamebanana.com/mods/124957 |
 | `bhop_evolve` | Zyper | https://gamebanana.com/mods/124971 |
 | `bhop_fur` | Fur (TheFur) | https://gamebanana.com/mods/125103 |
 | `bhop_grove` | Tony Montana | https://gamebanana.com/mods/125167 |
