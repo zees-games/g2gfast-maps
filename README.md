@@ -45,6 +45,8 @@ tools/g2gmaps fetch --pub path/to/content.pub
 
 | Map | Author | Source |
 | --- | --- | --- |
+| `bhop_amor` | roma; licence stated on the page: Creative Commons Attribution-NonCommercial-NoDerivs 4.0; removal on request | https://gamebanana.com/mods/124424 |
+| `bhop_angst` | Proxychains; licence stated on the page: Creative Commons Attribution-NonCommercial-NoDerivs 4.0; removal on request | https://gamebanana.com/mods/303411 |
 | `bhop_arcane_v2` | Panzerhandschuh (Panzer); v2 edit uploaded by 'roger haha lol' | https://gamebanana.com/mods/124462 |
 | `bhop_aztec` | Teho-Killeri (mapper), with Touch (design) and Veikko (textures) | https://gamebanana.com/mods/124514 |
 | `bhop_badges` | badges (Badgeslol) | https://gamebanana.com/mods/124524 |
@@ -62,15 +64,18 @@ tools/g2gmaps fetch --pub path/to/content.pub
 | `bhop_platformer_fxd` | DroN (SWM/DroN); published on GameBanana under its original title `bhop_mario_fxd`, renamed here to a neutral id | https://gamebanana.com/mods/125494 |
 | `bhop_supernova` | Sonia_ (map design) and Benchmarked (gameplay); skybox Mr.Who; textures TopHATTwaffle and Sonia_; testers Juked, tricksterr, plar, samurai; Subnautica models by Unknown Worlds Entertainment | https://gamebanana.com/mods/313046 |
 | `bhop_tesquo_v2` | george (GeorgeRulesLOL); 'Made a stage': Jagg | https://gamebanana.com/mods/126185 |
+| `bhop_training_fun` | Soapy Soap; licence stated on the page: Creative Commons Attribution-NonCommercial-NoDerivs 4.0; removal on request | https://gamebanana.com/mods/126237 |
 | `buses_from_hell_fixed` | siXMan | https://gamebanana.com/mods/127607 |
 | `surf_aquaflow` | NvC_DmN_CH | https://gamebanana.com/mods/137715 |
 | `surf_arcade` | maz64 (maz) | https://gamebanana.com/mods/137716 |
 | `surf_beginner2` | Kiiru | https://gamebanana.com/mods/137722 |
+| `surf_ember` | Skar; licence stated on the page: Creative Commons Attribution-NonCommercial-NoDerivs 4.0; removal on request | https://gamebanana.com/mods/122002 |
 | `surf_greensway` | NvC_DmN_CH | https://gamebanana.com/mods/137798 |
 | `surf_hologram` | Chent (a Source 2 map, converted with ValveResourceFormat) | https://gamebanana.com/mods/525468 |
 | `surf_interference` | NvC_DmN_CH | https://gamebanana.com/mods/137815 |
 | `surf_intro` | Chent (a Source 2 map, converted with ValveResourceFormat; removal on request) | https://gamebanana.com/mods/524245 |
 | `surf_kitsune` | Arblarg | https://gamebanana.com/mods/122382 |
+| `surf_lithium2` | copy-mark (map); textures nikki, skybox karatekaefer; licence stated on the page: Creative Commons Attribution-NonCommercial-NoDerivs 4.0; removal on request | https://gamebanana.com/mods/122445 |
 | `surf_mesa` | Arblarg | https://gamebanana.com/mods/122542 |
 | `surf_summit` | Juxtapo and Phurix | https://gamebanana.com/mods/137705 |
 | `surf_year3000` | ArchAngel | https://gamebanana.com/mods/123298 |

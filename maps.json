@@ -3,10 +3,22 @@
   "origin": "https://dotgames.org/content",
   "maps": [
     {
+      "id": "bhop_amor",
+      "author": "roma",
+      "source": "https://gamebanana.com/mods/124424",
+      "bytes": 3376632
+    },
+    {
       "id": "bhop_ananas",
       "author": "serz",
       "source": "https://gamebanana.com/mods/124428",
-      "bytes": 11629732
+      "bytes": 11634913
+    },
+    {
+      "id": "bhop_angst",
+      "author": "Proxychains",
+      "source": "https://gamebanana.com/mods/303411",
+      "bytes": 33044496
     },
     {
       "id": "bhop_arcane_v2",
@@ -60,7 +72,7 @@
       "id": "bhop_elate",
       "author": "biql",
       "source": "https://gamebanana.com/mods/124933",
-      "bytes": 72341522
+      "bytes": 72343152
     },
     {
       "id": "bhop_epiphany",
@@ -78,13 +90,13 @@
       "id": "bhop_exodus",
       "author": "Aoki",
       "source": "https://gamebanana.com/mods/124977",
-      "bytes": 28635544
+      "bytes": 28684564
     },
     {
       "id": "bhop_frotinity2",
       "author": "FlowBhop (stages 1 and 6), Kotzilla (2), muhamadnjak (3), Sonia_ (4), Linirin (5, 7), ampbhop (8)",
       "source": "https://gamebanana.com/mods/125089",
-      "bytes": 243503258
+      "bytes": 243519078
     },
     {
       "id": "bhop_fur",
@@ -114,7 +126,7 @@
       "id": "bhop_japan",
       "author": "Tony Montana",
       "source": "https://gamebanana.com/mods/125304",
-      "bytes": 50223845
+      "bytes": 50282106
     },
     {
       "id": "bhop_lego2",
@@ -132,13 +144,13 @@
       "id": "bhop_monster_jam",
       "author": "monster jam and Aoki",
       "source": "https://gamebanana.com/mods/125558",
-      "bytes": 10876001
+      "bytes": 10904535
     },
     {
       "id": "bhop_nature",
       "author": "BLENDIE",
       "source": "https://gamebanana.com/mods/125590",
-      "bytes": 110362709
+      "bytes": 110376973
     },
     {
       "id": "bhop_ocean",
@@ -186,7 +198,13 @@
       "id": "bhop_tesquo_v2",
       "author": "george (GeorgeRulesLOL); 'Made a stage': Jagg",
       "source": "https://gamebanana.com/mods/126185",
-      "bytes": 22452470
+      "bytes": 22452841
+    },
+    {
+      "id": "bhop_training_fun",
+      "author": "Soapy Soap",
+      "source": "https://gamebanana.com/mods/126237",
+      "bytes": 468660
     },
     {
       "id": "bhop_underground_crypt",
@@ -228,13 +246,13 @@
       "id": "surf_animals",
       "author": "Razer, AmstaFF, Frizzlehead9, Robsonfire, Ton!x, Silverlol, Hellraisedsurfer, Nitro",
       "source": "https://gamebanana.com/mods/121629",
-      "bytes": 46445724
+      "bytes": 46451018
     },
     {
       "id": "surf_aquaflow",
       "author": "NvC_DmN_CH",
       "source": "https://gamebanana.com/mods/137715",
-      "bytes": 59998161
+      "bytes": 59998283
     },
     {
       "id": "surf_arcade",
@@ -261,6 +279,12 @@
       "bytes": 5968343
     },
     {
+      "id": "surf_ember",
+      "author": "Skar",
+      "source": "https://gamebanana.com/mods/122002",
+      "bytes": 11550025
+    },
+    {
       "id": "surf_greensway",
       "author": "NvC_DmN_CH",
       "source": "https://gamebanana.com/mods/137798",
@@ -279,6 +303,12 @@
       "bytes": 29693176
     },
     {
+      "id": "surf_intro",
+      "author": "Chent",
+      "source": "https://gamebanana.com/mods/524245",
+      "bytes": 518858
+    },
+    {
       "id": "surf_kitsune",
       "author": "Arblarg",
       "source": "https://gamebanana.com/mods/122382",
@@ -289,6 +319,12 @@
       "author": "SKAR",
       "source": "https://gamebanana.com/mods/122432",
       "bytes": 3969368
+    },
+    {
+      "id": "surf_lithium2",
+      "author": "copy-mark",
+      "source": "https://gamebanana.com/mods/122445",
+      "bytes": 13534676
     },
     {
       "id": "surf_lore",
@@ -312,7 +348,7 @@
       "id": "surf_mesa",
       "author": "Arblarg",
       "source": "https://gamebanana.com/mods/122542",
-      "bytes": 40200864
+      "bytes": 40219612
     },
     {
       "id": "surf_omnibus",
