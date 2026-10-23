@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "title": "Bhop Toroux",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-g2gfast"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "bhop_toroux",
+            "name": "Bhop Toroux",
+            "scene": "bhop_toroux.json",
+            "map_kind": "bhop"
+        }
+    ]
+}

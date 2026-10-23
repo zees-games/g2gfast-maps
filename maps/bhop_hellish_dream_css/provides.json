@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "title": "Bhop Hellish Dream Css",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-g2gfast"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "bhop_hellish_dream_css",
+            "name": "Bhop Hellish Dream Css",
+            "scene": "bhop_hellish_dream_css.json",
+            "map_kind": "bhop"
+        }
+    ]
+}

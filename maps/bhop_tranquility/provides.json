@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "title": "Bhop Tranquility",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-g2gfast"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "bhop_tranquility",
+            "name": "Bhop Tranquility",
+            "scene": "bhop_tranquility.json",
+            "map_kind": "bhop"
+        }
+    ]
+}

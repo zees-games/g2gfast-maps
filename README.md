@@ -51,11 +51,14 @@ tools/g2gmaps fetch --pub path/to/content.pub
 | `bhop_aztec` | Teho-Killeri (mapper), with Touch (design) and Veikko (textures) | https://gamebanana.com/mods/124514 |
 | `bhop_badges` | badges (Badgeslol) | https://gamebanana.com/mods/124524 |
 | `bhop_badges_mini` | GumPum | https://gamebanana.com/mods/124526 |
+| `bhop_depot` | ballz of steel; licence stated on the page: Creative Commons Attribution-NonCommercial-NoDerivs 4.0; removal on request | https://gamebanana.com/mods/124816 |
 | `bhop_eazy` | 31K4L | https://gamebanana.com/mods/124913 |
 | `bhop_epiphany` | wet (the map's own text reads "By Nate"); licence stated on the page: Creative Commons Attribution-NonCommercial-NoDerivs 4.0 | https://gamebanana.com/mods/124957 |
 | `bhop_evolve` | Zyper | https://gamebanana.com/mods/124971 |
 | `bhop_fur` | Fur (TheFur) | https://gamebanana.com/mods/125103 |
+| `bhop_fury` | Dotty; licence stated on the page: Creative Commons Attribution-NonCommercial-NoDerivs 4.0; removal on request | https://gamebanana.com/mods/125105 |
 | `bhop_grove` | Tony Montana | https://gamebanana.com/mods/125167 |
+| `bhop_hellish_dream_css` | Sonia_ (map and textures); skybox Mr.Who; textures komaokc, TopHATTwaffle, Wolves Hero; licence stated on the page: Creative Commons Attribution-NonCommercial-NoDerivs 4.0; removal on request | https://gamebanana.com/mods/125200 |
 | `bhop_interloper` | Tony Montana | https://gamebanana.com/mods/125285 |
 | `bhop_lego2` | Tony Montana (tmontana) | https://gamebanana.com/mods/125408 |
 | `bhop_monster_jam` | monster jam and Aoki | https://gamebanana.com/mods/125558 |
@@ -64,7 +67,9 @@ tools/g2gmaps fetch --pub path/to/content.pub
 | `bhop_platformer_fxd` | DroN (SWM/DroN); published on GameBanana under its original title `bhop_mario_fxd`, renamed here to a neutral id | https://gamebanana.com/mods/125494 |
 | `bhop_supernova` | Sonia_ (map design) and Benchmarked (gameplay); skybox Mr.Who; textures TopHATTwaffle and Sonia_; testers Juked, tricksterr, plar, samurai; Subnautica models by Unknown Worlds Entertainment | https://gamebanana.com/mods/313046 |
 | `bhop_tesquo_v2` | george (GeorgeRulesLOL); 'Made a stage': Jagg | https://gamebanana.com/mods/126185 |
+| `bhop_toroux` | toroux; the page says 'feel free to Port this map'; licence stated on the page: Creative Commons Attribution-NonCommercial-NoDerivs 4.0; removal on request | https://gamebanana.com/mods/126232 |
 | `bhop_training_fun` | Soapy Soap; licence stated on the page: Creative Commons Attribution-NonCommercial-NoDerivs 4.0; removal on request | https://gamebanana.com/mods/126237 |
+| `bhop_tranquility` | Nallieheai (Bhop World Cup 2020); textures TopHATTwaffle, silkroad, biql, Emque; models Aui__, Fibbs; licence stated on the page: Creative Commons Attribution-NonCommercial-NoDerivs 4.0; removal on request | https://gamebanana.com/mods/126240 |
 | `buses_from_hell_fixed` | siXMan | https://gamebanana.com/mods/127607 |
 | `surf_aquaflow` | NvC_DmN_CH | https://gamebanana.com/mods/137715 |
 | `surf_arcade` | maz64 (maz) | https://gamebanana.com/mods/137716 |
