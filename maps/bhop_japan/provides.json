@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "title": "Bhop Japan",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-g2gfast"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "bhop_japan",
+            "name": "Bhop Japan",
+            "scene": "bhop_japan.json",
+            "map_kind": "bhop"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "title": "Surf Lt Unicorn",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-g2gfast"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "surf_lt_unicorn",
+            "name": "Surf Lt Unicorn",
+            "scene": "surf_lt_unicorn.json",
+            "map_kind": "surf"
+        }
+    ]
+}

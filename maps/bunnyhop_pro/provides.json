@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "title": "Bunnyhop Pro",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-g2gfast"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "bunnyhop_pro",
+            "name": "Bunnyhop Pro",
+            "scene": "bunnyhop_pro.json",
+            "map_kind": "bhop"
+        }
+    ]
+}

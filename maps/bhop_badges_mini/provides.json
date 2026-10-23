@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "title": "Bhop Badges Mini",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-g2gfast"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "bhop_badges_mini",
+            "name": "Bhop Badges Mini",
+            "scene": "bhop_badges_mini.json",
+            "map_kind": "bhop"
+        }
+    ]
+}

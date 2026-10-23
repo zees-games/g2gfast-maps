@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "title": "Surf Interference",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-g2gfast"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "surf_interference",
+            "name": "Surf Interference",
+            "scene": "surf_interference.json",
+            "map_kind": "surf"
+        }
+    ]
+}

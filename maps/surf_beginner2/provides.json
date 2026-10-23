@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "title": "Surf Beginner2",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-g2gfast"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "surf_beginner2",
+            "name": "Surf Beginner2",
+            "scene": "surf_beginner2.json",
+            "map_kind": "surf"
+        }
+    ]
+}

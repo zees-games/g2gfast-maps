@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "title": "Surf Mesa",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-g2gfast"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "surf_mesa",
+            "name": "Surf Mesa",
+            "scene": "surf_mesa.json",
+            "map_kind": "surf"
+        }
+    ]
+}

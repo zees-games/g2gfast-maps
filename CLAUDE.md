@@ -17,3 +17,5 @@ The imported maps game-g2gfast plays, as their own repository. Read `../../CLAUD
 **Credits are mandatory.** `manifest` copies each map's author and source page from the game's `maps/zones/<id>.json` and refuses to finish if any map has none. The game shows the author on screen at a map change (`[credit-1]`).
 
 Plain git, no LFS: the largest file is 66 MB (`surf_summit.bin`), under GitHub's 100 MB limit, and LFS bandwidth quotas would make every clone of a public repository a bill.
+
+**Each map folder carries a `provides.json`, which is what lists that map's pack in the Workshop** (kind `map`, the game it is for, one entry whose `scene` is the map document beside it). `tools/build_provides.py` writes them all and `--check` verifies them; rerun it when a map is added. The pack zip holds the folder's files at its root, so the file ships.

@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "title": "Surf Intro",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-g2gfast"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "surf_intro",
+            "name": "Surf Intro",
+            "scene": "surf_intro.json",
+            "map_kind": "surf"
+        }
+    ]
+}

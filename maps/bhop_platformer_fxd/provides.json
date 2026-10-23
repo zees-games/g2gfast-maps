@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "title": "Bhop Platformer Fxd",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-g2gfast"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "bhop_platformer_fxd",
+            "name": "Bhop Platformer Fxd",
+            "scene": "bhop_platformer_fxd.json",
+            "map_kind": "bhop"
+        }
+    ]
+}

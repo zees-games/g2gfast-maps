@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "title": "Bhop Underground Crypt",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-g2gfast"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "bhop_underground_crypt",
+            "name": "Bhop Underground Crypt",
+            "scene": "bhop_underground_crypt.json",
+            "map_kind": "bhop"
+        }
+    ]
+}

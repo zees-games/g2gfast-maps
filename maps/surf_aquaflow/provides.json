@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "title": "Surf Aquaflow",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-g2gfast"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "surf_aquaflow",
+            "name": "Surf Aquaflow",
+            "scene": "surf_aquaflow.json",
+            "map_kind": "surf"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "title": "Surf Ember",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-g2gfast"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "surf_ember",
+            "name": "Surf Ember",
+            "scene": "surf_ember.json",
+            "map_kind": "surf"
+        }
+    ]
+}

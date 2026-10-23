@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "title": "Bhop Pandora2 Fix",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-g2gfast"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "bhop_pandora2_fix",
+            "name": "Bhop Pandora2 Fix",
+            "scene": "bhop_pandora2_fix.json",
+            "map_kind": "bhop"
+        }
+    ]
+}

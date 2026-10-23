@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "title": "Bhop Angst",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-g2gfast"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "bhop_angst",
+            "name": "Bhop Angst",
+            "scene": "bhop_angst.json",
+            "map_kind": "bhop"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "title": "Surf Hologram",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-g2gfast"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "surf_hologram",
+            "name": "Surf Hologram",
+            "scene": "surf_hologram.json",
+            "map_kind": "surf"
+        }
+    ]
+}

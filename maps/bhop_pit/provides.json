@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "title": "Bhop Pit",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-g2gfast"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "bhop_pit",
+            "name": "Bhop Pit",
+            "scene": "bhop_pit.json",
+            "map_kind": "bhop"
+        }
+    ]
+}

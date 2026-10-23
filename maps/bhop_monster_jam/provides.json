@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "title": "Bhop Monster Jam",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-g2gfast"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "bhop_monster_jam",
+            "name": "Bhop Monster Jam",
+            "scene": "bhop_monster_jam.json",
+            "map_kind": "bhop"
+        }
+    ]
+}

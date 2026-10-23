@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "title": "Bhop Fury 2",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-g2gfast"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "bhop_fury_2",
+            "name": "Bhop Fury 2",
+            "scene": "bhop_fury_2.json",
+            "map_kind": "bhop"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "title": "Kz Bhop Badg3s",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-g2gfast"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "kz_bhop_badg3s",
+            "name": "Kz Bhop Badg3s",
+            "scene": "kz_bhop_badg3s.json",
+            "map_kind": "kz"
+        }
+    ]
+}

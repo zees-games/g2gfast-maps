@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "title": "Surf Kitsune",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-g2gfast"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "surf_kitsune",
+            "name": "Surf Kitsune",
+            "scene": "surf_kitsune.json",
+            "map_kind": "surf"
+        }
+    ]
+}

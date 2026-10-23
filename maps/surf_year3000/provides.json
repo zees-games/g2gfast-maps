@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "title": "Surf Year3000",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-g2gfast"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "surf_year3000",
+            "name": "Surf Year3000",
+            "scene": "surf_year3000.json",
+            "map_kind": "surf"
+        }
+    ]
+}

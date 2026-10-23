@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "title": "Bhop Nature",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-g2gfast"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "bhop_nature",
+            "name": "Bhop Nature",
+            "scene": "bhop_nature.json",
+            "map_kind": "bhop"
+        }
+    ]
+}

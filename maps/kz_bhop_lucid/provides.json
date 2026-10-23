@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "title": "Kz Bhop Lucid",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-g2gfast"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "kz_bhop_lucid",
+            "name": "Kz Bhop Lucid",
+            "scene": "kz_bhop_lucid.json",
+            "map_kind": "kz"
+        }
+    ]
+}
