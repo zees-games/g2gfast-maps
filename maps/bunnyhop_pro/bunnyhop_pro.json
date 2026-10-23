@@ -725,9 +725,72 @@
     1053.0
    ],
    "max": [
+    -1499.0,
+    450.0,
+    1245.0
+   ],
+   "inflated": true,
+   "destination": [
+    -1408.0,
+    136.0,
+    -3448.0
+   ],
+   "destination_yaw": 180.0
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -1499.0,
+    258.0,
+    1213.0
+   ],
+   "max": [
     -1388.0,
     450.0,
     1245.0
+   ],
+   "inflated": true,
+   "destination": [
+    -1408.0,
+    136.0,
+    -3448.0
+   ],
+   "destination_yaw": 180.0
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -1499.0,
+    258.0,
+    1053.0
+   ],
+   "max": [
+    -1388.0,
+    450.0,
+    1149.0
+   ],
+   "inflated": true,
+   "destination": [
+    -1408.0,
+    136.0,
+    -3448.0
+   ],
+   "destination_yaw": 180.0
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -1499.0,
+    290.0,
+    1149.0
+   ],
+   "max": [
+    -1388.0,
+    450.0,
+    1213.0
    ],
    "inflated": true,
    "destination": [
@@ -757,6 +820,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -1432.0,
@@ -776,6 +840,62 @@
     258.0
    ],
    "max": [
+    -1499.0,
+    -1053.0,
+    450.0
+   ],
+   "inflated": true,
+   "hung": false,
+   "cleared": true,
+   "trimmed": true,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -1481.0,
+    -1163.0,
+    290.0
+   ],
+   "original_max": [
+    -1453.0,
+    -1135.0,
+    418.0
+   ]
+  },
+  {
+   "min": [
+    -1499.0,
+    -1245.0,
+    258.0
+   ],
+   "max": [
+    -1388.0,
+    -1213.0,
+    450.0
+   ],
+   "inflated": true,
+   "hung": false,
+   "cleared": true,
+   "trimmed": true,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -1481.0,
+    -1163.0,
+    290.0
+   ],
+   "original_max": [
+    -1453.0,
+    -1135.0,
+    418.0
+   ]
+  },
+  {
+   "min": [
+    -1499.0,
+    -1149.0,
+    258.0
+   ],
+   "max": [
     -1388.0,
     -1053.0,
     450.0
@@ -784,6 +904,35 @@
    "hung": false,
    "cleared": true,
    "trimmed": true,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -1481.0,
+    -1163.0,
+    290.0
+   ],
+   "original_max": [
+    -1453.0,
+    -1135.0,
+    418.0
+   ]
+  },
+  {
+   "min": [
+    -1499.0,
+    -1213.0,
+    290.0
+   ],
+   "max": [
+    -1388.0,
+    -1149.0,
+    450.0
+   ],
+   "inflated": true,
+   "hung": false,
+   "cleared": true,
+   "trimmed": true,
+   "stood": true,
    "track": 0,
    "original_min": [
     -1481.0,

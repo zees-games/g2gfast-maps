@@ -1870,6 +1870,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 1,
    "original_min": [
     -5888.0,
@@ -1897,6 +1898,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -7408.0,
@@ -1924,6 +1926,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 1,
    "original_min": [
     -7824.0,
@@ -1951,6 +1954,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -6512.0,

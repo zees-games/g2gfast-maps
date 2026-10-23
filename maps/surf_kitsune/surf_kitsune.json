@@ -3256,6 +3256,48 @@
     8258.0
    ],
    "max": [
+    3808.0,
+    -14176.0,
+    10592.0
+   ],
+   "inflated": true,
+   "destination": [
+    512.0,
+    -12095.0,
+    14928.0
+   ],
+   "destination_yaw": 0.0
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    3808.0,
+    -14368.0,
+    8258.0
+   ],
+   "max": [
+    6208.0,
+    -14176.0,
+    10528.0
+   ],
+   "inflated": true,
+   "destination": [
+    512.0,
+    -12095.0,
+    14928.0
+   ],
+   "destination_yaw": 0.0
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    3808.0,
+    -14356.0,
+    10528.0
+   ],
+   "max": [
     6208.0,
     -14176.0,
     10592.0
@@ -4747,6 +4789,27 @@
     -11135.0
    ],
    "max": [
+    -3162.666666666667,
+    2431.999828066562,
+    -9217.0
+   ],
+   "inflated": true,
+   "destination": [
+    -15104.0,
+    10817.0,
+    -15072.0
+   ],
+   "destination_yaw": 180.0
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -3162.666666666667,
+    2380.0,
+    -11135.0
+   ],
+   "max": [
     -3072.0,
     2431.999828066562,
     -9217.0
@@ -4873,6 +4936,48 @@
     -9216.0
    ],
    "max": [
+    -1088.0,
+    -5200.0,
+    -7296.0
+   ],
+   "inflated": true,
+   "destination": [
+    -15104.0,
+    10817.0,
+    -15072.0
+   ],
+   "destination_yaw": 180.0
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -1088.0,
+    -5392.0,
+    -9184.0
+   ],
+   "max": [
+    -1056.0,
+    -5200.0,
+    -7296.0
+   ],
+   "inflated": true,
+   "destination": [
+    -15104.0,
+    10817.0,
+    -15072.0
+   ],
+   "destination_yaw": 180.0
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -1056.0,
+    -5392.0,
+    -9152.0
+   ],
+   "max": [
     1024.0,
     -5200.0,
     -7296.0
@@ -4889,8 +4994,71 @@
    "kind": "RESPAWN",
    "track": 0,
    "min": [
+    -1088.0,
+    -5332.0,
+    -9216.0
+   ],
+   "max": [
+    -1056.0,
+    -5200.0,
+    -9184.0
+   ],
+   "inflated": true,
+   "destination": [
+    -15104.0,
+    10817.0,
+    -15072.0
+   ],
+   "destination_yaw": 180.0
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -1056.0,
+    -5332.0,
+    -9216.0
+   ],
+   "max": [
+    1024.0,
+    -5200.0,
+    -9152.0
+   ],
+   "inflated": true,
+   "destination": [
+    -15104.0,
+    10817.0,
+    -15072.0
+   ],
+   "destination_yaw": 180.0
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
     -3072.0,
     -5392.0,
+    -11136.0
+   ],
+   "max": [
+    -1088.0,
+    -5200.0,
+    -9216.0
+   ],
+   "inflated": true,
+   "destination": [
+    -15104.0,
+    10817.0,
+    -15072.0
+   ],
+   "destination_yaw": 180.0
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -1088.0,
+    -5332.0,
     -11136.0
    ],
    "max": [
@@ -5997,6 +6165,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -15936.0,
@@ -6024,6 +6193,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -13888.0,
@@ -6051,6 +6221,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -12032.0,
@@ -6078,6 +6249,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -9360.0,
@@ -6105,6 +6277,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -6288.0,
@@ -6124,6 +6297,34 @@
     -14368.0
    ],
    "max": [
+    3808.0,
+    -8258.0,
+    -14176.0
+   ],
+   "inflated": true,
+   "hung": false,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    1536.0,
+    -10592.0,
+    -14304.0
+   ],
+   "original_max": [
+    6208.0,
+    -8258.0,
+    -14240.0
+   ]
+  },
+  {
+   "min": [
+    3808.0,
+    -10528.0,
+    -14368.0
+   ],
+   "max": [
     6208.0,
     -8258.0,
     -14176.0
@@ -6132,6 +6333,35 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    1536.0,
+    -10592.0,
+    -14304.0
+   ],
+   "original_max": [
+    6208.0,
+    -8258.0,
+    -14240.0
+   ]
+  },
+  {
+   "min": [
+    3808.0,
+    -10592.0,
+    -14356.0
+   ],
+   "max": [
+    6208.0,
+    -10528.0,
+    -14176.0
+   ],
+   "inflated": true,
+   "hung": false,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
    "track": 0,
    "original_min": [
     1536.0,
@@ -6159,6 +6389,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -512.0,
@@ -6186,6 +6417,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     3872.0,
@@ -6213,6 +6445,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     7168.0,
@@ -6240,6 +6473,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -16064.0,
@@ -6267,6 +6501,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -16064.0,
@@ -6294,6 +6529,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -16064.0,
@@ -6321,6 +6557,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -16064.0,
@@ -6348,6 +6585,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -14144.0,
@@ -6375,6 +6613,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -12224.0,
@@ -6402,6 +6641,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -12223.0,
@@ -6429,6 +6669,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -12223.0,
@@ -6456,6 +6697,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -12223.0,
@@ -6483,6 +6725,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -12223.0,
@@ -6510,6 +6753,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -12223.0,
@@ -6537,6 +6781,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -12223.0,
@@ -6564,6 +6809,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -12223.0,
@@ -6591,6 +6837,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -12223.0,
@@ -6618,6 +6865,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -12223.0,
@@ -6645,6 +6893,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -12223.0,
@@ -6672,6 +6921,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -12223.0,
@@ -6699,6 +6949,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -12223.0,
@@ -6726,6 +6977,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -12223.0,
@@ -6753,6 +7005,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -12223.0,
@@ -6780,6 +7033,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -12223.0,
@@ -6807,6 +7061,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -12223.0,
@@ -6834,6 +7089,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -12223.0,
@@ -6861,6 +7117,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -12223.0,
@@ -6888,6 +7145,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -12223.0,
@@ -6915,6 +7173,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -12223.0,
@@ -6942,6 +7201,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -12223.0,
@@ -6969,6 +7229,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -12223.0,
@@ -6996,6 +7257,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -12223.0,
@@ -7023,6 +7285,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -12223.0,
@@ -7050,6 +7313,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -12223.0,
@@ -7077,6 +7341,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -12223.0,
@@ -7104,6 +7369,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -9792.0,
@@ -7131,6 +7397,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -9605.333333333334,
@@ -7158,6 +7425,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -9418.666666666666,
@@ -7185,6 +7453,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -9232.0,
@@ -7212,6 +7481,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -9045.333333333334,
@@ -7239,6 +7509,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -8858.666666666666,
@@ -7266,6 +7537,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -8672.0,
@@ -7293,6 +7565,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -8485.333333333334,
@@ -7320,6 +7593,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -8298.666666666666,
@@ -7347,6 +7621,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -8112.0,
@@ -7374,6 +7649,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -7925.333333333334,
@@ -7401,6 +7677,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -7738.666666666667,
@@ -7428,6 +7705,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -7552.0,
@@ -7455,6 +7733,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -7365.333333333334,
@@ -7482,6 +7761,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -7178.666666666667,
@@ -7509,6 +7789,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -6992.0,
@@ -7536,6 +7817,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -6805.333333333334,
@@ -7563,6 +7845,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -6618.666666666667,
@@ -7590,6 +7873,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -6432.0,
@@ -7617,6 +7901,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -6245.333333333334,
@@ -7644,6 +7929,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -6058.666666666667,
@@ -7671,6 +7957,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -5872.0,
@@ -7698,6 +7985,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -5685.333333333334,
@@ -7725,6 +8013,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -5498.666666666667,
@@ -7752,6 +8041,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -5312.0,
@@ -7779,6 +8069,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -5125.333333333334,
@@ -7806,6 +8097,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -4938.666666666667,
@@ -7833,6 +8125,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -4752.0,
@@ -7860,6 +8153,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -4565.333333333334,
@@ -7887,6 +8181,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -4378.666666666667,
@@ -7914,6 +8209,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -4192.0,
@@ -7941,6 +8237,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -4005.333333333334,
@@ -7968,6 +8265,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -3818.666666666667,
@@ -7995,6 +8293,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -3632.0,
@@ -8022,6 +8321,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -3445.333333333334,
@@ -8041,6 +8341,34 @@
     2239.999828066562
    ],
    "max": [
+    -3162.666666666667,
+    11135.0,
+    2431.999828066562
+   ],
+   "inflated": true,
+   "hung": true,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -3258.666666666667,
+    9217.0,
+    2414.222333160213
+   ],
+   "original_max": [
+    -3072.0,
+    11135.0,
+    2431.999828066562
+   ]
+  },
+  {
+   "min": [
+    -3162.666666666667,
+    9217.0,
+    2380.0
+   ],
+   "max": [
     -3072.0,
     11135.0,
     2431.999828066562
@@ -8049,6 +8377,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": true,
    "track": 0,
    "original_min": [
     -3258.666666666667,
@@ -8076,6 +8405,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -3072.0,
@@ -8103,6 +8433,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -3072.0,
@@ -8130,6 +8461,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -1024.0,
@@ -8157,6 +8489,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -1024.0,
@@ -8184,6 +8517,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -3072.0,
@@ -8203,6 +8537,118 @@
     -5392.0
    ],
    "max": [
+    -1088.0,
+    9216.0,
+    -5200.0
+   ],
+   "inflated": true,
+   "hung": false,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -3072.0,
+    7296.0,
+    -5312.0
+   ],
+   "original_max": [
+    1024.0,
+    9216.0,
+    -5280.0
+   ]
+  },
+  {
+   "min": [
+    -1088.0,
+    7296.0,
+    -5392.0
+   ],
+   "max": [
+    -1056.0,
+    9184.0,
+    -5200.0
+   ],
+   "inflated": true,
+   "hung": false,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -3072.0,
+    7296.0,
+    -5312.0
+   ],
+   "original_max": [
+    1024.0,
+    9216.0,
+    -5280.0
+   ]
+  },
+  {
+   "min": [
+    -1056.0,
+    7296.0,
+    -5392.0
+   ],
+   "max": [
+    1024.0,
+    9152.0,
+    -5200.0
+   ],
+   "inflated": true,
+   "hung": false,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -3072.0,
+    7296.0,
+    -5312.0
+   ],
+   "original_max": [
+    1024.0,
+    9216.0,
+    -5280.0
+   ]
+  },
+  {
+   "min": [
+    -1088.0,
+    9184.0,
+    -5332.0
+   ],
+   "max": [
+    -1056.0,
+    9216.0,
+    -5200.0
+   ],
+   "inflated": true,
+   "hung": false,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -3072.0,
+    7296.0,
+    -5312.0
+   ],
+   "original_max": [
+    1024.0,
+    9216.0,
+    -5280.0
+   ]
+  },
+  {
+   "min": [
+    -1056.0,
+    9152.0,
+    -5332.0
+   ],
+   "max": [
     1024.0,
     9216.0,
     -5200.0
@@ -8211,6 +8657,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": true,
    "track": 0,
    "original_min": [
     -3072.0,
@@ -8230,6 +8677,34 @@
     -5392.0
    ],
    "max": [
+    -1088.0,
+    11136.0,
+    -5200.0
+   ],
+   "inflated": true,
+   "hung": false,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -3072.0,
+    9216.0,
+    -5312.0
+   ],
+   "original_max": [
+    -1024.0,
+    11136.0,
+    -5280.0
+   ]
+  },
+  {
+   "min": [
+    -1088.0,
+    9216.0,
+    -5332.0
+   ],
+   "max": [
     -1024.0,
     11136.0,
     -5200.0
@@ -8238,6 +8713,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": true,
    "track": 0,
    "original_min": [
     -3072.0,
@@ -8265,6 +8741,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     1088.0,
@@ -8292,6 +8769,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     1274.6666666666667,
@@ -8319,6 +8797,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     1461.3333333333333,
@@ -8346,6 +8825,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     1648.0,
@@ -8373,6 +8853,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     1834.6666666666665,
@@ -8400,6 +8881,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     2021.3333333333333,
@@ -8427,6 +8909,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     2208.0,
@@ -8454,6 +8937,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     2394.6666666666665,
@@ -8481,6 +8965,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     2581.333333333333,
@@ -8508,6 +8993,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     2768.0,
@@ -8535,6 +9021,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     2954.6666666666665,
@@ -8562,6 +9049,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     3141.333333333333,
@@ -8589,6 +9077,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     3328.0,
@@ -8616,6 +9105,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     3514.6666666666665,
@@ -8643,6 +9133,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     3701.333333333333,
@@ -8670,6 +9161,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     3888.0,
@@ -8697,6 +9189,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     4074.6666666666665,
@@ -8724,6 +9217,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     4261.333333333333,
@@ -8751,6 +9245,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     4448.0,
@@ -8778,6 +9273,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     4634.666666666666,
@@ -8805,6 +9301,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     4821.333333333333,
@@ -8832,6 +9329,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     5008.0,
@@ -8859,6 +9357,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     5194.666666666666,
@@ -8886,6 +9385,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     5381.333333333333,
@@ -8913,6 +9413,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     5568.0,
@@ -8940,6 +9441,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     5754.666666666666,
@@ -8967,6 +9469,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     5941.333333333333,
@@ -8994,6 +9497,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     6128.0,
@@ -9021,6 +9525,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     6314.666666666666,
@@ -9048,6 +9553,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     6501.333333333333,
@@ -9075,6 +9581,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     6688.0,
@@ -9102,6 +9609,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     6874.666666666666,
@@ -9129,6 +9637,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     7061.333333333333,
@@ -9156,6 +9665,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     7248.0,
@@ -9183,6 +9693,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     7434.666666666666,
@@ -9210,6 +9721,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     7621.333333333333,
@@ -9237,6 +9749,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -1024.0,
@@ -9264,6 +9777,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     7808.0,
@@ -9291,6 +9805,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -16064.0,
@@ -9318,6 +9833,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     14032.0,
@@ -9345,6 +9861,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     13088.0,
@@ -9372,6 +9889,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     13088.0,
@@ -9399,6 +9917,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     14560.0,
@@ -9426,6 +9945,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     13552.0,
@@ -9453,6 +9973,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     13552.0,
@@ -9480,6 +10001,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -3008.0,
@@ -9507,6 +10029,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -3008.0,
@@ -9534,6 +10057,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -3008.0,
@@ -9561,6 +10085,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -3008.0,
@@ -9588,6 +10113,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -3008.0,
@@ -9615,6 +10141,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     9216.0,
