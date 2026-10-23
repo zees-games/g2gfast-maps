@@ -2887,7 +2887,7 @@
    "track": 0,
    "min": [
     -305.0,
-    -124.0,
+    -6.159999999999997,
     -4432.0
    ],
    "max": [
@@ -2908,7 +2908,7 @@
    "track": 0,
    "min": [
     -512.0,
-    -160.0,
+    -6.159999999999997,
     -464.0
    ],
    "max": [
@@ -2929,7 +2929,7 @@
    "track": 0,
    "min": [
     -512.0,
-    -160.0,
+    -6.159999999999997,
     -1632.0
    ],
    "max": [
@@ -2950,7 +2950,7 @@
    "track": 0,
    "min": [
     -512.0,
-    -160.0,
+    -6.159999999999997,
     -3968.0
    ],
    "max": [
@@ -3244,7 +3244,7 @@
    "track": 0,
    "min": [
     9557.0,
-    -1761.0,
+    -1601.0,
     4568.0
    ],
    "max": [
@@ -3265,7 +3265,7 @@
    "track": 0,
    "min": [
     -512.0,
-    -152.0,
+    -6.159999999999997,
     -7512.0
    ],
    "max": [
@@ -3286,7 +3286,7 @@
    "track": 0,
    "min": [
     -512.0,
-    -68.0,
+    -6.159999999999997,
     -9856.0
    ],
    "max": [
@@ -3328,7 +3328,7 @@
    "track": 0,
    "min": [
     -512.0,
-    -72.0,
+    -6.159999999999997,
     -2800.0
    ],
    "max": [
@@ -3937,7 +3937,7 @@
    "track": 0,
    "min": [
     -5203.0,
-    3496.5,
+    3534.0,
     -8904.0
    ],
    "max": [
@@ -3979,7 +3979,7 @@
    "track": 0,
    "min": [
     -12085.0,
-    8480.0,
+    8611.0,
     -1895.0
    ],
    "max": [
@@ -4000,7 +4000,7 @@
    "track": 0,
    "min": [
     -12081.0,
-    8480.0,
+    8611.0,
     -3123.0
    ],
    "max": [
@@ -4021,7 +4021,7 @@
    "track": 0,
    "min": [
     -10622.0,
-    8480.0,
+    8611.0,
     -3449.0
    ],
    "max": [
@@ -4042,7 +4042,7 @@
    "track": 0,
    "min": [
     -12082.0,
-    8480.0,
+    8611.0,
     -3449.0
    ],
    "max": [
@@ -4342,6 +4342,27 @@
    "max": [
     -11107.0,
     9972.0,
+    -3130.6049999999996
+   ],
+   "inflated": true,
+   "destination": [
+    -11048.0,
+    9888.0,
+    -2929.0
+   ],
+   "destination_yaw": 37.5
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -11887.300000000001,
+    9940.0,
+    -3130.6049999999996
+   ],
+   "max": [
+    -11107.0,
+    9972.0,
     -3034.6049999999996
    ],
    "inflated": true,
@@ -4359,6 +4380,27 @@
     -11887.300000000001,
     9755.210000000001,
     -3220.7
+   ],
+   "max": [
+    -11107.0,
+    9947.210000000001,
+    -3060.7
+   ],
+   "inflated": true,
+   "destination": [
+    -11048.0,
+    9888.0,
+    -2929.0
+   ],
+   "destination_yaw": 37.5
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -11887.300000000001,
+    9915.210000000001,
+    -3060.7
    ],
    "max": [
     -11107.0,
@@ -4382,7 +4424,70 @@
     -3209.085
    ],
    "max": [
+    -11567.300000000001,
+    9922.881000000001,
+    -3017.085
+   ],
+   "inflated": true,
+   "destination": [
+    -11048.0,
+    9888.0,
+    -2929.0
+   ],
+   "destination_yaw": 37.5
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -11567.300000000001,
+    9730.881000000001,
+    -3209.085
+   ],
+   "max": [
+    -11407.300000000001,
+    9922.881000000001,
+    -3049.085
+   ],
+   "inflated": true,
+   "destination": [
+    -11048.0,
+    9888.0,
+    -2929.0
+   ],
+   "destination_yaw": 37.5
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -11407.300000000001,
+    9730.881000000001,
+    -3209.085
+   ],
+   "max": [
     -11107.0,
+    9922.881000000001,
+    -3017.085
+   ],
+   "inflated": true,
+   "destination": [
+    -11048.0,
+    9888.0,
+    -2929.0
+   ],
+   "destination_yaw": 37.5
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -11567.300000000001,
+    9873.17,
+    -3049.085
+   ],
+   "max": [
+    -11407.300000000001,
     9922.881000000001,
     -3017.085
    ],
@@ -4403,7 +4508,70 @@
     -3192.1594999999998
    ],
    "max": [
+    -11566.300000000001,
+    9893.950099231404,
+    -3000.1594999999998
+   ],
+   "inflated": true,
+   "destination": [
+    -11048.0,
+    9888.0,
+    -2929.0
+   ],
+   "destination_yaw": 37.5
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -11566.300000000001,
+    9701.950099231404,
+    -3192.1594999999998
+   ],
+   "max": [
+    -11406.300000000001,
+    9893.950099231404,
+    -3064.1594999999998
+   ],
+   "inflated": true,
+   "destination": [
+    -11048.0,
+    9888.0,
+    -2929.0
+   ],
+   "destination_yaw": 37.5
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -11406.300000000001,
+    9701.950099231404,
+    -3192.1594999999998
+   ],
+   "max": [
     -11108.0,
+    9893.950099231404,
+    -3000.1594999999998
+   ],
+   "inflated": true,
+   "destination": [
+    -11048.0,
+    9888.0,
+    -2929.0
+   ],
+   "destination_yaw": 37.5
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -11566.300000000001,
+    9861.950099231404,
+    -3064.1594999999998
+   ],
+   "max": [
+    -11406.300000000001,
     9893.950099231404,
     -3000.1594999999998
    ],
@@ -4760,6 +4928,48 @@
     -2985.541
    ],
    "max": [
+    -11567.300000000001,
+    9900.87,
+    -2793.541
+   ],
+   "inflated": true,
+   "destination": [
+    -11048.0,
+    9888.0,
+    -2929.0
+   ],
+   "destination_yaw": 37.5
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -11567.300000000001,
+    9708.87,
+    -2921.541
+   ],
+   "max": [
+    -11407.300000000001,
+    9900.87,
+    -2793.541
+   ],
+   "inflated": true,
+   "destination": [
+    -11048.0,
+    9888.0,
+    -2929.0
+   ],
+   "destination_yaw": 37.5
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -11407.300000000001,
+    9708.87,
+    -2985.541
+   ],
+   "max": [
     -11107.0,
     9900.87,
     -2793.541
@@ -4776,7 +4986,70 @@
    "kind": "RESPAWN",
    "track": 0,
    "min": [
+    -11567.300000000001,
+    9868.87,
+    -2985.541
+   ],
+   "max": [
+    -11407.300000000001,
+    9900.87,
+    -2921.541
+   ],
+   "inflated": true,
+   "destination": [
+    -11048.0,
+    9888.0,
+    -2929.0
+   ],
+   "destination_yaw": 37.5
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
     -11887.300000000001,
+    9730.881000000001,
+    -2968.625
+   ],
+   "max": [
+    -11567.300000000001,
+    9922.881000000001,
+    -2776.625
+   ],
+   "inflated": true,
+   "destination": [
+    -11048.0,
+    9888.0,
+    -2929.0
+   ],
+   "destination_yaw": 37.5
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -11567.300000000001,
+    9730.881000000001,
+    -2936.625
+   ],
+   "max": [
+    -11407.300000000001,
+    9922.881000000001,
+    -2776.625
+   ],
+   "inflated": true,
+   "destination": [
+    -11048.0,
+    9888.0,
+    -2929.0
+   ],
+   "destination_yaw": 37.5
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -11407.300000000001,
     9730.881000000001,
     -2968.625
    ],
@@ -4797,9 +5070,30 @@
    "kind": "RESPAWN",
    "track": 0,
    "min": [
+    -11567.300000000001,
+    9873.17,
+    -2968.625
+   ],
+   "max": [
+    -11407.300000000001,
+    9922.881000000001,
+    -2936.625
+   ],
+   "inflated": true,
+   "destination": [
+    -11048.0,
+    9888.0,
+    -2929.0
+   ],
+   "destination_yaw": 37.5
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
     -11886.300000000001,
     9752.669987772599,
-    -2956.995
+    -2924.995
    ],
    "max": [
     -11108.0,
@@ -4818,9 +5112,30 @@
    "kind": "RESPAWN",
    "track": 0,
    "min": [
+    -11886.300000000001,
+    9912.669987772599,
+    -2956.995
+   ],
+   "max": [
+    -11108.0,
+    9944.669987772599,
+    -2924.995
+   ],
+   "inflated": true,
+   "destination": [
+    -11048.0,
+    9888.0,
+    -2929.0
+   ],
+   "destination_yaw": 37.5
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
     -11887.300000000001,
     9780.0,
-    -2951.09
+    -2855.09
    ],
    "max": [
     -11107.0,
@@ -4839,9 +5154,93 @@
    "kind": "RESPAWN",
    "track": 0,
    "min": [
+    -11887.300000000001,
+    9940.0,
+    -2951.09
+   ],
+   "max": [
+    -11107.0,
+    9972.0,
+    -2855.09
+   ],
+   "inflated": true,
+   "destination": [
+    -11048.0,
+    9888.0,
+    -2929.0
+   ],
+   "destination_yaw": 37.5
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
     -11427.0,
     9564.0,
     -3025.0
+   ],
+   "max": [
+    -11171.0,
+    9756.0,
+    -1924.0
+   ],
+   "inflated": true,
+   "destination": [
+    -11048.0,
+    9888.0,
+    -2929.0
+   ],
+   "destination_yaw": 37.5
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -11171.0,
+    9564.0,
+    -2628.0
+   ],
+   "max": [
+    -11139.0,
+    9756.0,
+    -1924.0
+   ],
+   "inflated": true,
+   "destination": [
+    -11048.0,
+    9888.0,
+    -2929.0
+   ],
+   "destination_yaw": 37.5
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -11139.0,
+    9564.0,
+    -2596.0
+   ],
+   "max": [
+    -11107.0,
+    9756.0,
+    -1924.0
+   ],
+   "inflated": true,
+   "destination": [
+    -11048.0,
+    9888.0,
+    -2929.0
+   ],
+   "destination_yaw": 37.5
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -11107.0,
+    9564.0,
+    -2564.0
    ],
    "max": [
     -11048.0,
@@ -4860,14 +5259,161 @@
    "kind": "RESPAWN",
    "track": 0,
    "min": [
+    -11171.0,
+    9564.0,
+    -3025.0
+   ],
+   "max": [
+    -11048.0,
+    9756.0,
+    -2884.0
+   ],
+   "inflated": true,
+   "destination": [
+    -11048.0,
+    9888.0,
+    -2929.0
+   ],
+   "destination_yaw": 37.5
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -11171.0,
+    9567.05,
+    -2884.0
+   ],
+   "max": [
+    -11139.0,
+    9756.0,
+    -2628.0
+   ],
+   "inflated": true,
+   "destination": [
+    -11048.0,
+    9888.0,
+    -2929.0
+   ],
+   "destination_yaw": 37.5
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -11139.0,
+    9567.05,
+    -2884.0
+   ],
+   "max": [
+    -11048.0,
+    9756.0,
+    -2852.0
+   ],
+   "inflated": true,
+   "destination": [
+    -11048.0,
+    9888.0,
+    -2929.0
+   ],
+   "destination_yaw": 37.5
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -11139.0,
+    9581.93,
+    -2852.0
+   ],
+   "max": [
+    -11107.0,
+    9756.0,
+    -2596.0
+   ],
+   "inflated": true,
+   "destination": [
+    -11048.0,
+    9888.0,
+    -2929.0
+   ],
+   "destination_yaw": 37.5
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -11107.0,
+    9596.86,
+    -2852.0
+   ],
+   "max": [
+    -11048.0,
+    9756.0,
+    -2564.0
+   ],
+   "inflated": true,
+   "destination": [
+    -11048.0,
+    9888.0,
+    -2929.0
+   ],
+   "destination_yaw": 37.5
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
     -11016.0,
     9186.27,
     -3124.0
    ],
    "max": [
+    -10792.0,
+    9378.27,
+    -2837.0
+   ],
+   "inflated": true,
+   "destination": [
+    -11048.0,
+    9888.0,
+    -2929.0
+   ],
+   "destination_yaw": 37.5
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -10792.0,
+    9186.27,
+    -3061.0
+   ],
+   "max": [
     -10749.0,
     9378.27,
     -2837.0
+   ],
+   "inflated": true,
+   "destination": [
+    -11048.0,
+    9888.0,
+    -2929.0
+   ],
+   "destination_yaw": 37.5
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    -10792.0,
+    9258.16,
+    -3124.0
+   ],
+   "max": [
+    -10749.0,
+    9378.27,
+    -3061.0
    ],
    "inflated": true,
    "destination": [
@@ -4928,7 +5474,7 @@
    "min": [
     -305.0,
     4240.0,
-    -124.0
+    -6.159999999999997
    ],
    "max": [
     -113.0,
@@ -4939,6 +5485,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": true,
    "track": 0,
    "original_min": [
     -236.0,
@@ -4955,7 +5502,7 @@
    "min": [
     -512.0,
     -320.0,
-    -160.0
+    -6.159999999999997
    ],
    "max": [
     128.0,
@@ -4966,6 +5513,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": true,
    "track": 0,
    "original_min": [
     -512.0,
@@ -4982,7 +5530,7 @@
    "min": [
     -512.0,
     656.0,
-    -160.0
+    -6.159999999999997
    ],
    "max": [
     128.0,
@@ -4993,6 +5541,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": true,
    "track": 0,
    "original_min": [
     -512.0,
@@ -5009,7 +5558,7 @@
    "min": [
     -512.0,
     2992.0,
-    -160.0
+    -6.159999999999997
    ],
    "max": [
     128.0,
@@ -5020,6 +5569,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": true,
    "track": 0,
    "original_min": [
     -512.0,
@@ -5047,6 +5597,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     9996.0,
@@ -5074,6 +5625,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     5360.0,
@@ -5101,6 +5653,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     5084.0,
@@ -5128,6 +5681,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     5084.0,
@@ -5155,6 +5709,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     5084.0,
@@ -5182,6 +5737,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     5084.0,
@@ -5209,6 +5765,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     9617.0,
@@ -5236,6 +5793,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     10056.0,
@@ -5263,6 +5821,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     5084.0,
@@ -5290,6 +5849,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     5084.0,
@@ -5317,6 +5877,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     5084.0,
@@ -5344,6 +5905,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     5084.0,
@@ -5371,6 +5933,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -288.0,
@@ -5387,7 +5950,7 @@
    "min": [
     9557.0,
     -5596.0,
-    -1761.0
+    -1601.0
    ],
    "max": [
     10069.0,
@@ -5398,6 +5961,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": true,
    "track": 0,
    "original_min": [
     9557.0,
@@ -5414,7 +5978,7 @@
    "min": [
     -512.0,
     5569.0,
-    -152.0
+    -6.159999999999997
    ],
    "max": [
     128.0,
@@ -5425,6 +5989,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": true,
    "track": 0,
    "original_min": [
     -512.0,
@@ -5441,7 +6006,7 @@
    "min": [
     -512.0,
     7761.0,
-    -68.0
+    -6.159999999999997
    ],
    "max": [
     128.0,
@@ -5452,6 +6017,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": true,
    "track": 0,
    "original_min": [
     -512.0,
@@ -5479,6 +6045,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     5393.0,
@@ -5495,7 +6062,7 @@
    "min": [
     -512.0,
     1824.0,
-    -72.0
+    -6.159999999999997
    ],
    "max": [
     128.0,
@@ -5506,6 +6073,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": true,
    "track": 0,
    "original_min": [
     -512.0,
@@ -5533,6 +6101,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -200.0,
@@ -5560,6 +6129,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     9585.0,
@@ -5587,6 +6157,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     9585.0,
@@ -5614,6 +6185,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     10097.0,
@@ -5641,6 +6213,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     11697.0,
@@ -5668,6 +6241,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     11731.0,
@@ -5695,6 +6269,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     10985.0,
@@ -5722,6 +6297,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -5205.0,
@@ -5749,6 +6325,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -5186.0,
@@ -5776,6 +6353,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -5186.0,
@@ -5803,6 +6381,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -5186.0,
@@ -5830,6 +6409,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -4922.0,
@@ -5857,6 +6437,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -4918.0,
@@ -5884,6 +6465,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -4690.0,
@@ -5911,6 +6493,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -4683.0,
@@ -5938,6 +6521,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -4048.0,
@@ -5965,6 +6549,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -3876.0,
@@ -5992,6 +6577,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -4039.0,
@@ -6019,6 +6605,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -3872.0,
@@ -6046,6 +6633,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -5171.0,
@@ -6073,6 +6661,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -5184.0,
@@ -6100,6 +6689,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -5001.0,
@@ -6127,6 +6717,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -3834.0,
@@ -6154,6 +6745,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -3824.0,
@@ -6181,6 +6773,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -3974.0,
@@ -6208,6 +6801,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -4284.0,
@@ -6235,6 +6829,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -4286.0,
@@ -6262,6 +6857,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -4882.0,
@@ -6278,7 +6874,7 @@
    "min": [
     -5203.0,
     5358.0,
-    3496.5
+    3534.0
    ],
    "max": [
     -3724.0,
@@ -6289,6 +6885,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": true,
    "track": 0,
    "original_min": [
     -5203.0,
@@ -6316,6 +6913,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -4702.06,
@@ -6332,7 +6930,7 @@
    "min": [
     -12085.0,
     -817.0,
-    8480.0
+    8611.0
    ],
    "max": [
     -10347.0,
@@ -6343,6 +6941,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": true,
    "track": 0,
    "original_min": [
     -12085.0,
@@ -6359,7 +6958,7 @@
    "min": [
     -12081.0,
     1905.0,
-    8480.0
+    8611.0
    ],
    "max": [
     -10343.0,
@@ -6370,6 +6969,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": true,
    "track": 0,
    "original_min": [
     -12081.0,
@@ -6386,7 +6986,7 @@
    "min": [
     -10622.0,
     3125.0,
-    8480.0
+    8611.0
    ],
    "max": [
     -10335.0,
@@ -6397,6 +6997,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": true,
    "track": 0,
    "original_min": [
     -10622.0,
@@ -6413,7 +7014,7 @@
    "min": [
     -12082.0,
     3125.0,
-    8480.0
+    8611.0
    ],
    "max": [
     -10633.0,
@@ -6424,6 +7025,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": true,
    "track": 0,
    "original_min": [
     -12082.0,
@@ -6451,6 +7053,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -12081.0,
@@ -6478,6 +7081,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -11422.0,
@@ -6505,6 +7109,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -11422.0,
@@ -6532,6 +7137,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -11422.0,
@@ -6559,6 +7165,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -11422.0,
@@ -6586,6 +7193,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -11422.0,
@@ -6613,6 +7221,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -11422.0,
@@ -6640,6 +7249,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -11422.0,
@@ -6667,6 +7277,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -11422.0,
@@ -6694,6 +7305,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -11422.0,
@@ -6721,6 +7333,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -11422.0,
@@ -6748,6 +7361,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -11422.0,
@@ -6775,6 +7389,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -10989.0,
@@ -6790,7 +7405,7 @@
   {
    "min": [
     -11887.300000000001,
-    3034.6049999999996,
+    3130.6049999999996,
     9780.0
    ],
    "max": [
@@ -6802,6 +7417,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": true,
    "track": 0,
    "original_min": [
     -11887.300000000001,
@@ -6817,7 +7433,35 @@
   {
    "min": [
     -11887.300000000001,
-    3028.7,
+    3034.6049999999996,
+    9940.0
+   ],
+   "max": [
+    -11107.0,
+    3130.6049999999996,
+    9972.0
+   ],
+   "inflated": true,
+   "hung": true,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -11887.300000000001,
+    3122.93,
+    9944.669000000002
+   ],
+   "original_max": [
+    -11107.0,
+    3138.2799999999997,
+    9972.0
+   ]
+  },
+  {
+   "min": [
+    -11887.300000000001,
+    3060.7,
     9755.210000000001
    ],
    "max": [
@@ -6829,6 +7473,35 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -11887.300000000001,
+    3114.3399999999997,
+    9918.29
+   ],
+   "original_max": [
+    -11107.0,
+    3135.06,
+    9947.210000000001
+   ]
+  },
+  {
+   "min": [
+    -11887.300000000001,
+    3028.7,
+    9915.210000000001
+   ],
+   "max": [
+    -11107.0,
+    3060.7,
+    9947.210000000001
+   ],
+   "inflated": true,
+   "hung": true,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
    "track": 0,
    "original_min": [
     -11887.300000000001,
@@ -6848,6 +7521,62 @@
     9730.881000000001
    ],
    "max": [
+    -11567.300000000001,
+    3209.085,
+    9922.881000000001
+   ],
+   "inflated": true,
+   "hung": true,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -11887.300000000001,
+    3100.46,
+    9893.95
+   ],
+   "original_max": [
+    -11107.0,
+    3125.71,
+    9922.881000000001
+   ]
+  },
+  {
+   "min": [
+    -11567.300000000001,
+    3049.085,
+    9730.881000000001
+   ],
+   "max": [
+    -11407.300000000001,
+    3209.085,
+    9922.881000000001
+   ],
+   "inflated": true,
+   "hung": true,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -11887.300000000001,
+    3100.46,
+    9893.95
+   ],
+   "original_max": [
+    -11107.0,
+    3125.71,
+    9922.881000000001
+   ]
+  },
+  {
+   "min": [
+    -11407.300000000001,
+    3017.085,
+    9730.881000000001
+   ],
+   "max": [
     -11107.0,
     3209.085,
     9922.881000000001
@@ -6856,6 +7585,35 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -11887.300000000001,
+    3100.46,
+    9893.95
+   ],
+   "original_max": [
+    -11107.0,
+    3125.71,
+    9922.881000000001
+   ]
+  },
+  {
+   "min": [
+    -11567.300000000001,
+    3017.085,
+    9873.17
+   ],
+   "max": [
+    -11407.300000000001,
+    3049.085,
+    9922.881000000001
+   ],
+   "inflated": true,
+   "hung": true,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
    "track": 0,
    "original_min": [
     -11887.300000000001,
@@ -6875,6 +7633,62 @@
     9701.950099231404
    ],
    "max": [
+    -11566.300000000001,
+    3192.1594999999998,
+    9893.950099231404
+   ],
+   "inflated": true,
+   "hung": true,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -11886.300000000001,
+    3081.759,
+    9881.898399943662
+   ],
+   "original_max": [
+    -11108.0,
+    3110.56,
+    9893.950099231404
+   ]
+  },
+  {
+   "min": [
+    -11566.300000000001,
+    3064.1594999999998,
+    9701.950099231404
+   ],
+   "max": [
+    -11406.300000000001,
+    3192.1594999999998,
+    9893.950099231404
+   ],
+   "inflated": true,
+   "hung": true,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -11886.300000000001,
+    3081.759,
+    9881.898399943662
+   ],
+   "original_max": [
+    -11108.0,
+    3110.56,
+    9893.950099231404
+   ]
+  },
+  {
+   "min": [
+    -11406.300000000001,
+    3000.1594999999998,
+    9701.950099231404
+   ],
+   "max": [
     -11108.0,
     3192.1594999999998,
     9893.950099231404
@@ -6883,6 +7697,35 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -11886.300000000001,
+    3081.759,
+    9881.898399943662
+   ],
+   "original_max": [
+    -11108.0,
+    3110.56,
+    9893.950099231404
+   ]
+  },
+  {
+   "min": [
+    -11566.300000000001,
+    3000.1594999999998,
+    9861.950099231404
+   ],
+   "max": [
+    -11406.300000000001,
+    3064.1594999999998,
+    9893.950099231404
+   ],
+   "inflated": true,
+   "hung": true,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
    "track": 0,
    "original_min": [
     -11886.300000000001,
@@ -6910,6 +7753,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -11887.300000000001,
@@ -6937,6 +7781,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -11886.300000000001,
@@ -6964,6 +7809,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -11887.300000000001,
@@ -6991,6 +7837,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -11692.225,
@@ -7018,6 +7865,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -11497.150000000001,
@@ -7045,6 +7893,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -11302.075,
@@ -7072,6 +7921,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -11887.300000000001,
@@ -7099,6 +7949,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -11692.225,
@@ -7126,6 +7977,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -11497.150000000001,
@@ -7153,6 +8005,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -11302.075,
@@ -7180,6 +8033,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -11887.300000000001,
@@ -7207,6 +8061,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -11692.225,
@@ -7234,6 +8089,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -11497.150000000001,
@@ -7261,6 +8117,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -11302.075,
@@ -7288,6 +8145,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -11887.300000000001,
@@ -7315,6 +8173,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -11887.300000000001,
@@ -7334,6 +8193,62 @@
     9708.87
    ],
    "max": [
+    -11567.300000000001,
+    2985.541,
+    9900.87
+   ],
+   "inflated": true,
+   "hung": true,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -11887.300000000001,
+    2875.14,
+    9873.328000000001
+   ],
+   "original_max": [
+    -11107.0,
+    2903.942,
+    9900.87
+   ]
+  },
+  {
+   "min": [
+    -11567.300000000001,
+    2793.541,
+    9708.87
+   ],
+   "max": [
+    -11407.300000000001,
+    2921.541,
+    9900.87
+   ],
+   "inflated": true,
+   "hung": true,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -11887.300000000001,
+    2875.14,
+    9873.328000000001
+   ],
+   "original_max": [
+    -11107.0,
+    2903.942,
+    9900.87
+   ]
+  },
+  {
+   "min": [
+    -11407.300000000001,
+    2793.541,
+    9708.87
+   ],
+   "max": [
     -11107.0,
     2985.541,
     9900.87
@@ -7342,6 +8257,35 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -11887.300000000001,
+    2875.14,
+    9873.328000000001
+   ],
+   "original_max": [
+    -11107.0,
+    2903.942,
+    9900.87
+   ]
+  },
+  {
+   "min": [
+    -11567.300000000001,
+    2921.541,
+    9868.87
+   ],
+   "max": [
+    -11407.300000000001,
+    2985.541,
+    9900.87
+   ],
+   "inflated": true,
+   "hung": true,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
    "track": 0,
    "original_min": [
     -11887.300000000001,
@@ -7361,6 +8305,62 @@
     9730.881000000001
    ],
    "max": [
+    -11567.300000000001,
+    2968.625,
+    9922.881000000001
+   ],
+   "inflated": true,
+   "hung": true,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -11887.300000000001,
+    2860.0,
+    9893.95
+   ],
+   "original_max": [
+    -11107.0,
+    2885.25,
+    9922.881000000001
+   ]
+  },
+  {
+   "min": [
+    -11567.300000000001,
+    2776.625,
+    9730.881000000001
+   ],
+   "max": [
+    -11407.300000000001,
+    2936.625,
+    9922.881000000001
+   ],
+   "inflated": true,
+   "hung": true,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -11887.300000000001,
+    2860.0,
+    9893.95
+   ],
+   "original_max": [
+    -11107.0,
+    2885.25,
+    9922.881000000001
+   ]
+  },
+  {
+   "min": [
+    -11407.300000000001,
+    2776.625,
+    9730.881000000001
+   ],
+   "max": [
     -11107.0,
     2968.625,
     9922.881000000001
@@ -7369,6 +8369,35 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -11887.300000000001,
+    2860.0,
+    9893.95
+   ],
+   "original_max": [
+    -11107.0,
+    2885.25,
+    9922.881000000001
+   ]
+  },
+  {
+   "min": [
+    -11567.300000000001,
+    2936.625,
+    9873.17
+   ],
+   "max": [
+    -11407.300000000001,
+    2968.625,
+    9922.881000000001
+   ],
+   "inflated": true,
+   "hung": true,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
    "track": 0,
    "original_min": [
     -11887.300000000001,
@@ -7389,6 +8418,34 @@
    ],
    "max": [
     -11108.0,
+    2924.995,
+    9944.669987772599
+   ],
+   "inflated": true,
+   "hung": true,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -11886.300000000001,
+    2850.64,
+    9922.879805040093
+   ],
+   "original_max": [
+    -11108.0,
+    2871.35,
+    9944.669987772599
+   ]
+  },
+  {
+   "min": [
+    -11886.300000000001,
+    2924.995,
+    9912.669987772599
+   ],
+   "max": [
+    -11108.0,
     2956.995,
     9944.669987772599
    ],
@@ -7396,6 +8453,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": true,
    "track": 0,
    "original_min": [
     -11886.300000000001,
@@ -7416,6 +8474,34 @@
    ],
    "max": [
     -11107.0,
+    2855.09,
+    9972.0
+   ],
+   "inflated": true,
+   "hung": true,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -11887.300000000001,
+    2847.42,
+    9944.67
+   ],
+   "original_max": [
+    -11107.0,
+    2862.7599999999998,
+    9972.0
+   ]
+  },
+  {
+   "min": [
+    -11887.300000000001,
+    2855.09,
+    9940.0
+   ],
+   "max": [
+    -11107.0,
     2951.09,
     9972.0
    ],
@@ -7423,6 +8509,7 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": true,
    "track": 0,
    "original_min": [
     -11887.300000000001,
@@ -7442,6 +8529,118 @@
     9564.0
    ],
    "max": [
+    -11171.0,
+    3025.0,
+    9756.0
+   ],
+   "inflated": true,
+   "hung": true,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -11427.0,
+    1924.0,
+    9744.0
+   ],
+   "original_max": [
+    -11048.0,
+    3025.0,
+    9756.0
+   ]
+  },
+  {
+   "min": [
+    -11171.0,
+    1924.0,
+    9564.0
+   ],
+   "max": [
+    -11139.0,
+    2628.0,
+    9756.0
+   ],
+   "inflated": true,
+   "hung": true,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -11427.0,
+    1924.0,
+    9744.0
+   ],
+   "original_max": [
+    -11048.0,
+    3025.0,
+    9756.0
+   ]
+  },
+  {
+   "min": [
+    -11139.0,
+    1924.0,
+    9564.0
+   ],
+   "max": [
+    -11107.0,
+    2596.0,
+    9756.0
+   ],
+   "inflated": true,
+   "hung": true,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -11427.0,
+    1924.0,
+    9744.0
+   ],
+   "original_max": [
+    -11048.0,
+    3025.0,
+    9756.0
+   ]
+  },
+  {
+   "min": [
+    -11107.0,
+    1924.0,
+    9564.0
+   ],
+   "max": [
+    -11048.0,
+    2564.0,
+    9756.0
+   ],
+   "inflated": true,
+   "hung": true,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -11427.0,
+    1924.0,
+    9744.0
+   ],
+   "original_max": [
+    -11048.0,
+    3025.0,
+    9756.0
+   ]
+  },
+  {
+   "min": [
+    -11171.0,
+    2884.0,
+    9564.0
+   ],
+   "max": [
     -11048.0,
     3025.0,
     9756.0
@@ -7450,6 +8649,119 @@
    "hung": true,
    "cleared": false,
    "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -11427.0,
+    1924.0,
+    9744.0
+   ],
+   "original_max": [
+    -11048.0,
+    3025.0,
+    9756.0
+   ]
+  },
+  {
+   "min": [
+    -11171.0,
+    2628.0,
+    9567.05
+   ],
+   "max": [
+    -11139.0,
+    2884.0,
+    9756.0
+   ],
+   "inflated": true,
+   "hung": true,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -11427.0,
+    1924.0,
+    9744.0
+   ],
+   "original_max": [
+    -11048.0,
+    3025.0,
+    9756.0
+   ]
+  },
+  {
+   "min": [
+    -11139.0,
+    2852.0,
+    9567.05
+   ],
+   "max": [
+    -11048.0,
+    2884.0,
+    9756.0
+   ],
+   "inflated": true,
+   "hung": true,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -11427.0,
+    1924.0,
+    9744.0
+   ],
+   "original_max": [
+    -11048.0,
+    3025.0,
+    9756.0
+   ]
+  },
+  {
+   "min": [
+    -11139.0,
+    2596.0,
+    9581.93
+   ],
+   "max": [
+    -11107.0,
+    2852.0,
+    9756.0
+   ],
+   "inflated": true,
+   "hung": true,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -11427.0,
+    1924.0,
+    9744.0
+   ],
+   "original_max": [
+    -11048.0,
+    3025.0,
+    9756.0
+   ]
+  },
+  {
+   "min": [
+    -11107.0,
+    2564.0,
+    9596.86
+   ],
+   "max": [
+    -11048.0,
+    2852.0,
+    9756.0
+   ],
+   "inflated": true,
+   "hung": true,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
    "track": 0,
    "original_min": [
     -11427.0,
@@ -7469,6 +8781,62 @@
     9186.27
    ],
    "max": [
+    -10792.0,
+    3124.0,
+    9378.27
+   ],
+   "inflated": true,
+   "hung": false,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -11016.0,
+    2837.0,
+    9274.27
+   ],
+   "original_max": [
+    -10749.0,
+    3124.0,
+    9290.27
+   ]
+  },
+  {
+   "min": [
+    -10792.0,
+    2837.0,
+    9186.27
+   ],
+   "max": [
+    -10749.0,
+    3061.0,
+    9378.27
+   ],
+   "inflated": true,
+   "hung": false,
+   "cleared": false,
+   "trimmed": false,
+   "stood": true,
+   "track": 0,
+   "original_min": [
+    -11016.0,
+    2837.0,
+    9274.27
+   ],
+   "original_max": [
+    -10749.0,
+    3124.0,
+    9290.27
+   ]
+  },
+  {
+   "min": [
+    -10792.0,
+    3061.0,
+    9258.16
+   ],
+   "max": [
     -10749.0,
     3124.0,
     9378.27
@@ -7477,6 +8845,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": true,
    "track": 0,
    "original_min": [
     -11016.0,
@@ -7504,6 +8873,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -11055.0,
@@ -7531,6 +8901,7 @@
    "hung": false,
    "cleared": false,
    "trimmed": false,
+   "stood": false,
    "track": 0,
    "original_min": [
     -7328.0,
