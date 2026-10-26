@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "title": "Bhop Exanimo",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-g2gfast"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "bhop_exanimo",
+            "name": "Bhop Exanimo",
+            "scene": "bhop_exanimo.json",
+            "map_kind": "bhop"
+        }
+    ]
+}

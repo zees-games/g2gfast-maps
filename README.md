@@ -48,6 +48,7 @@ tools/g2gmaps fetch --pub path/to/content.pub
 | `bhop_amor` | roma; licence stated on the page: Creative Commons Attribution-NonCommercial-NoDerivs 4.0; removal on request | https://gamebanana.com/mods/124424 |
 | `bhop_angst` | Proxychains; licence stated on the page: Creative Commons Attribution-NonCommercial-NoDerivs 4.0; removal on request | https://gamebanana.com/mods/303411 |
 | `bhop_arcane_v2` | Panzerhandschuh (Panzer); v2 edit uploaded by 'roger haha lol' | https://gamebanana.com/mods/124462 |
+| `bhop_atmosphere` | ampbhop; licence stated on the page: Creative Commons Attribution-NonCommercial-NoDerivs 4.0; removal on request | https://gamebanana.com/mods/124486 |
 | `bhop_aztec` | Teho-Killeri (mapper), with Touch (design) and Veikko (textures) | https://gamebanana.com/mods/124514 |
 | `bhop_badges` | badges (Badgeslol) | https://gamebanana.com/mods/124524 |
 | `bhop_badges_mini` | GumPum | https://gamebanana.com/mods/124526 |
@@ -55,6 +56,7 @@ tools/g2gmaps fetch --pub path/to/content.pub
 | `bhop_eazy` | 31K4L | https://gamebanana.com/mods/124913 |
 | `bhop_epiphany` | wet (the map's own text reads "By Nate"); licence stated on the page: Creative Commons Attribution-NonCommercial-NoDerivs 4.0 | https://gamebanana.com/mods/124957 |
 | `bhop_evolve` | Zyper | https://gamebanana.com/mods/124971 |
+| `bhop_exanimo` | WorldspawN and Drouzefa; materials and props Antosha, FOOL, komaokc, NOUG4AT, Acehigh, Gatorlangman, Zindex, TopHATTwaffle; licence stated on the page: Creative Commons Attribution-NonCommercial-NoDerivs 4.0; removal on request | https://gamebanana.com/mods/369680 |
 | `bhop_fur` | Fur (TheFur) | https://gamebanana.com/mods/125103 |
 | `bhop_fury` | Dotty; licence stated on the page: Creative Commons Attribution-NonCommercial-NoDerivs 4.0; removal on request | https://gamebanana.com/mods/125105 |
 | `bhop_grove` | Tony Montana | https://gamebanana.com/mods/125167 |
@@ -62,9 +64,12 @@ tools/g2gmaps fetch --pub path/to/content.pub
 | `bhop_interloper` | Tony Montana | https://gamebanana.com/mods/125285 |
 | `bhop_lego2` | Tony Montana (tmontana) | https://gamebanana.com/mods/125408 |
 | `bhop_monster_jam` | monster jam and Aoki | https://gamebanana.com/mods/125558 |
+| `bhop_null_fix` | Tony Montana (tmontana), contributor Chris528; published as bhop_null_v2, the page's fixed file; licence stated on the page: Creative Commons Attribution-NonCommercial-NoDerivs 4.0; removal on request | https://gamebanana.com/mods/125638 |
 | `bhop_pandora2_fix` | Sonia_ (map); skybox Mr.Who; textures Wolves Hero and Sonia_; original bhop_pandora video/advice tmontana | https://gamebanana.com/mods/125705 |
+| `bhop_pharma` | frostiee_; licence stated on the page: Creative Commons Attribution-NonCommercial-NoDerivs 4.0; removal on request | https://gamebanana.com/mods/125728 |
 | `bhop_pit` | Roady | https://gamebanana.com/mods/453100 |
 | `bhop_platformer_fxd` | DroN (SWM/DroN); published on GameBanana under its original title `bhop_mario_fxd`, renamed here to a neutral id | https://gamebanana.com/mods/125494 |
+| `bhop_strength_v2` | BLENDIE; textures Ghost1397314; licence stated on the page: Creative Commons Attribution-NonCommercial-NoDerivs 4.0; removal on request | https://gamebanana.com/mods/126122 |
 | `bhop_supernova` | Sonia_ (map design) and Benchmarked (gameplay); skybox Mr.Who; textures TopHATTwaffle and Sonia_; testers Juked, tricksterr, plar, samurai; Subnautica models by Unknown Worlds Entertainment | https://gamebanana.com/mods/313046 |
 | `bhop_tesquo_v2` | george (GeorgeRulesLOL); 'Made a stage': Jagg | https://gamebanana.com/mods/126185 |
 | `bhop_toroux` | toroux; the page says 'feel free to Port this map'; licence stated on the page: Creative Commons Attribution-NonCommercial-NoDerivs 4.0; removal on request | https://gamebanana.com/mods/126232 |

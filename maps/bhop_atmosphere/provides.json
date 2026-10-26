@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "title": "Bhop Atmosphere",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-g2gfast"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "bhop_atmosphere",
+            "name": "Bhop Atmosphere",
+            "scene": "bhop_atmosphere.json",
+            "map_kind": "bhop"
+        }
+    ]
+}

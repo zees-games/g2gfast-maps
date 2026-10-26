@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "title": "Bhop Pharma",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-g2gfast"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "bhop_pharma",
+            "name": "Bhop Pharma",
+            "scene": "bhop_pharma.json",
+            "map_kind": "bhop"
+        }
+    ]
+}

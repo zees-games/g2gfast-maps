@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "title": "Bhop Null Fix",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-g2gfast"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "bhop_null_fix",
+            "name": "Bhop Null Fix",
+            "scene": "bhop_null_fix.json",
+            "map_kind": "bhop"
+        }
+    ]
+}
