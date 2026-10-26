@@ -1,0 +1,83 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "bhop_eazy",
+ "sha256": "4abc652f775d1639451a20c3a91d5903b41307981ea48395ba0b561e869cd1fe",
+ "textures": {
+  "looked_up": 15,
+  "drawn": 15,
+  "by_tier": {
+   "default": 14,
+   "fallback": 1
+  },
+  "free_by_tier": {
+   "addon": 3,
+   "default": 4,
+   "nearest": 8
+  },
+  "nearest_photo": [
+   "hammer textures/bhop_eazy/31_e_brick_blue",
+   "hammer textures/bhop_eazy/31_e_brick_green",
+   "hammer textures/bhop_eazy/31_e_brick_red",
+   "hammer textures/bhop_eazy/31_e_brick_white",
+   "hammer textures/bhop_eazy/31_e_brick_yellow",
+   "hammer textures/bhop_eazy/31_e_mapby_blue_2",
+   "hammer textures/bhop_eazy/31_e_tile_1",
+   "hammer textures/bhop_eazy/31_e_tile_2",
+   "hammer textures/bhop_eazy/31_e_tile_3",
+   "hammer textures/bhop_eazy/31_e_tile_4",
+   "hammer textures/bhop_eazy/31_e_tile_5"
+  ]
+ },
+ "models": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "sounds": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "classes": {
+  "distinct": 14,
+  "entities": 323,
+  "by_tier": {
+   "default": 14
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "weapon_deagle": [
+    "ammo"
+   ]
+  }
+ },
+ "links": {
+  "total": 0,
+  "unresolved": 0
+ },
+ "lists": {
+  "textures_unmapped": [
+   "HAMMER TEXTURES/BHOP_EAZY/31_E_MAPBY_BLUE_2"
+  ],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "weapon_deagle.ammo"
+  ],
+  "links_unresolved": [],
+  "surfaces_opaque": []
+ },
+ "counts": {
+  "textures_unmapped": 1,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 1,
+  "links_unresolved": 0,
+  "surfaces_opaque": 0
+ }
+}

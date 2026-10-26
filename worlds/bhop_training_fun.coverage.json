@@ -1,0 +1,88 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "bhop_training_fun",
+ "sha256": "2db4a9a926f8199ec3e122af9fd6bf0bcdc1f48a34c9b011537bff55ab6451fa",
+ "textures": {
+  "looked_up": 17,
+  "drawn": 16,
+  "by_tier": {
+   "addon": 7,
+   "default": 9,
+   "fallback": 1
+  },
+  "free_by_tier": {
+   "addon": 12,
+   "default": 2,
+   "nearest": 2
+  },
+  "nearest_photo": [
+   "de_cbble/wallinterior01",
+   "de_nuke/nukwater_movingplane_dx70",
+   "dev/dev_blendmeasure2",
+   "dev/dev_slime",
+   "dev/reflectivity_40b",
+   "dev/value70",
+   "effects/offgaragedr"
+  ]
+ },
+ "models": {
+  "looked_up": 3,
+  "by_tier": {
+   "default": 3
+  }
+ },
+ "sounds": {
+  "looked_up": 1,
+  "by_tier": {
+   "default": 1
+  }
+ },
+ "classes": {
+  "distinct": 20,
+  "entities": 118,
+  "by_tier": {
+   "default": 20
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "ambient_generic": [
+    "pitch"
+   ],
+   "weapon_scout": [
+    "ammo"
+   ]
+  }
+ },
+ "links": {
+  "total": 63,
+  "unresolved": 0
+ },
+ "lists": {
+  "textures_unmapped": [
+   "DE_CBBLE/WALLINTERIOR01"
+  ],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "ambient_generic.pitch",
+   "weapon_scout.ammo"
+  ],
+  "links_unresolved": [],
+  "surfaces_opaque": []
+ },
+ "counts": {
+  "textures_unmapped": 1,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 2,
+  "links_unresolved": 0,
+  "surfaces_opaque": 0
+ }
+}

@@ -2,3 +2,5 @@
 /dist/
 /mirror/
 __pycache__/
+/model-library/
+/pbr-library/

@@ -1,0 +1,89 @@
+{
+ "map": {
+  "author": "31K4L",
+  "page": "https://gamebanana.com/mods/124913",
+  "licence": "unstated (GameBanana)"
+ },
+ "works": [
+  {
+   "kind": "texture",
+   "name": "pbr_painted_brick",
+   "author": "Amal Kumar",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/painted_brick",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 14
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_whitewashed_brick",
+   "author": "Charlotte Baglioni",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/whitewashed_brick",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 26
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_herringbone_concrete_tile",
+   "author": "Charlotte Baglioni",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/herringbone_concrete_tile",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 162
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_patterned_brick_floor",
+   "author": "Charlotte Baglioni",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/patterned_brick_floor",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 9
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_brick_wall_09",
+   "author": "Rob Tuytel, Matterfield",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/brick_wall_09",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 13
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_painted_worn_brick",
+   "author": "Dimitrios Savva",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/painted_worn_brick",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 11
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_rock_tile_floor",
+   "author": "Charlotte Baglioni",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/rock_tile_floor",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 41
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_terry_cloth",
+   "author": "colormass, Rico Cilliers",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/terry_cloth",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 1
+  }
+ ]
+}
