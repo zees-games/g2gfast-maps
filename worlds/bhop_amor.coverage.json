@@ -1,0 +1,94 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "bhop_amor",
+ "sha256": "309a68473364936e4bc53a95f9a0e9f972abfdac7c489194b5558573e98f121a",
+ "textures": {
+  "looked_up": 35,
+  "drawn": 35,
+  "by_tier": {
+   "addon": 27,
+   "default": 8
+  },
+  "free_by_tier": {
+   "addon": 28,
+   "default": 6,
+   "nearest": 1
+  },
+  "nearest_photo": [
+   "de_cbble/grassdirt_blend",
+   "dev/dev_interiorlight02b"
+  ]
+ },
+ "models": {
+  "looked_up": 1,
+  "by_tier": {
+   "default": 1
+  }
+ },
+ "sounds": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "classes": {
+  "distinct": 28,
+  "entities": 394,
+  "by_tier": {
+   "default": 28
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "weapon_ak47": [
+    "ammo"
+   ],
+   "weapon_awp": [
+    "ammo"
+   ],
+   "weapon_m3": [
+    "ammo"
+   ],
+   "weapon_m4a1": [
+    "ammo"
+   ],
+   "weapon_scout": [
+    "ammo"
+   ],
+   "worldspawn": [
+    "no_decomp"
+   ]
+  }
+ },
+ "links": {
+  "total": 8,
+  "unresolved": 0
+ },
+ "lists": {
+  "textures_unmapped": [],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "weapon_ak47.ammo",
+   "weapon_awp.ammo",
+   "weapon_m3.ammo",
+   "weapon_m4a1.ammo",
+   "weapon_scout.ammo",
+   "worldspawn.no_decomp"
+  ],
+  "links_unresolved": [],
+  "surfaces_opaque": []
+ },
+ "counts": {
+  "textures_unmapped": 0,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 6,
+  "links_unresolved": 0,
+  "surfaces_opaque": 0
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "surf_year3000",
+ "sha256": "04592e69e1d21e9259b7151095c50194994ecb82adb7e75b55c127af6f47b9d6",
+ "textures": {
+  "looked_up": 23,
+  "drawn": 22,
+  "by_tier": {
+   "addon": 13,
+   "default": 4,
+   "fallback": 6
+  },
+  "free_by_tier": {
+   "addon": 16,
+   "default": 3,
+   "nearest": 3
+  },
+  "nearest_photo": [
+   "metal/citadel_metalwall063a",
+   "year3000/logo",
+   "year3000/riddle_fake",
+   "year3000/riddle_one",
+   "year3000/riddle_tip",
+   "year3000/riddle_two"
+  ]
+ },
+ "models": {
+  "looked_up": 22,
+  "by_tier": {
+   "category": 1,
+   "default": 21
+  }
+ },
+ "sounds": {
+  "looked_up": 3,
+  "by_tier": {
+   "default": 3
+  }
+ },
+ "classes": {
+  "distinct": 39,
+  "entities": 567,
+  "by_tier": {
+   "default": 39
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "ambient_generic": [
+    "pitch"
+   ],
+   "game_player_equip": [
+    "ammo_338mag",
+    "ammo_45acp",
+    "ammo_50ae",
+    "ammo_556mm",
+    "ammo_556mm_box",
+    "ammo_9mm",
+    "item_assaultsuit",
+    "item_kevlar",
+    "weapon_awp",
+    "weapon_deagle",
+    "weapon_elite",
+    "weapon_hegrenade",
+    "weapon_knife",
+    "weapon_m249",
+    "weapon_m4a1",
+    "weapon_tmp",
+    "weapon_ump45",
+    "weapon_usp"
+   ],
+   "light_environment": [
+    "no_decomp"
+   ]
+  }
+ },
+ "links": {
+  "total": 217,
+  "unresolved": 6
+ },
+ "lists": {
+  "textures_unmapped": [
+   "YEAR3000/LOGO",
+   "YEAR3000/RIDDLE_FAKE",
+   "YEAR3000/RIDDLE_ONE",
+   "YEAR3000/RIDDLE_TIP",
+   "YEAR3000/RIDDLE_TWO",
+   "YEAR3000/TELEPORT"
+  ],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "ambient_generic.pitch",
+   "game_player_equip.ammo_338mag",
+   "game_player_equip.ammo_45acp",
+   "game_player_equip.ammo_50ae",
+   "game_player_equip.ammo_556mm",
+   "game_player_equip.ammo_556mm_box",
+   "game_player_equip.ammo_9mm",
+   "game_player_equip.item_assaultsuit",
+   "game_player_equip.item_kevlar",
+   "game_player_equip.weapon_awp",
+   "game_player_equip.weapon_deagle",
+   "game_player_equip.weapon_elite",
+   "game_player_equip.weapon_hegrenade",
+   "game_player_equip.weapon_knife",
+   "game_player_equip.weapon_m249",
+   "game_player_equip.weapon_m4a1",
+   "game_player_equip.weapon_tmp",
+   "game_player_equip.weapon_ump45",
+   "game_player_equip.weapon_usp",
+   "light_environment.no_decomp"
+  ],
+  "links_unresolved": [
+   "func_button.OnDamaged->book_ct_light",
+   "func_button.OnDamaged->book_ct_secret_trigger",
+   "func_button.OnDamaged->book_t_light",
+   "func_button.OnDamaged->book_t_secret_trigger",
+   "path_track.OnPass->book_ct_light",
+   "prop_physics.OnBreak->"
+  ],
+  "surfaces_opaque": []
+ },
+ "counts": {
+  "textures_unmapped": 6,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 20,
+  "links_unresolved": 6,
+  "surfaces_opaque": 0
+ }
+}

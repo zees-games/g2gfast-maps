@@ -1,0 +1,66 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "surf_beginner",
+ "sha256": "c7679bbb68829273c7ab86c7404096b65f4ef8f94ab09433da987c8f474e8d8d",
+ "textures": {
+  "looked_up": 16,
+  "drawn": 16,
+  "by_tier": {
+   "addon": 12,
+   "default": 4
+  },
+  "free_by_tier": {
+   "addon": 13,
+   "default": 3
+  },
+  "nearest_photo": [
+   "nature/mudfloor005a"
+  ]
+ },
+ "models": {
+  "looked_up": 2,
+  "by_tier": {
+   "default": 2
+  }
+ },
+ "sounds": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "classes": {
+  "distinct": 19,
+  "entities": 175,
+  "by_tier": {
+   "default": 19
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {}
+ },
+ "links": {
+  "total": 12,
+  "unresolved": 0
+ },
+ "lists": {
+  "textures_unmapped": [],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [],
+  "links_unresolved": [],
+  "surfaces_opaque": []
+ },
+ "counts": {
+  "textures_unmapped": 0,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 0,
+  "links_unresolved": 0,
+  "surfaces_opaque": 0
+ }
+}

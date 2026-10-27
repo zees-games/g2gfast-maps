@@ -1,0 +1,73 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "bunnyhop_pro",
+ "sha256": "215bfb1e30b45a578ff5c316f57a435ec601fa7d862be7ce43212a7f68dcfcb5",
+ "textures": {
+  "looked_up": 17,
+  "drawn": 16,
+  "by_tier": {
+   "addon": 7,
+   "default": 10
+  },
+  "free_by_tier": {
+   "addon": 10,
+   "default": 2,
+   "nearest": 4
+  },
+  "nearest_photo": [
+   "building_template/courtyard_template001a",
+   "de_cbble/concrete02",
+   "de_dust/groundsand_blend",
+   "de_dust/residwall02",
+   "de_dust/templewall02",
+   "ground/blendsnow_tracks",
+   "halflife/lab1_w6a"
+  ]
+ },
+ "models": {
+  "looked_up": 2,
+  "by_tier": {
+   "default": 2
+  }
+ },
+ "sounds": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "classes": {
+  "distinct": 11,
+  "entities": 26,
+  "by_tier": {
+   "default": 11
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {}
+ },
+ "links": {
+  "total": 0,
+  "unresolved": 0
+ },
+ "lists": {
+  "textures_unmapped": [],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [],
+  "links_unresolved": [],
+  "surfaces_opaque": []
+ },
+ "counts": {
+  "textures_unmapped": 0,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 0,
+  "links_unresolved": 0,
+  "surfaces_opaque": 0
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "surf_greensway",
+ "sha256": "69fb3672fdc501cc34d78765b3ef51a2462a9851336d47de58737ea3d4feda27",
+ "textures": {
+  "looked_up": 23,
+  "drawn": 28,
+  "by_tier": {
+   "default": 12,
+   "fallback": 11
+  },
+  "free_by_tier": {
+   "addon": 10,
+   "default": 8,
+   "nearest": 10
+  },
+  "nearest_photo": [
+   "env/blend_testing",
+   "env/brick",
+   "env/dirt2stone_blend",
+   "env/dirtstone_blend",
+   "env/grassdirt2_blend",
+   "env/grassdirt_blend",
+   "env/grassstone_blend",
+   "env/wood1",
+   "env/wood1_beam",
+   "env/wood2",
+   "env/wood2_beam",
+   "env/wood3",
+   "env/wood3_beam",
+   "fade_b",
+   "invisible_but_really_invisible_for_real"
+  ]
+ },
+ "models": {
+  "looked_up": 87,
+  "by_tier": {
+   "category": 31,
+   "default": 21,
+   "fallback": 35
+  }
+ },
+ "sounds": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "classes": {
+  "distinct": 19,
+  "entities": 1033,
+  "by_tier": {
+   "default": 19
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {}
+ },
+ "links": {
+  "total": 4,
+  "unresolved": 0
+ },
+ "lists": {
+  "textures_unmapped": [
+   "/FADE",
+   "/FADE_DARK",
+   "/INVISIBLE_BUT_REALLY_INVISIBLE_FOR_REAL",
+   "/MAPBOUNDS",
+   "/MAPBOUNDS_B",
+   "/MAPBOUNDS_C",
+   "ENV/BACKDROP/BACKDROP_TREES_A",
+   "ENV/BLEND_TESTING",
+   "FADE_B",
+   "KSF/KSF_BANNER_CLEAN",
+   "SPECIAL_THANKS"
+  ],
+  "textures_flat": [],
+  "models_unmapped": [
+   "candy/bisquit_3.mdl",
+   "candy/bisquit_4.mdl",
+   "candy/waffle_2.mdl",
+   "candy/waffle_4.mdl",
+   "chocolate/waffle_crumble_a.mdl",
+   "chocolate/waffle_crumble_b.mdl",
+   "chocolate/waffle_crumble_d.mdl",
+   "chocolate/waffle_crumble_e.mdl",
+   "chocolate/waffle_crumble_f.mdl",
+   "chocolate/waffle_crumble_g.mdl",
+   "mine/rails/rail_right.mdl",
+   "mine/rails/rail_straight.mdl",
+   "mine/rails/rail_straight_double.mdl",
+   "props/generated_prop.mdl",
+   "ramps/ramp1.mdl",
+   "ramps/ramp10.mdl",
+   "ramps/ramp11.mdl",
+   "ramps/ramp12.mdl",
+   "ramps/ramp14.mdl",
+   "ramps/ramp15.mdl",
+   "ramps/ramp16.mdl",
+   "ramps/ramp17.mdl",
+   "ramps/ramp18.mdl",
+   "ramps/ramp2.mdl",
+   "ramps/ramp3.mdl",
+   "ramps/ramp4.mdl",
+   "ramps/ramp5.mdl",
+   "ramps/ramp6.mdl",
+   "ramps/ramp7.mdl",
+   "ramps/ramp8.mdl",
+   "ring_circle2_collision.mdl",
+   "ring_circle_collision.mdl",
+   "ring_square.mdl",
+   "ring_square_collision.mdl",
+   "star/star.mdl"
+  ],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [],
+  "links_unresolved": [],
+  "surfaces_opaque": []
+ },
+ "counts": {
+  "textures_unmapped": 11,
+  "textures_flat": 0,
+  "models_unmapped": 35,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 0,
+  "links_unresolved": 0,
+  "surfaces_opaque": 0
+ }
+}

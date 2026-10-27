@@ -1,0 +1,139 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "surf_kitsune",
+ "sha256": "1c0d3c7b3c08581180da3efc4512068b03023340ffd744eb0ab86c7ec214e77f",
+ "textures": {
+  "looked_up": 31,
+  "drawn": 30,
+  "by_tier": {
+   "addon": 3,
+   "default": 2,
+   "fallback": 26
+  },
+  "free_by_tier": {
+   "addon": 16,
+   "nearest": 14
+  },
+  "nearest_photo": [
+   "custom/rainbowscroll",
+   "grids/grid_blue",
+   "grids/grid_green",
+   "grids/grid_orange",
+   "grids/grid_pink",
+   "grids/grid_purple",
+   "grids/grid_red",
+   "grids/grid_teal",
+   "grids/grid_white",
+   "grids/grid_yellow",
+   "neons/neon_blue",
+   "neons/neon_blue_noglow",
+   "neons/neon_green",
+   "neons/neon_green_noglow",
+   "neons/neon_orange",
+   "neons/neon_orange_noglow",
+   "neons/neon_pink",
+   "neons/neon_pink_noglow",
+   "neons/neon_purple",
+   "neons/neon_purple_noglow",
+   "neons/neon_red",
+   "neons/neon_red_noglow",
+   "neons/neon_teal",
+   "neons/neon_teal_noglow",
+   "neons/neon_yellow",
+   "neons/neon_yellow_noglow",
+   "ramps/concretefloor039a"
+  ]
+ },
+ "models": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "sounds": {
+  "looked_up": 1,
+  "by_tier": {
+   "default": 1
+  }
+ },
+ "classes": {
+  "distinct": 15,
+  "entities": 265,
+  "by_tier": {
+   "default": 15
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "ambient_generic": [
+    "pitch"
+   ]
+  }
+ },
+ "links": {
+  "total": 60,
+  "unresolved": 2
+ },
+ "lists": {
+  "textures_unmapped": [
+   "CUSTOM/RAINBOWSCROLL",
+   "GRIDS/GRID_BLUE",
+   "GRIDS/GRID_GREEN",
+   "GRIDS/GRID_ORANGE",
+   "GRIDS/GRID_PINK",
+   "GRIDS/GRID_PURPLE",
+   "GRIDS/GRID_RED",
+   "GRIDS/GRID_TEAL",
+   "GRIDS/GRID_WHITE",
+   "GRIDS/GRID_YELLOW",
+   "NEONS/NEON_BLUE",
+   "NEONS/NEON_BLUE_NOGLOW",
+   "NEONS/NEON_GREEN",
+   "NEONS/NEON_GREEN_NOGLOW",
+   "NEONS/NEON_ORANGE",
+   "NEONS/NEON_ORANGE_NOGLOW",
+   "NEONS/NEON_PINK",
+   "NEONS/NEON_PINK_NOGLOW",
+   "NEONS/NEON_PURPLE",
+   "NEONS/NEON_PURPLE_NOGLOW",
+   "NEONS/NEON_RED",
+   "NEONS/NEON_RED_NOGLOW",
+   "NEONS/NEON_TEAL",
+   "NEONS/NEON_TEAL_NOGLOW",
+   "NEONS/NEON_YELLOW",
+   "NEONS/NEON_YELLOW_NOGLOW"
+  ],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "ambient_generic.pitch"
+  ],
+  "links_unresolved": [
+   "trigger_multiple.OnEndTouch->counter_3",
+   "trigger_teleport.OnEndTouch->counter_3"
+  ],
+  "surfaces_opaque": [
+   "grids/grid_blue",
+   "grids/grid_green",
+   "grids/grid_orange",
+   "grids/grid_pink",
+   "grids/grid_purple",
+   "grids/grid_red",
+   "grids/grid_teal",
+   "grids/grid_white",
+   "grids/grid_yellow"
+  ]
+ },
+ "counts": {
+  "textures_unmapped": 26,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 1,
+  "links_unresolved": 2,
+  "surfaces_opaque": 9
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "surf_eclipse",
+ "sha256": "087b27818b9451f0f54c71e999791ee1a5257bb0e8348f97219f5ba9b67fe6d2",
+ "textures": {
+  "looked_up": 21,
+  "drawn": 21,
+  "by_tier": {
+   "addon": 11,
+   "default": 8,
+   "fallback": 2
+  },
+  "free_by_tier": {
+   "addon": 14,
+   "default": 7
+  },
+  "nearest_photo": [
+   "eclipse/map_by_papercut1",
+   "halflife/+0~generic86r",
+   "models/props_combine/portalball001_sheet"
+  ]
+ },
+ "models": {
+  "looked_up": 1,
+  "by_tier": {
+   "default": 1
+  }
+ },
+ "sounds": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "classes": {
+  "distinct": 37,
+  "entities": 299,
+  "by_tier": {
+   "default": 37
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "game_player_equip": [
+    "ammo_338mag",
+    "ammo_556mm",
+    "ammo_556mm_box",
+    "ammo_9mm",
+    "ammo_buckshot",
+    "weapon_awp",
+    "weapon_galil",
+    "weapon_glock",
+    "weapon_knife",
+    "weapon_m249",
+    "weapon_m3"
+   ]
+  }
+ },
+ "links": {
+  "total": 70,
+  "unresolved": 1
+ },
+ "lists": {
+  "textures_unmapped": [
+   "ECLIPSE/MAP_BY_PAPERCUT1",
+   "MODELS/PROPS_COMBINE/PORTALBALL001_SHEET"
+  ],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "game_player_equip.ammo_338mag",
+   "game_player_equip.ammo_556mm",
+   "game_player_equip.ammo_556mm_box",
+   "game_player_equip.ammo_9mm",
+   "game_player_equip.ammo_buckshot",
+   "game_player_equip.weapon_awp",
+   "game_player_equip.weapon_galil",
+   "game_player_equip.weapon_glock",
+   "game_player_equip.weapon_knife",
+   "game_player_equip.weapon_m249",
+   "game_player_equip.weapon_m3"
+  ],
+  "links_unresolved": [
+   "func_button.OnPressed->give_awp"
+  ],
+  "surfaces_opaque": [
+   "models/props_combine/portalball001_sheet"
+  ]
+ },
+ "counts": {
+  "textures_unmapped": 2,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 11,
+  "links_unresolved": 1,
+  "surfaces_opaque": 1
+ }
+}

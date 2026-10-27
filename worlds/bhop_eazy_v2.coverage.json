@@ -1,0 +1,177 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "bhop_eazy_v2",
+ "sha256": "02465e6a80c87ed9e1689e90b5829c81c20e44bdf0df06e797f3214a857ad699",
+ "textures": {
+  "looked_up": 52,
+  "drawn": 52,
+  "by_tier": {
+   "default": 6,
+   "fallback": 46
+  },
+  "free_by_tier": {
+   "addon": 31,
+   "default": 18,
+   "nearest": 3
+  },
+  "nearest_photo": [
+   "hammer textures/eazy2/31_eazy2_floor_black_1",
+   "hammer textures/eazy2/31_eazy2_floor_blue_1",
+   "hammer textures/eazy2/31_eazy2_floor_clean_1",
+   "hammer textures/eazy2/31_eazy2_floor_clean_dark_1",
+   "hammer textures/eazy2/31_eazy2_floor_clean_fade_1",
+   "hammer textures/eazy2/31_eazy2_floor_green_1",
+   "hammer textures/eazy2/31_eazy2_floor_lines_1",
+   "hammer textures/eazy2/31_eazy2_floor_multi_1",
+   "hammer textures/eazy2/31_eazy2_floor_purple_1",
+   "hammer textures/eazy2/31_eazy2_floor_red_1",
+   "hammer textures/eazy2/31_eazy2_floor_yellow_1",
+   "hammer textures/eazy2/31_eazy2_jumpblock_blue_1",
+   "hammer textures/eazy2/31_eazy2_jumpblock_green_1",
+   "hammer textures/eazy2/31_eazy2_jumpblock_purple_1",
+   "hammer textures/eazy2/31_eazy2_jumpblock_red_1",
+   "hammer textures/eazy2/31_eazy2_jumpblock_yellow_1",
+   "hammer textures/eazy2/31_eazy2_jumpsides_blue_1",
+   "hammer textures/eazy2/31_eazy2_jumpsides_green_1",
+   "hammer textures/eazy2/31_eazy2_jumpsides_purple_1",
+   "hammer textures/eazy2/31_eazy2_jumpsides_red_1",
+   "hammer textures/eazy2/31_eazy2_jumpsides_yellow_1",
+   "hammer textures/eazy2/31_eazy2_plain_white_1",
+   "hammer textures/eazy2/31_eazy2_wall_blueline_1",
+   "hammer textures/eazy2/31_eazy2_wall_clean_1",
+   "hammer textures/eazy2/31_eazy2_wall_clean_blue_1",
+   "hammer textures/eazy2/31_eazy2_wall_clean_green_1",
+   "hammer textures/eazy2/31_eazy2_wall_clean_purple_1",
+   "hammer textures/eazy2/31_eazy2_wall_clean_red_1",
+   "hammer textures/eazy2/31_eazy2_wall_clean_yellow_1",
+   "hammer textures/eazy2/31_eazy2_wall_greenline_1",
+   "hammer textures/eazy2/31_eazy2_wall_multiline_1",
+   "hammer textures/eazy2/31_eazy2_wall_purpleline_1",
+   "hammer textures/eazy2/31_eazy2_wall_redline_1",
+   "hammer textures/eazy2/31_eazy2_wall_yellowline_1"
+  ]
+ },
+ "models": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "sounds": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "classes": {
+  "distinct": 26,
+  "entities": 524,
+  "by_tier": {
+   "default": 26
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "point_viewcontrol": [
+    "acceleration",
+    "deceleration"
+   ],
+   "weapon_awp": [
+    "ammo"
+   ],
+   "weapon_deagle": [
+    "ammo"
+   ],
+   "weapon_elite": [
+    "ammo"
+   ],
+   "weapon_glock": [
+    "ammo"
+   ],
+   "weapon_m249": [
+    "ammo"
+   ],
+   "weapon_p90": [
+    "ammo"
+   ]
+  }
+ },
+ "links": {
+  "total": 15,
+  "unresolved": 0
+ },
+ "lists": {
+  "textures_unmapped": [
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_FLOOR_BLACK_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_FLOOR_BLUE_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_FLOOR_CLEAN_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_FLOOR_CLEAN_DARK_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_FLOOR_CLEAN_FADE_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_FLOOR_GREEN_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_FLOOR_LINES_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_FLOOR_MULTI_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_FLOOR_PURPLE_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_FLOOR_RED_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_FLOOR_YELLOW_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_JUMPBLOCK_BLUE_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_JUMPBLOCK_GREEN_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_JUMPBLOCK_MULTI_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_JUMPBLOCK_PURPLE_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_JUMPBLOCK_RED_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_JUMPBLOCK_YELLOW_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_JUMPSIDES_BLUE_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_JUMPSIDES_GREEN_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_JUMPSIDES_MULTI_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_JUMPSIDES_PURPLE_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_JUMPSIDES_RED_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_JUMPSIDES_YELLOW_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_LASERTHINGS_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_MAPBYTRAIL_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_MAPBY_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_MAP_SIGN_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_PLAIN_WHITE_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_WALL_BLUELINE_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_WALL_CLEAN_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_WALL_CLEAN_BLUE_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_WALL_CLEAN_GREEN_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_WALL_CLEAN_PURPLE_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_WALL_CLEAN_RED_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_WALL_CLEAN_YELLOW_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_WALL_GREENLINE_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_WALL_MULTILINE_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_WALL_PURPLELINE_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_WALL_REDLINE_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY2_WALL_YELLOWLINE_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY_WEB_BLUE_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY_WEB_GREEN_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY_WEB_MULTI_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY_WEB_PURPLE_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY_WEB_RED_1",
+   "HAMMER TEXTURES/EAZY2/31_EAZY_WEB_YELLOW_1"
+  ],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "point_viewcontrol.acceleration",
+   "point_viewcontrol.deceleration",
+   "weapon_awp.ammo",
+   "weapon_deagle.ammo",
+   "weapon_elite.ammo",
+   "weapon_glock.ammo",
+   "weapon_m249.ammo",
+   "weapon_p90.ammo"
+  ],
+  "links_unresolved": [],
+  "surfaces_opaque": []
+ },
+ "counts": {
+  "textures_unmapped": 46,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 8,
+  "links_unresolved": 0,
+  "surfaces_opaque": 0
+ }
+}

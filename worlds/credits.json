@@ -1,89 +1,209 @@
 {
  "map": {
-  "author": "31K4L",
-  "page": "https://gamebanana.com/mods/124913",
+  "author": "Arblarg",
+  "page": "https://gamebanana.com/mods/122382",
   "licence": "unstated (GameBanana)"
  },
  "works": [
   {
    "kind": "texture",
-   "name": "pbr_painted_brick",
-   "author": "Amal Kumar",
+   "name": "pbr_Carpet006",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/painted_brick",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=Carpet006",
+   "source": "ambientCG",
    "attribution": false,
    "uses": 14
   },
   {
    "kind": "texture",
-   "name": "pbr_whitewashed_brick",
-   "author": "Charlotte Baglioni",
+   "name": "pbr_Fabric047",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/whitewashed_brick",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=Fabric047",
+   "source": "ambientCG",
    "attribution": false,
-   "uses": 26
+   "uses": 16
   },
   {
    "kind": "texture",
-   "name": "pbr_herringbone_concrete_tile",
-   "author": "Charlotte Baglioni",
+   "name": "pbr_wood_table_001",
+   "author": "Dimitrios Savva, Rico Cilliers",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/herringbone_concrete_tile",
+   "url": "https://polyhaven.com/a/wood_table_001",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 162
+   "uses": 19
   },
   {
    "kind": "texture",
-   "name": "pbr_patterned_brick_floor",
-   "author": "Charlotte Baglioni",
+   "name": "pbr_Wood008",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/patterned_brick_floor",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=Wood008",
+   "source": "ambientCG",
    "attribution": false,
-   "uses": 9
+   "uses": 16
   },
   {
    "kind": "texture",
-   "name": "pbr_brick_wall_09",
-   "author": "Rob Tuytel, Matterfield",
+   "name": "pbr_denim_fabric_06",
+   "author": "Greg Zaal, Rico Cilliers",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/brick_wall_09",
+   "url": "https://polyhaven.com/a/denim_fabric_06",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 13
+   "uses": 25
   },
   {
    "kind": "texture",
-   "name": "pbr_painted_worn_brick",
+   "name": "pbr_Tiles032",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Tiles032",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 31
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Tiles108",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Tiles108",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 109
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Planks026C",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Planks026C",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 12
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Ground014",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Ground014",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 1850
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Concrete013",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Concrete013",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 50
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_PaintedWood003",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=PaintedWood003",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 57
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_concrete_slab_wall_02",
+   "author": "Amal Kumar",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/concrete_slab_wall_02",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 248
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_DiamondPlate006A",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=DiamondPlate006A",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 42
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_CorrugatedSteel008A",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=CorrugatedSteel008A",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 83
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Paint003",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Paint003",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 97
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_CorrugatedSteel001",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=CorrugatedSteel001",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 109
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Fabric059",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Fabric059",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 109
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Fabric046",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Fabric046",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 170
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Fabric055",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Fabric055",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 143
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_climbing_wall_02",
    "author": "Dimitrios Savva",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/painted_worn_brick",
+   "url": "https://polyhaven.com/a/climbing_wall_02",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 11
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_rock_tile_floor",
-   "author": "Charlotte Baglioni",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/rock_tile_floor",
-   "source": "polyhaven",
-   "attribution": false,
-   "uses": 41
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_terry_cloth",
-   "author": "colormass, Rico Cilliers",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/terry_cloth",
-   "source": "polyhaven",
-   "attribution": false,
-   "uses": 1
+   "uses": 60
   }
  ]
 }

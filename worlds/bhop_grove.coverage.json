@@ -1,0 +1,69 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "bhop_grove",
+ "sha256": "96a3f34b23920681bbe4f628d9f4b6358cfc58bac45959432132ea1a4d561a71",
+ "textures": {
+  "looked_up": 4,
+  "drawn": 4,
+  "by_tier": {
+   "addon": 2,
+   "fallback": 2
+  },
+  "free_by_tier": {
+   "addon": 3,
+   "default": 1
+  },
+  "nearest_photo": [
+   "tony/forest_texture4"
+  ]
+ },
+ "models": {
+  "looked_up": 15,
+  "by_tier": {
+   "default": 15
+  }
+ },
+ "sounds": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "classes": {
+  "distinct": 13,
+  "entities": 466,
+  "by_tier": {
+   "default": 13
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {}
+ },
+ "links": {
+  "total": 30,
+  "unresolved": 0
+ },
+ "lists": {
+  "textures_unmapped": [
+   "LEGO3/MAPBY",
+   "TONY/FOREST_TEXTURE4"
+  ],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [],
+  "links_unresolved": [],
+  "surfaces_opaque": []
+ },
+ "counts": {
+  "textures_unmapped": 2,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 0,
+  "links_unresolved": 0,
+  "surfaces_opaque": 0
+ }
+}
