@@ -12,7 +12,7 @@ import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 GAMES = ["gamemann/game-g2gfast"]
-SKIP = {"buses_from_hell_fixed"}  # maps no accepted map_kind describes
+SKIP = set()
 
 
 def map_kind(mid):
