@@ -1,0 +1,23 @@
+[
+  {
+    "paths": [
+      ""
+    ],
+    "licence": "MIT",
+    "author": "TMC",
+    "url": "https://github.com/zees-games/g2gfast-maps",
+    "title": "g2gfast-maps (original content)"
+  },
+  {
+    "paths": [
+      "bhop_exodus",
+      "textures/"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Bhop Exodus",
+    "author": "Aoki",
+    "source_url": "https://gamebanana.com/mods/124977",
+    "removal_contact": "https://github.com/zees-games/g2gfast-maps/issues"
+  }
+]

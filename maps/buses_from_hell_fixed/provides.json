@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "title": "Buses From Hell Fixed",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-g2gfast"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "buses_from_hell_fixed",
+            "name": "Buses From Hell Fixed",
+            "scene": "buses_from_hell_fixed.json",
+            "map_kind": "surf"
+        }
+    ]
+}

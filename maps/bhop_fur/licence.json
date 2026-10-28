@@ -1,0 +1,23 @@
+[
+  {
+    "paths": [
+      ""
+    ],
+    "licence": "MIT",
+    "author": "TMC",
+    "url": "https://github.com/zees-games/g2gfast-maps",
+    "title": "g2gfast-maps (original content)"
+  },
+  {
+    "paths": [
+      "bhop_fur",
+      "textures/"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Bhop Fur",
+    "author": "Fur (TheFur)",
+    "source_url": "https://gamebanana.com/mods/125103",
+    "removal_contact": "https://github.com/zees-games/g2gfast-maps/issues"
+  }
+]

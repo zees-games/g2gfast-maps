@@ -1,0 +1,23 @@
+[
+  {
+    "paths": [
+      ""
+    ],
+    "licence": "MIT",
+    "author": "TMC",
+    "url": "https://github.com/zees-games/g2gfast-maps",
+    "title": "g2gfast-maps (original content)"
+  },
+  {
+    "paths": [
+      "bhop_platformer_fxd",
+      "textures/"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Bhop Platformer Fxd",
+    "author": "DroN (SWM|DroN)",
+    "source_url": "https://gamebanana.com/mods/125494",
+    "removal_contact": "https://github.com/zees-games/g2gfast-maps/issues"
+  }
+]

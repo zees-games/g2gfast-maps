@@ -1,0 +1,23 @@
+[
+  {
+    "paths": [
+      ""
+    ],
+    "licence": "MIT",
+    "author": "TMC",
+    "url": "https://github.com/zees-games/g2gfast-maps",
+    "title": "g2gfast-maps (original content)"
+  },
+  {
+    "paths": [
+      "bhop_ananas",
+      "textures/"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Bhop Ananas",
+    "author": "serz",
+    "source_url": "https://gamebanana.com/mods/124428",
+    "removal_contact": "https://github.com/zees-games/g2gfast-maps/issues"
+  }
+]

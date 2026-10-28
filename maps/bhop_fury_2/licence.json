@@ -1,0 +1,23 @@
+[
+  {
+    "paths": [
+      ""
+    ],
+    "licence": "MIT",
+    "author": "TMC",
+    "url": "https://github.com/zees-games/g2gfast-maps",
+    "title": "g2gfast-maps (original content)"
+  },
+  {
+    "paths": [
+      "bhop_fury_2",
+      "textures/"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Bhop Fury 2",
+    "author": "Dotty",
+    "source_url": "https://gamebanana.com/mods/125106",
+    "removal_contact": "https://github.com/zees-games/g2gfast-maps/issues"
+  }
+]

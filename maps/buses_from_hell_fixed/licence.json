@@ -1,0 +1,23 @@
+[
+  {
+    "paths": [
+      ""
+    ],
+    "licence": "MIT",
+    "author": "TMC",
+    "url": "https://github.com/zees-games/g2gfast-maps",
+    "title": "g2gfast-maps (original content)"
+  },
+  {
+    "paths": [
+      "buses_from_hell_fixed",
+      "textures/"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Buses From Hell Fixed",
+    "author": "siXMan",
+    "source_url": "https://gamebanana.com/mods/127607",
+    "removal_contact": "https://github.com/zees-games/g2gfast-maps/issues"
+  }
+]

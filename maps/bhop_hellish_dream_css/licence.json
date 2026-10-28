@@ -1,0 +1,23 @@
+[
+  {
+    "paths": [
+      ""
+    ],
+    "licence": "MIT",
+    "author": "TMC",
+    "url": "https://github.com/zees-games/g2gfast-maps",
+    "title": "g2gfast-maps (original content)"
+  },
+  {
+    "paths": [
+      "bhop_hellish_dream_css",
+      "textures/"
+    ],
+    "licence": "CC-BY-NC-ND-4.0",
+    "exception": "credited-community-map",
+    "title": "Bhop Hellish Dream Css",
+    "author": "Sonia_",
+    "source_url": "https://gamebanana.com/mods/125200",
+    "removal_contact": "https://github.com/zees-games/g2gfast-maps/issues"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "paths": [
+      ""
+    ],
+    "licence": "MIT",
+    "author": "TMC",
+    "url": "https://github.com/zees-games/g2gfast-maps",
+    "title": "g2gfast-maps (original content)"
+  },
+  {
+    "paths": [
+      "bhop_eazy_v2",
+      "textures/"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Bhop Eazy V2",
+    "author": "31K4L",
+    "source_url": "https://gamebanana.com/mods/124915",
+    "removal_contact": "https://github.com/zees-games/g2gfast-maps/issues"
+  }
+]

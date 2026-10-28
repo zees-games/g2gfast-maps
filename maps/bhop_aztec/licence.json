@@ -1,0 +1,23 @@
+[
+  {
+    "paths": [
+      ""
+    ],
+    "licence": "MIT",
+    "author": "TMC",
+    "url": "https://github.com/zees-games/g2gfast-maps",
+    "title": "g2gfast-maps (original content)"
+  },
+  {
+    "paths": [
+      "bhop_aztec",
+      "textures/"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Bhop Aztec",
+    "author": "Teho-Killeri (mapper), with Touch (design) and Veikko (textures)",
+    "source_url": "https://gamebanana.com/mods/124514",
+    "removal_contact": "https://github.com/zees-games/g2gfast-maps/issues"
+  }
+]

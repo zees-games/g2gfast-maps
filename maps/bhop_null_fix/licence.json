@@ -1,0 +1,23 @@
+[
+  {
+    "paths": [
+      ""
+    ],
+    "licence": "MIT",
+    "author": "TMC",
+    "url": "https://github.com/zees-games/g2gfast-maps",
+    "title": "g2gfast-maps (original content)"
+  },
+  {
+    "paths": [
+      "bhop_null_fix",
+      "textures/"
+    ],
+    "licence": "CC-BY-NC-ND-4.0",
+    "exception": "credited-community-map",
+    "title": "Bhop Null Fix",
+    "author": "Tony Montana",
+    "source_url": "https://gamebanana.com/mods/125638",
+    "removal_contact": "https://github.com/zees-games/g2gfast-maps/issues"
+  }
+]

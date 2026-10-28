@@ -1,0 +1,23 @@
+[
+  {
+    "paths": [
+      ""
+    ],
+    "licence": "MIT",
+    "author": "TMC",
+    "url": "https://github.com/zees-games/g2gfast-maps",
+    "title": "g2gfast-maps (original content)"
+  },
+  {
+    "paths": [
+      "kz_bhop_lucid",
+      "textures/"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Kz Bhop Lucid",
+    "author": "Ghost1246511",
+    "source_url": "https://gamebanana.com/mods/126473",
+    "removal_contact": "https://github.com/zees-games/g2gfast-maps/issues"
+  }
+]

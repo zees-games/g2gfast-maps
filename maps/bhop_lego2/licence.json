@@ -1,0 +1,23 @@
+[
+  {
+    "paths": [
+      ""
+    ],
+    "licence": "MIT",
+    "author": "TMC",
+    "url": "https://github.com/zees-games/g2gfast-maps",
+    "title": "g2gfast-maps (original content)"
+  },
+  {
+    "paths": [
+      "bhop_lego2",
+      "textures/"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Bhop Lego2",
+    "author": "Tony Montana (tmontana)",
+    "source_url": "https://gamebanana.com/mods/125408",
+    "removal_contact": "https://github.com/zees-games/g2gfast-maps/issues"
+  }
+]

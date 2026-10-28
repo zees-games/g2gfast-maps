@@ -1,0 +1,23 @@
+[
+  {
+    "paths": [
+      ""
+    ],
+    "licence": "MIT",
+    "author": "TMC",
+    "url": "https://github.com/zees-games/g2gfast-maps",
+    "title": "g2gfast-maps (original content)"
+  },
+  {
+    "paths": [
+      "surf_stonework3",
+      "textures/"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Stonework3",
+    "author": "Mr.Cow",
+    "source_url": "https://gamebanana.com/mods/123058",
+    "removal_contact": "https://github.com/zees-games/g2gfast-maps/issues"
+  }
+]

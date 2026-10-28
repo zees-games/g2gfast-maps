@@ -1,0 +1,23 @@
+[
+  {
+    "paths": [
+      ""
+    ],
+    "licence": "MIT",
+    "author": "TMC",
+    "url": "https://github.com/zees-games/g2gfast-maps",
+    "title": "g2gfast-maps (original content)"
+  },
+  {
+    "paths": [
+      "bhop_tesquo_v2",
+      "textures/"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Bhop Tesquo V2",
+    "author": "george (GeorgeRulesLOL); 'Made a stage': Jagg",
+    "source_url": "https://gamebanana.com/mods/126185",
+    "removal_contact": "https://github.com/zees-games/g2gfast-maps/issues"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "paths": [
+      ""
+    ],
+    "licence": "MIT",
+    "author": "TMC",
+    "url": "https://github.com/zees-games/g2gfast-maps",
+    "title": "g2gfast-maps (original content)"
+  },
+  {
+    "paths": [
+      "surf_eclipse",
+      "textures/"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Eclipse",
+    "author": "Paper-Cut",
+    "source_url": "https://gamebanana.com/mods/121976",
+    "removal_contact": "https://github.com/zees-games/g2gfast-maps/issues"
+  }
+]

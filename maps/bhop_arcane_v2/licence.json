@@ -1,0 +1,23 @@
+[
+  {
+    "paths": [
+      ""
+    ],
+    "licence": "MIT",
+    "author": "TMC",
+    "url": "https://github.com/zees-games/g2gfast-maps",
+    "title": "g2gfast-maps (original content)"
+  },
+  {
+    "paths": [
+      "bhop_arcane_v2",
+      "textures/"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Bhop Arcane V2",
+    "author": "Panzerhandschuh (Panzer); v2 edit uploaded by 'roger haha lol'",
+    "source_url": "https://gamebanana.com/mods/124462",
+    "removal_contact": "https://github.com/zees-games/g2gfast-maps/issues"
+  }
+]

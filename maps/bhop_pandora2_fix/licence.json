@@ -1,0 +1,23 @@
+[
+  {
+    "paths": [
+      ""
+    ],
+    "licence": "MIT",
+    "author": "TMC",
+    "url": "https://github.com/zees-games/g2gfast-maps",
+    "title": "g2gfast-maps (original content)"
+  },
+  {
+    "paths": [
+      "bhop_pandora2_fix",
+      "textures/"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Bhop Pandora2 Fix",
+    "author": "Sonia_ (map); skybox Mr.Who; textures Wolves Hero and Sonia_; original bhop_pandora video/advice tmontana",
+    "source_url": "https://gamebanana.com/mods/125705",
+    "removal_contact": "https://github.com/zees-games/g2gfast-maps/issues"
+  }
+]

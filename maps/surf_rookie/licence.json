@@ -1,0 +1,23 @@
+[
+  {
+    "paths": [
+      ""
+    ],
+    "licence": "MIT",
+    "author": "TMC",
+    "url": "https://github.com/zees-games/g2gfast-maps",
+    "title": "g2gfast-maps (original content)"
+  },
+  {
+    "paths": [
+      "surf_rookie",
+      "textures/"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Rookie",
+    "author": "Kiiru, Sacred91, Zeedz, Retarded brother",
+    "source_url": "https://gamebanana.com/mods/122860",
+    "removal_contact": "https://github.com/zees-games/g2gfast-maps/issues"
+  }
+]
