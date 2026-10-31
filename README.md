@@ -57,6 +57,8 @@ tools/g2gmaps fetch --pub path/to/content.pub
 | `bhop_epiphany` | wet (the map's own text reads "By Nate"); licence stated on the page: Creative Commons Attribution-NonCommercial-NoDerivs 4.0 | https://gamebanana.com/mods/124957 |
 | `bhop_evolve` | Zyper | https://gamebanana.com/mods/124971 |
 | `bhop_exanimo` | WorldspawN and Drouzefa; materials and props Antosha, FOOL, komaokc, NOUG4AT, Acehigh, Gatorlangman, Zindex, TopHATTwaffle; licence stated on the page: Creative Commons Attribution-NonCommercial-NoDerivs 4.0; removal on request | https://gamebanana.com/mods/369680 |
+| `bhop_forgotten` | sexy but not trying.. (map); tested by Serz; licence stated on the page: Creative Commons Attribution-NonCommercial-NoDerivs 4.0; removal on request | https://gamebanana.com/mods/125063 |
+| `bhop_freakin` | FreAkin; licence stated on the page: Creative Commons Attribution-NonCommercial-NoDerivs 4.0; removal on request | https://gamebanana.com/mods/125076 |
 | `bhop_fur` | Fur (TheFur) | https://gamebanana.com/mods/125103 |
 | `bhop_fury` | Dotty; licence stated on the page: Creative Commons Attribution-NonCommercial-NoDerivs 4.0; removal on request | https://gamebanana.com/mods/125105 |
 | `bhop_grove` | Tony Montana | https://gamebanana.com/mods/125167 |

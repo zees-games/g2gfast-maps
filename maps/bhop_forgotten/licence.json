@@ -1,0 +1,23 @@
+[
+  {
+    "paths": [
+      ""
+    ],
+    "licence": "MIT",
+    "author": "TMC",
+    "url": "https://github.com/zees-games/g2gfast-maps",
+    "title": "g2gfast-maps (original content)"
+  },
+  {
+    "paths": [
+      "bhop_forgotten",
+      "textures/"
+    ],
+    "licence": "CC-BY-NC-ND-4.0",
+    "exception": "credited-community-map",
+    "title": "bhop_forgotten",
+    "author": "sexy but not trying.. (map); tested by Serz",
+    "source_url": "https://gamebanana.com/mods/125063",
+    "removal_contact": "https://github.com/zees-games/g2gfast-maps/issues"
+  }
+]

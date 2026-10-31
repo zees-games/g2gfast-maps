@@ -1,0 +1,23 @@
+[
+  {
+    "paths": [
+      ""
+    ],
+    "licence": "MIT",
+    "author": "TMC",
+    "url": "https://github.com/zees-games/g2gfast-maps",
+    "title": "g2gfast-maps (original content)"
+  },
+  {
+    "paths": [
+      "bhop_freakin",
+      "textures/"
+    ],
+    "licence": "CC-BY-NC-ND-4.0",
+    "exception": "credited-community-map",
+    "title": "bhop_FreAkin",
+    "author": "FreAkin",
+    "source_url": "https://gamebanana.com/mods/125076",
+    "removal_contact": "https://github.com/zees-games/g2gfast-maps/issues"
+  }
+]

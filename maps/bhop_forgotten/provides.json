@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "title": "Bhop Forgotten",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-g2gfast"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "bhop_forgotten",
+            "name": "Bhop Forgotten",
+            "scene": "bhop_forgotten.json",
+            "map_kind": "bhop"
+        }
+    ]
+}
