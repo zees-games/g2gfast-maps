@@ -547,6 +547,8 @@
   "placed": 0,
   "drawn": 0,
   "stock_models": 0,
+  "stock_standins": 0,
+  "stock_standins_estimated": 0,
   "surfaces": 0,
   "tinted": 0,
   "open_sky_lit": 0
@@ -1149,6 +1151,42 @@
   "0": "main"
  },
  "respawn_volumes": [],
+ "mechanics": {
+  "water": [],
+  "push": [],
+  "gravity": [],
+  "hurt": [
+   {
+    "min": [
+     1024.0,
+     -128.0,
+     -1280.0
+    ],
+    "max": [
+     1408.0,
+     32.0,
+     -1136.0
+    ],
+    "damage": 20.0
+   },
+   {
+    "min": [
+     1024.0,
+     -128.0,
+     -912.0
+    ],
+    "max": [
+     1408.0,
+     32.0,
+     -768.0
+    ],
+    "damage": 20.0
+   }
+  ],
+  "conveyors": [],
+  "ladders": [],
+  "blocks": []
+ },
  "push_volumes": [],
  "trigger_volumes": [
   {
