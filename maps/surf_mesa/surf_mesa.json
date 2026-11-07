@@ -111,7 +111,7 @@
   {
    "material": "concrete/concretewall011c",
    "role": "FLOOR",
-   "prototype": true,
+   "prototype": false,
    "vertex_offset": 1174984,
    "vertex_count": 2358,
    "index_offset": 1269304,
@@ -121,13 +121,13 @@
     0.4973,
     0.4459
    ],
-   "texture": null,
+   "texture": "concrete_concretewall011c.png",
    "translucent": false
   },
   {
    "material": "concrete/concretewall011c",
    "role": "PLATFORM",
-   "prototype": true,
+   "prototype": false,
    "vertex_offset": 1288528,
    "vertex_count": 66,
    "index_offset": 1291168,
@@ -137,13 +137,13 @@
     0.4973,
     0.4459
    ],
-   "texture": null,
+   "texture": "concrete_concretewall011c.png",
    "translucent": false
   },
   {
    "material": "concrete/concretewall011c",
    "role": "RAMP",
-   "prototype": true,
+   "prototype": false,
    "vertex_offset": 1291528,
    "vertex_count": 111,
    "index_offset": 1295968,
@@ -153,13 +153,13 @@
     0.4973,
     0.4459
    ],
-   "texture": null,
+   "texture": "concrete_concretewall011c.png",
    "translucent": false
   },
   {
    "material": "concrete/concretewall011h",
    "role": "FLOOR",
-   "prototype": true,
+   "prototype": false,
    "vertex_offset": 1296676,
    "vertex_count": 132,
    "index_offset": 1301956,
@@ -169,7 +169,7 @@
     0.5208,
     0.4497
    ],
-   "texture": null,
+   "texture": "concrete_concretewall011h.png",
    "translucent": false
   },
   {
@@ -742,9 +742,9 @@
    "prototype": true,
    "prop": true,
    "vertex_offset": 24612000,
-   "vertex_count": 360,
-   "index_offset": 24626400,
-   "index_count": 540,
+   "vertex_count": 120,
+   "index_offset": 24616800,
+   "index_count": 180,
    "colour": [
     0.6652,
     0.4781,
@@ -755,22 +755,22 @@
   }
  ],
  "collision": {
-  "hull_count": 1855,
-  "hull_offset": 24628560,
-  "displacement_vertex_offset": 24905452,
+  "hull_count": 1845,
+  "hull_offset": 24617520,
+  "displacement_vertex_offset": 24893412,
   "displacement_vertex_count": 93758,
-  "displacement_index_offset": 26030548,
+  "displacement_index_offset": 26018508,
   "displacement_index_count": 550656,
   "playerclip_hulls": 0,
-  "prop_hulls": 227
+  "prop_hulls": 217
  },
  "skybox": null,
  "static_props": {
   "placed": 233,
-  "drawn": 227,
+  "drawn": 217,
   "stock_models": 21,
-  "stock_standins": 15,
-  "stock_standins_estimated": 15,
+  "stock_standins": 5,
+  "stock_standins_estimated": 5,
   "surfaces": 8,
   "tinted": 2,
   "open_sky_lit": 112
