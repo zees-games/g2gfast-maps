@@ -5,8 +5,8 @@
     ],
     "licence": "MIT",
     "author": "TMC",
-    "url": "https://github.com/zees-games/g2gfast-maps",
-    "title": "g2gfast-maps (original content)"
+    "url": "https://github.com/zees-games/airdrift-maps",
+    "title": "airdrift-maps (original content)"
   },
   {
     "paths": [
@@ -18,6 +18,6 @@
     "title": "Surf Beginner",
     "author": "Kiiru",
     "source_url": "https://gamebanana.com/mods/121714",
-    "removal_contact": "https://github.com/zees-games/g2gfast-maps/issues"
+    "removal_contact": "https://github.com/zees-games/airdrift-maps/issues"
   }
 ]
