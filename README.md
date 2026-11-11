@@ -6,7 +6,7 @@ Every map here is somebody else's work, made for the genre years ago and importe
 
 A player joining a server downloads the map that is running, not every map there is. So each map is published as its own signed pack, `gamemann/<map id>`, and the game fetches the one it needs when the map changes. Keeping them here means a map can be added, fixed or withdrawn without a release of the game, and 1.5 GB of maps does not ride along with every clone of the game's code.
 
-Combat surf maps (a deathmatch to fight on, not a course to time) are not kept here: they live in `arena-surf-dm-maps`.
+Combat surf maps (a deathmatch to fight on, not a course to time) are not kept here: they live in `fc-surf-dm-maps`.
 
 ## Layout
 
@@ -18,7 +18,7 @@ maps.json                every map, its author and its source page
 tools/g2gmaps            the CLI
 ```
 
-The game's zone data (starts, finishes, stages) stays in game-g2gfast under `maps/zones/`, because it is gameplay the game defines, not part of the map.
+The game's zone data (starts, finishes, stages) stays in game-airdrift under `maps/zones/`, because it is gameplay the game defines, not part of the map.
 
 ## Using it
 
@@ -39,7 +39,7 @@ GAMES_S3_BUCKET=... GAMES_S3_REGION=... GAMES_S3_ACCESS_KEY=... GAMES_S3_ACCESS_
 tools/g2gmaps fetch --pub path/to/content.pub
 ```
 
-`publish` runs through game-g2gfast's own `tools/publish_maps.sh`, so it needs Godot and the game checked out beside this repository with `link` done. `fetch` needs only Python 3.
+`publish` runs through game-airdrift's own `tools/publish_maps.sh`, so it needs Godot and the game checked out beside this repository with `link` done. `fetch` needs only Python 3.
 
 ## Credits
 

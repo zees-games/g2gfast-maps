@@ -1,6 +1,6 @@
 # Tag this repository (v1.0.0) and every map lands on the release as its own pack zip,
 # which website-city publishes as gamemann/<map id>@<version>. The game imports the
-# maps, so dot-ci checks game-g2gfast out beside them; see dot-ci's release-maps.yml.
+# maps, so dot-ci checks game-airdrift out beside them; see dot-ci's release-maps.yml.
 name: Release
 
 on:
