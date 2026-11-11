@@ -1,10 +1,10 @@
-The bunny-hop and surf maps [game-g2gfast](https://github.com/zees-games/game-g2gfast) plays, as a repository of their own: the imported maps in `maps/`, the list of them with their authors in `maps.json`, and `tools/g2gmaps` to publish them to the content origin and to mirror them back down.
+The bunny-hop and surf maps [Zee's Airdrift](https://github.com/zees-games/game-airdrift) plays, as a repository of their own: the imported maps in `maps/`, the list of them with their authors in `maps.json`, and `tools/g2gmaps` to publish them to the content origin and to mirror them back down.
 
 Every map here is somebody else's work, made for the genre years ago and imported so it can be played again. Each one is credited below and on screen whenever a server changes to it. If you made one of these maps and want it credited differently or taken down, open an issue and it will be done.
 
 ## Why the maps are not in the game's repository
 
-A player joining a server downloads the map that is running, not every map there is. So each map is published as its own signed pack, `gamemann/<map id>`, and game-g2gfast fetches the one it needs when the map changes. Keeping them here means a map can be added, fixed or withdrawn without a release of the game, and 1.5 GB of maps does not ride along with every clone of the game's code.
+A player joining a server downloads the map that is running, not every map there is. So each map is published as its own signed pack, `gamemann/<map id>`, and the game fetches the one it needs when the map changes. Keeping them here means a map can be added, fixed or withdrawn without a release of the game, and 1.5 GB of maps does not ride along with every clone of the game's code.
 
 Combat surf maps (a deathmatch to fight on, not a course to time) are not kept here: they live in `arena-surf-dm-maps`.
 

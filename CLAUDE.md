@@ -1,6 +1,8 @@
-# g2gfast-maps
+# airdrift-maps
 
-The imported maps game-g2gfast plays, as their own repository. Read `../../CLAUDE.md` and `../game-g2gfast/CLAUDE.md` first.
+The imported maps Zee's Airdrift (game-airdrift) plays, as their own repository. Read `../../CLAUDE.md` and `../game-g2gfast/CLAUDE.md` first.
+
+The repositories were renamed from g2gfast-maps and game-g2gfast (2026-11-11); the checkouts keep their old directory names (`../g2gfast-maps`, `../game-g2gfast`), and **the ids keep the old name on purpose**: the game pack `gamemann/game-g2gfast` the maps are published for, the per-map `gamemann/<map id>` packs, `tools/g2gmaps` and the bootstrap link names.
 
 **Each map is its own signed pack, `gamemann/<map id>`, never one pack for all of them.** A player joining a server downloads the map that is running; the game fetches the rest one at a time on a map change (`G2GConfig.map_content_owner`, `sv_map_content_owner` in the game's own `game.yml`). One pack for 1.5 GB of maps would put every map on every join.
 
