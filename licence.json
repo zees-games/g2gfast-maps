@@ -823,5 +823,38 @@
     "author": "ArchAngel",
     "source_url": "https://gamebanana.com/mods/123298",
     "removal_contact": "https://github.com/zees-games/airdrift-maps/issues"
+  },
+  {
+    "paths": [
+      "maps/bhop_forgotten"
+    ],
+    "licence": "CC-BY-NC-ND-4.0",
+    "exception": "credited-community-map",
+    "title": "Bhop Forgotten",
+    "author": "sexy but not trying..",
+    "source_url": "https://gamebanana.com/mods/125063",
+    "removal_contact": "https://github.com/zees-games/airdrift-maps/issues"
+  },
+  {
+    "paths": [
+      "maps/bhop_freakin"
+    ],
+    "licence": "CC-BY-NC-ND-4.0",
+    "exception": "credited-community-map",
+    "title": "Bhop Freakin",
+    "author": "FreAkin",
+    "source_url": "https://gamebanana.com/mods/125076",
+    "removal_contact": "https://github.com/zees-games/airdrift-maps/issues"
+  },
+  {
+    "paths": [
+      "maps/surf_stonework4"
+    ],
+    "licence": "CC-BY-NC-ND-4.0",
+    "exception": "credited-community-map",
+    "title": "Surf Stonework4",
+    "author": "Mr.Cow",
+    "source_url": "https://gamebanana.com/mods/123059",
+    "removal_contact": "https://github.com/zees-games/airdrift-maps/issues"
   }
 ]
