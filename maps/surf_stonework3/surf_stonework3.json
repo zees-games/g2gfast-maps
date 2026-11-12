@@ -605,7 +605,8 @@
     0.3363
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "concrete/concretewall071b"
   },
   {
    "material": "models/surf_stonework3/arch1/stonewall032a",
@@ -622,7 +623,8 @@
     0.6366
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "stone/stonewall032a"
   },
   {
    "material": "models/surf_stonework3/arch1/train_metalceiling_02",
@@ -639,7 +641,8 @@
     0.1023
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "de_train/train_metalceiling_02"
   },
   {
    "material": "models/surf_stonework3/arch2/base_stone3",
@@ -668,7 +671,8 @@
     0.3363
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "concrete/concretewall071b"
   },
   {
    "material": "models/surf_stonework3/arch2/stonewall032a",
@@ -685,7 +689,8 @@
     0.6366
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "stone/stonewall032a"
   },
   {
    "material": "models/surf_stonework3/arch2/train_metalceiling_02",
@@ -702,7 +707,8 @@
     0.1023
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "de_train/train_metalceiling_02"
   },
   {
    "material": "models/surf_stonework3/arch2half/base_stone3",
@@ -731,7 +737,8 @@
     0.3363
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "concrete/concretewall071b"
   },
   {
    "material": "models/surf_stonework3/arch2half/stonewall032a",
@@ -748,7 +755,8 @@
     0.6366
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "stone/stonewall032a"
   },
   {
    "material": "models/surf_stonework3/arch2half/train_metalceiling_02",
@@ -765,7 +773,8 @@
     0.1023
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "de_train/train_metalceiling_02"
   },
   {
    "material": "models/surf_stonework3/arch3/base_stone3",
@@ -794,7 +803,8 @@
     0.3363
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "concrete/concretewall071b"
   },
   {
    "material": "models/surf_stonework3/arch3/stonewall032a",
@@ -811,7 +821,8 @@
     0.6366
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "stone/stonewall032a"
   },
   {
    "material": "models/surf_stonework3/arch3/train_metalceiling_02",
@@ -828,7 +839,8 @@
     0.1023
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "de_train/train_metalceiling_02"
   },
   {
    "material": "models/surf_stonework3/arch3half/base_stone3",
@@ -857,7 +869,8 @@
     0.3363
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "concrete/concretewall071b"
   },
   {
    "material": "models/surf_stonework3/arch3half/stonewall032a",
@@ -874,7 +887,8 @@
     0.6366
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "stone/stonewall032a"
   },
   {
    "material": "models/surf_stonework3/arch3half/train_metalceiling_02",
@@ -891,7 +905,8 @@
     0.1023
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "de_train/train_metalceiling_02"
   },
   {
    "material": "models/surf_stonework3/arch4/base_stone3",
@@ -920,7 +935,8 @@
     0.3363
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "concrete/concretewall071b"
   },
   {
    "material": "models/surf_stonework3/arch4/stonewall032a",
@@ -937,7 +953,8 @@
     0.6366
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "stone/stonewall032a"
   },
   {
    "material": "models/surf_stonework3/arch4/train_metalceiling_02",
@@ -954,7 +971,8 @@
     0.1023
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "de_train/train_metalceiling_02"
   },
   {
    "material": "models/surf_stonework3/arch4half/base_stone3",
@@ -983,7 +1001,8 @@
     0.3363
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "concrete/concretewall071b"
   },
   {
    "material": "models/surf_stonework3/arch4half/stonewall032a",
@@ -1000,7 +1019,8 @@
     0.6366
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "stone/stonewall032a"
   },
   {
    "material": "models/surf_stonework3/arch4half/train_metalceiling_02",
@@ -1017,7 +1037,8 @@
     0.1023
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "de_train/train_metalceiling_02"
   },
   {
    "material": "models/surf_stonework3/mrcow/mr_cow_stone_texture",
@@ -1502,7 +1523,8 @@
     0.4667
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "concrete/concretewall071d"
   },
   {
    "material": "models/surf_stonework3/stage3corner/floor_mosaictiles",
@@ -1555,7 +1577,8 @@
     0.4667
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "concrete/concretewall071d"
   },
   {
    "material": "models/surf_stonework3/stage3pillar/floor_mosaictiles",
@@ -1620,7 +1643,8 @@
     0.497
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "concrete/concretewall041f"
   },
   {
    "material": "models/surf_stonework3/stage4pillar/concretewall041g",
@@ -1637,7 +1661,8 @@
     0.7102
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "concrete/concretewall041g"
   },
   {
    "material": "models/surf_stonework3/stage4pillar/concretewall071b",
@@ -1654,7 +1679,8 @@
     0.3363
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "concrete/concretewall071b"
   },
   {
    "material": "models/surf_stonework3/stage4pillar/floor_mosaictiles",
@@ -1695,7 +1721,8 @@
     0.6366
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "stone/stonewall032a"
   },
   {
    "material": "models/surf_stonework3/stage4spawnpillar/base_stone3",
@@ -1748,7 +1775,8 @@
     0.6366
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "stone/stonewall032a"
   },
   {
    "material": "models/surf_stonework3/stage6corner/base_stone3",
@@ -1777,7 +1805,8 @@
     0.7102
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "concrete/concretewall041g"
   },
   {
    "material": "models/surf_stonework3/stage6corner/floor_mosaictiles",
@@ -1854,7 +1883,8 @@
     0.6366
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "stone/stonewall032a"
   },
   {
    "material": "models/surf_stonework3/stage7weave/wall_stone1_plain",
@@ -1895,7 +1925,8 @@
     0.083
    ],
    "texture": null,
-   "translucent": false
+   "translucent": false,
+   "base": "metal/metalhull013a"
   },
   {
    "material": "models/surf_stonework3/torch/mr_cow_stone_texture",
@@ -1911,20 +1942,140 @@
   }
  ],
  "collision": {
-  "hull_count": 4650,
+  "hull_count": 4654,
   "hull_offset": 24156672,
-  "displacement_vertex_offset": 24666096,
+  "displacement_vertex_offset": 24666280,
   "displacement_vertex_count": 0,
-  "displacement_index_offset": 24666096,
+  "displacement_index_offset": 24666280,
   "displacement_index_count": 0,
   "playerclip_hulls": 40,
-  "prop_hulls": 203
+  "prop_hulls": 203,
+  "hull_kinds": {
+   "clip": [
+    109,
+    110,
+    111,
+    112,
+    121,
+    201,
+    202,
+    203,
+    384,
+    385,
+    395,
+    409,
+    647,
+    650,
+    657,
+    663,
+    676,
+    677,
+    690,
+    691,
+    692,
+    693,
+    694,
+    695,
+    697,
+    698,
+    699,
+    700,
+    701,
+    702,
+    703,
+    704,
+    901,
+    904,
+    905,
+    906,
+    917,
+    956,
+    997,
+    1276,
+    1332,
+    1438,
+    1516,
+    1517,
+    1592,
+    1593,
+    1594,
+    1595,
+    1596,
+    1609,
+    1610,
+    1611,
+    1612,
+    1613,
+    1730,
+    1731,
+    1732,
+    1733,
+    1734,
+    2050,
+    2051,
+    2052,
+    2053,
+    2054,
+    2097,
+    2098,
+    2099,
+    2100,
+    2101,
+    2102,
+    2103,
+    2104,
+    2105,
+    2106,
+    2400,
+    2402,
+    2459,
+    2473,
+    2474,
+    2475,
+    2476,
+    2477
+   ],
+   "sky": [
+    742,
+    1095,
+    1433
+   ],
+   "glass": [
+    1051,
+    1052,
+    1053,
+    1054,
+    1055,
+    1056,
+    1762,
+    1781,
+    2030,
+    2096,
+    2154,
+    2423,
+    3102,
+    3103,
+    3104,
+    3105,
+    3106,
+    3107,
+    3454,
+    4062,
+    4063,
+    4064,
+    4065,
+    4066,
+    4067
+   ]
+  }
  },
  "skybox": null,
  "static_props": {
   "placed": 568,
   "drawn": 568,
   "stock_models": 0,
+  "stock_standins": 0,
+  "stock_standins_estimated": 0,
   "surfaces": 98,
   "tinted": 31,
   "open_sky_lit": 398
@@ -52490,6 +52641,11 @@
  ],
  "track_names": {
   "0": "main"
+ },
+ "teleport_audit": {
+  "teleports": 14,
+  "pits": 14,
+  "broken": []
  },
  "respawn_volumes": [
   {

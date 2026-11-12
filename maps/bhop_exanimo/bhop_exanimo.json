@@ -85,7 +85,7 @@
   {
    "material": "cs_havana/metalfence007a",
    "role": "FLOOR",
-   "prototype": true,
+   "prototype": false,
    "vertex_offset": 18060,
    "vertex_count": 8,
    "index_offset": 18380,
@@ -95,9 +95,8 @@
     0.1051,
     0.0959
    ],
-   "texture": null,
-   "translucent": false,
-   "base": "metal/metalfence007a"
+   "texture": "metal_metalfence007a.png",
+   "translucent": true
   },
   {
    "material": "cs_havana/metalwall085a",
@@ -214,7 +213,7 @@
   {
    "material": "de_train/train_metalceiling_02",
    "role": "FLOOR",
-   "prototype": true,
+   "prototype": false,
    "vertex_offset": 88700,
    "vertex_count": 194,
    "index_offset": 96460,
@@ -224,13 +223,13 @@
     0.1104,
     0.1023
    ],
-   "texture": null,
+   "texture": "de_train_train_metalceiling_02.png",
    "translucent": false
   },
   {
    "material": "de_train/train_metalceiling_02",
    "role": "PLATFORM",
-   "prototype": true,
+   "prototype": false,
    "vertex_offset": 97756,
    "vertex_count": 1930,
    "index_offset": 174956,
@@ -240,13 +239,13 @@
     0.1104,
     0.1023
    ],
-   "texture": null,
+   "texture": "de_train_train_metalceiling_02.png",
    "translucent": false
   },
   {
    "material": "de_train/train_metalceiling_02",
    "role": "RAMP",
-   "prototype": true,
+   "prototype": false,
    "vertex_offset": 188564,
    "vertex_count": 12,
    "index_offset": 189044,
@@ -256,7 +255,7 @@
     0.1104,
     0.1023
    ],
-   "texture": null,
+   "texture": "de_train_train_metalceiling_02.png",
    "translucent": false
   },
   {
@@ -2915,52 +2914,37 @@
   {
    "material": "models/props/cs_assault/floodlight02_on",
    "role": "FLOOR",
-   "prototype": true,
+   "prototype": false,
    "prop": true,
    "vertex_offset": 5728424,
    "vertex_count": 1000,
    "index_offset": 5768424,
    "index_count": 2220,
-   "colour": [
-    0.5,
-    0.5,
-    0.5
-   ],
-   "texture": null,
+   "texture": "models_props_cs_assault_floodlight02_on.png",
    "translucent": false
   },
   {
    "material": "models/props/cs_assault/floodlight03_on",
    "role": "FLOOR",
-   "prototype": true,
+   "prototype": false,
    "prop": true,
    "vertex_offset": 5777304,
    "vertex_count": 716,
    "index_offset": 5805944,
    "index_count": 2076,
-   "colour": [
-    0.5,
-    0.5,
-    0.5
-   ],
-   "texture": null,
+   "texture": "models_props_cs_assault_floodlight03_on.png",
    "translucent": false
   },
   {
    "material": "models/props/cs_assault/streetlight_on",
    "role": "FLOOR",
-   "prototype": true,
+   "prototype": false,
    "prop": true,
    "vertex_offset": 5814248,
    "vertex_count": 4032,
    "index_offset": 5975528,
    "index_count": 12744,
-   "colour": [
-    0.5,
-    0.5,
-    0.5
-   ],
-   "texture": null,
+   "texture": "models_props_cs_assault_streetlight_on.png",
    "translucent": false
   },
   {
@@ -3056,7 +3040,210 @@
   "displacement_index_offset": 14051900,
   "displacement_index_count": 11520,
   "playerclip_hulls": 140,
-  "prop_hulls": 16
+  "prop_hulls": 16,
+  "hull_kinds": {
+   "clip": [
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    135,
+    161,
+    162,
+    163,
+    164,
+    226,
+    227,
+    433,
+    451,
+    464,
+    468,
+    513,
+    514,
+    539,
+    608,
+    613,
+    682,
+    683,
+    684,
+    686,
+    687,
+    723,
+    727,
+    851,
+    857,
+    860,
+    862,
+    863,
+    880,
+    881,
+    882,
+    883,
+    884,
+    885,
+    899,
+    1013,
+    1014,
+    1027,
+    1028,
+    1029,
+    1032,
+    1033,
+    1038,
+    1039,
+    1040,
+    1041,
+    1042,
+    1043,
+    1044,
+    1045,
+    1046,
+    1047,
+    1048,
+    1049,
+    1050,
+    1051,
+    1052,
+    1053,
+    1054,
+    1055,
+    1056,
+    1057,
+    1058,
+    1059,
+    1060,
+    1061,
+    1062,
+    1063,
+    1064,
+    1065,
+    1066,
+    1067,
+    1068,
+    1069,
+    1070,
+    1071,
+    1072,
+    1073,
+    1074,
+    1075,
+    1076,
+    1077,
+    1078,
+    1079,
+    1080,
+    1081,
+    1082,
+    1083,
+    1084,
+    1085,
+    1086,
+    1087,
+    1088,
+    1089,
+    1090,
+    1091,
+    1092,
+    1093,
+    1094,
+    1095,
+    1096,
+    1097,
+    1098,
+    1099,
+    1100,
+    1101,
+    1102,
+    1103,
+    1104,
+    1105,
+    1106,
+    1107,
+    1108,
+    1109,
+    1110,
+    1111,
+    1112,
+    1113,
+    1114,
+    1115,
+    1116,
+    1117,
+    1118,
+    1119,
+    1120,
+    1121,
+    1122,
+    1123,
+    1124,
+    1125,
+    1126,
+    1127,
+    1128,
+    1130,
+    1131,
+    1132,
+    1133,
+    1134,
+    1135,
+    1136,
+    1137,
+    1138,
+    1139,
+    1140,
+    1141,
+    1142,
+    1143,
+    1882,
+    2879,
+    4100,
+    4537,
+    4538,
+    4539,
+    4540
+   ],
+   "sky": [
+    114,
+    115,
+    116,
+    117,
+    202,
+    203,
+    204,
+    205,
+    474,
+    475,
+    476,
+    618,
+    661
+   ],
+   "glass": [
+    624,
+    1384,
+    1386,
+    2305,
+    2309,
+    2315,
+    2320,
+    2327,
+    2332,
+    2334,
+    2336,
+    2994,
+    3002,
+    3009,
+    3017,
+    3024,
+    3539,
+    4022,
+    4027,
+    4031,
+    4129,
+    4133
+   ]
+  }
  },
  "skybox": null,
  "static_props": {
@@ -3140,6 +3327,28 @@
    ],
    "inflated": true,
    "comment": "the single door teleport to `ending`"
+  },
+  {
+   "kind": "TELEPORT",
+   "track": 0,
+   "min": [
+    -11262.299609375,
+    -15992.0,
+    -11387.89951171875
+   ],
+   "max": [
+    -11054.9998046875,
+    -15800.0,
+    -11195.89951171875
+   ],
+   "inflated": true,
+   "destination": [
+    4896.0,
+    184.0,
+    -15136.0
+   ],
+   "destination_yaw": -90.0,
+   "comment": "the finish trigger sends on to ending"
   },
   {
    "kind": "SPAWN",
@@ -4857,96 +5066,6 @@
    "kind": "RESPAWN",
    "track": 0,
    "min": [
-    6688.0,
-    3088.0,
-    -4512.0
-   ],
-   "max": [
-    6784.0,
-    3280.0,
-    -4384.0
-   ],
-   "inflated": true
-  },
-  {
-   "kind": "RESPAWN",
-   "track": 0,
-   "min": [
-    6688.0,
-    3088.0,
-    -4800.0
-   ],
-   "max": [
-    6784.0,
-    3280.0,
-    -4608.0
-   ],
-   "inflated": true
-  },
-  {
-   "kind": "RESPAWN",
-   "track": 0,
-   "min": [
-    6784.0,
-    3088.0,
-    -4800.0
-   ],
-   "max": [
-    7424.0,
-    3280.0,
-    -4384.0
-   ],
-   "inflated": true
-  },
-  {
-   "kind": "RESPAWN",
-   "track": 0,
-   "min": [
-    6688.0,
-    3091.234,
-    -4544.0
-   ],
-   "max": [
-    6784.0,
-    3280.0,
-    -4512.0
-   ],
-   "inflated": true
-  },
-  {
-   "kind": "RESPAWN",
-   "track": 0,
-   "min": [
-    6688.0,
-    3106.578,
-    -4608.0
-   ],
-   "max": [
-    6784.0,
-    3280.0,
-    -4544.0
-   ],
-   "inflated": true
-  },
-  {
-   "kind": "RESPAWN",
-   "track": 0,
-   "min": [
-    7104.0,
-    3176.0,
-    -4992.0
-   ],
-   "max": [
-    7424.0,
-    3368.0,
-    -4800.0
-   ],
-   "inflated": true
-  },
-  {
-   "kind": "RESPAWN",
-   "track": 0,
-   "min": [
     1152.0,
     -8096.0,
     -6560.0
@@ -5047,81 +5166,6 @@
     -5752.0
    ],
    "destination_yaw": -90.0
-  },
-  {
-   "kind": "RESPAWN",
-   "track": 0,
-   "min": [
-    6688.0,
-    3088.0,
-    -5184.0
-   ],
-   "max": [
-    6784.0,
-    3280.0,
-    -4992.0
-   ],
-   "inflated": true
-  },
-  {
-   "kind": "RESPAWN",
-   "track": 0,
-   "min": [
-    6688.0,
-    3088.0,
-    -5440.0
-   ],
-   "max": [
-    6784.0,
-    3280.0,
-    -5280.0
-   ],
-   "inflated": true
-  },
-  {
-   "kind": "RESPAWN",
-   "track": 0,
-   "min": [
-    6784.0,
-    3088.0,
-    -5440.0
-   ],
-   "max": [
-    7424.0,
-    3280.0,
-    -4992.0
-   ],
-   "inflated": true
-  },
-  {
-   "kind": "RESPAWN",
-   "track": 0,
-   "min": [
-    6688.0,
-    3091.234,
-    -5216.0
-   ],
-   "max": [
-    6784.0,
-    3280.0,
-    -5184.0
-   ],
-   "inflated": true
-  },
-  {
-   "kind": "RESPAWN",
-   "track": 0,
-   "min": [
-    6688.0,
-    3106.578,
-    -5280.0
-   ],
-   "max": [
-    6784.0,
-    3280.0,
-    -5216.0
-   ],
-   "inflated": true
   },
   {
    "kind": "RESPAWN",
@@ -8802,6 +8846,13 @@
  "track_names": {
   "0": "main"
  },
+ "teleport_audit": {
+  "teleports": 103,
+  "pits": 98,
+  "landmark": 4,
+  "claimed": 5,
+  "broken": []
+ },
  "respawn_volumes": [
   {
    "min": [
@@ -11073,174 +11124,6 @@
   },
   {
    "min": [
-    6688.0,
-    4384.0,
-    3088.0
-   ],
-   "max": [
-    6784.0,
-    4512.0,
-    3280.0
-   ],
-   "inflated": true,
-   "hung": true,
-   "cleared": false,
-   "trimmed": false,
-   "stood": true,
-   "track": 0,
-   "original_min": [
-    6688.0,
-    4384.0,
-    3264.0
-   ],
-   "original_max": [
-    7424.0,
-    4800.0,
-    3280.0
-   ]
-  },
-  {
-   "min": [
-    6688.0,
-    4608.0,
-    3088.0
-   ],
-   "max": [
-    6784.0,
-    4800.0,
-    3280.0
-   ],
-   "inflated": true,
-   "hung": true,
-   "cleared": false,
-   "trimmed": false,
-   "stood": true,
-   "track": 0,
-   "original_min": [
-    6688.0,
-    4384.0,
-    3264.0
-   ],
-   "original_max": [
-    7424.0,
-    4800.0,
-    3280.0
-   ]
-  },
-  {
-   "min": [
-    6784.0,
-    4384.0,
-    3088.0
-   ],
-   "max": [
-    7424.0,
-    4800.0,
-    3280.0
-   ],
-   "inflated": true,
-   "hung": true,
-   "cleared": false,
-   "trimmed": false,
-   "stood": true,
-   "track": 0,
-   "original_min": [
-    6688.0,
-    4384.0,
-    3264.0
-   ],
-   "original_max": [
-    7424.0,
-    4800.0,
-    3280.0
-   ]
-  },
-  {
-   "min": [
-    6688.0,
-    4512.0,
-    3091.234
-   ],
-   "max": [
-    6784.0,
-    4544.0,
-    3280.0
-   ],
-   "inflated": true,
-   "hung": true,
-   "cleared": false,
-   "trimmed": false,
-   "stood": true,
-   "track": 0,
-   "original_min": [
-    6688.0,
-    4384.0,
-    3264.0
-   ],
-   "original_max": [
-    7424.0,
-    4800.0,
-    3280.0
-   ]
-  },
-  {
-   "min": [
-    6688.0,
-    4544.0,
-    3106.578
-   ],
-   "max": [
-    6784.0,
-    4608.0,
-    3280.0
-   ],
-   "inflated": true,
-   "hung": true,
-   "cleared": false,
-   "trimmed": false,
-   "stood": true,
-   "track": 0,
-   "original_min": [
-    6688.0,
-    4384.0,
-    3264.0
-   ],
-   "original_max": [
-    7424.0,
-    4800.0,
-    3280.0
-   ]
-  },
-  {
-   "min": [
-    7104.0,
-    4800.0,
-    3176.0
-   ],
-   "max": [
-    7424.0,
-    4992.0,
-    3368.0
-   ],
-   "inflated": true,
-   "hung": false,
-   "cleared": false,
-   "trimmed": false,
-   "stood": false,
-   "track": 0,
-   "original_min": [
-    7104.0,
-    4800.0,
-    3264.0
-   ],
-   "original_max": [
-    7424.0,
-    4992.0,
-    3280.0
-   ]
-  },
-  {
-   "min": [
     1152.0,
     3888.0,
     -8096.0
@@ -11377,146 +11260,6 @@
     8864.0,
     7168.0,
     4048.0
-   ]
-  },
-  {
-   "min": [
-    6688.0,
-    4992.0,
-    3088.0
-   ],
-   "max": [
-    6784.0,
-    5184.0,
-    3280.0
-   ],
-   "inflated": true,
-   "hung": true,
-   "cleared": false,
-   "trimmed": false,
-   "stood": true,
-   "track": 0,
-   "original_min": [
-    6688.0,
-    4992.0,
-    3264.0
-   ],
-   "original_max": [
-    7424.0,
-    5440.0,
-    3280.0
-   ]
-  },
-  {
-   "min": [
-    6688.0,
-    5280.0,
-    3088.0
-   ],
-   "max": [
-    6784.0,
-    5440.0,
-    3280.0
-   ],
-   "inflated": true,
-   "hung": true,
-   "cleared": false,
-   "trimmed": false,
-   "stood": true,
-   "track": 0,
-   "original_min": [
-    6688.0,
-    4992.0,
-    3264.0
-   ],
-   "original_max": [
-    7424.0,
-    5440.0,
-    3280.0
-   ]
-  },
-  {
-   "min": [
-    6784.0,
-    4992.0,
-    3088.0
-   ],
-   "max": [
-    7424.0,
-    5440.0,
-    3280.0
-   ],
-   "inflated": true,
-   "hung": true,
-   "cleared": false,
-   "trimmed": false,
-   "stood": true,
-   "track": 0,
-   "original_min": [
-    6688.0,
-    4992.0,
-    3264.0
-   ],
-   "original_max": [
-    7424.0,
-    5440.0,
-    3280.0
-   ]
-  },
-  {
-   "min": [
-    6688.0,
-    5184.0,
-    3091.234
-   ],
-   "max": [
-    6784.0,
-    5216.0,
-    3280.0
-   ],
-   "inflated": true,
-   "hung": true,
-   "cleared": false,
-   "trimmed": false,
-   "stood": true,
-   "track": 0,
-   "original_min": [
-    6688.0,
-    4992.0,
-    3264.0
-   ],
-   "original_max": [
-    7424.0,
-    5440.0,
-    3280.0
-   ]
-  },
-  {
-   "min": [
-    6688.0,
-    5216.0,
-    3106.578
-   ],
-   "max": [
-    6784.0,
-    5280.0,
-    3280.0
-   ],
-   "inflated": true,
-   "hung": true,
-   "cleared": false,
-   "trimmed": false,
-   "stood": true,
-   "track": 0,
-   "original_min": [
-    6688.0,
-    4992.0,
-    3264.0
-   ],
-   "original_max": [
-    7424.0,
-    5440.0,
-    3280.0
    ]
   },
   {
@@ -17120,6 +16863,368 @@
    ],
    "targetname": "barktrigger",
    "filtername": ""
+  }
+ ],
+ "train_movers": [
+  {
+   "name": "tracktrainfurret",
+   "model": "*122",
+   "origin": [
+    13425.6,
+    9961.55,
+    -940.0
+   ],
+   "min": [
+    -20.0,
+    -20.0,
+    -20.0
+   ],
+   "max": [
+    20.0,
+    20.0,
+    20.0
+   ],
+   "speed": 250.0,
+   "start_speed": 250.0,
+   "damage": 0.0,
+   "solid": true,
+   "loop": true,
+   "path": [
+    {
+     "name": "path1",
+     "origin": [
+      13376.0,
+      10144.0,
+      -1040.0
+     ]
+    },
+    {
+     "name": "path2",
+     "origin": [
+      13456.0,
+      12144.0,
+      -1040.0
+     ]
+    },
+    {
+     "name": "path3",
+     "origin": [
+      13280.0,
+      12576.0,
+      -1040.0
+     ]
+    },
+    {
+     "name": "path4",
+     "origin": [
+      12896.0,
+      13248.0,
+      -1040.0
+     ]
+    },
+    {
+     "name": "path5",
+     "origin": [
+      11760.0,
+      13392.0,
+      -1040.0
+     ]
+    },
+    {
+     "name": "path6",
+     "origin": [
+      11168.0,
+      13296.0,
+      -1040.0
+     ]
+    },
+    {
+     "name": "path7",
+     "origin": [
+      10560.0,
+      13312.0,
+      -1040.0
+     ]
+    },
+    {
+     "name": "path8",
+     "origin": [
+      8704.0,
+      13328.0,
+      -1040.0
+     ]
+    }
+   ]
+  },
+  {
+   "name": "tracktrainfurret2",
+   "model": "*123",
+   "origin": [
+    13357.3,
+    11670.5,
+    -1024.96
+   ],
+   "min": [
+    -19.8984375,
+    -20.0,
+    -20.0
+   ],
+   "max": [
+    20.1015625,
+    20.0,
+    20.0
+   ],
+   "speed": 250.0,
+   "start_speed": 250.0,
+   "damage": 0.0,
+   "solid": true,
+   "loop": true,
+   "path": [
+    {
+     "name": "path2",
+     "origin": [
+      13456.0,
+      12144.0,
+      -1040.0
+     ]
+    },
+    {
+     "name": "path3",
+     "origin": [
+      13280.0,
+      12576.0,
+      -1040.0
+     ]
+    },
+    {
+     "name": "path4",
+     "origin": [
+      12896.0,
+      13248.0,
+      -1040.0
+     ]
+    },
+    {
+     "name": "path5",
+     "origin": [
+      11760.0,
+      13392.0,
+      -1040.0
+     ]
+    },
+    {
+     "name": "path6",
+     "origin": [
+      11168.0,
+      13296.0,
+      -1040.0
+     ]
+    },
+    {
+     "name": "path7",
+     "origin": [
+      10560.0,
+      13312.0,
+      -1040.0
+     ]
+    },
+    {
+     "name": "path8",
+     "origin": [
+      8704.0,
+      13328.0,
+      -1040.0
+     ]
+    },
+    {
+     "name": "path1",
+     "origin": [
+      13376.0,
+      10144.0,
+      -1040.0
+     ]
+    }
+   ]
+  },
+  {
+   "name": "tracktrainfurret3",
+   "model": "*124",
+   "origin": [
+    13107.5,
+    12179.5,
+    -1033.23
+   ],
+   "min": [
+    -20.0,
+    -20.0,
+    -19.989990234375
+   ],
+   "max": [
+    20.0,
+    20.0,
+    20.010009765625
+   ],
+   "speed": 250.0,
+   "start_speed": 250.0,
+   "damage": 0.0,
+   "solid": true,
+   "loop": true,
+   "path": [
+    {
+     "name": "path4",
+     "origin": [
+      12896.0,
+      13248.0,
+      -1040.0
+     ]
+    },
+    {
+     "name": "path5",
+     "origin": [
+      11760.0,
+      13392.0,
+      -1040.0
+     ]
+    },
+    {
+     "name": "path6",
+     "origin": [
+      11168.0,
+      13296.0,
+      -1040.0
+     ]
+    },
+    {
+     "name": "path7",
+     "origin": [
+      10560.0,
+      13312.0,
+      -1040.0
+     ]
+    },
+    {
+     "name": "path8",
+     "origin": [
+      8704.0,
+      13328.0,
+      -1040.0
+     ]
+    },
+    {
+     "name": "path1",
+     "origin": [
+      13376.0,
+      10144.0,
+      -1040.0
+     ]
+    },
+    {
+     "name": "path2",
+     "origin": [
+      13456.0,
+      12144.0,
+      -1040.0
+     ]
+    },
+    {
+     "name": "path3",
+     "origin": [
+      13280.0,
+      12576.0,
+      -1040.0
+     ]
+    }
+   ]
+  },
+  {
+   "name": "tracktrainfurret4",
+   "model": "*125",
+   "origin": [
+    13409.6,
+    10457.5,
+    -940.0
+   ],
+   "min": [
+    -20.0,
+    -19.900390625,
+    -20.0
+   ],
+   "max": [
+    20.0,
+    20.099609375,
+    20.0
+   ],
+   "speed": 250.0,
+   "start_speed": 250.0,
+   "damage": 0.0,
+   "solid": true,
+   "loop": true,
+   "path": [
+    {
+     "name": "path7",
+     "origin": [
+      10560.0,
+      13312.0,
+      -1040.0
+     ]
+    },
+    {
+     "name": "path8",
+     "origin": [
+      8704.0,
+      13328.0,
+      -1040.0
+     ]
+    },
+    {
+     "name": "path1",
+     "origin": [
+      13376.0,
+      10144.0,
+      -1040.0
+     ]
+    },
+    {
+     "name": "path2",
+     "origin": [
+      13456.0,
+      12144.0,
+      -1040.0
+     ]
+    },
+    {
+     "name": "path3",
+     "origin": [
+      13280.0,
+      12576.0,
+      -1040.0
+     ]
+    },
+    {
+     "name": "path4",
+     "origin": [
+      12896.0,
+      13248.0,
+      -1040.0
+     ]
+    },
+    {
+     "name": "path5",
+     "origin": [
+      11760.0,
+      13392.0,
+      -1040.0
+     ]
+    },
+    {
+     "name": "path6",
+     "origin": [
+      11168.0,
+      13296.0,
+      -1040.0
+     ]
+    }
+   ]
   }
  ],
  "author": "WorldspawN, Drouzefa",

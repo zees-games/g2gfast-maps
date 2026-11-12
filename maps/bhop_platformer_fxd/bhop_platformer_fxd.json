@@ -984,7 +984,7 @@
    "translucent": false
   },
   {
-   "material": "platformer/aim3",
+   "material": "mario/aim3",
    "role": "PLATFORM",
    "prototype": false,
    "vertex_offset": 1790464,
@@ -996,11 +996,11 @@
     0.3001,
     0.2874
    ],
-   "texture": "platformer_aim3.png",
+   "texture": "mario_aim3.png",
    "translucent": false
   },
   {
-   "material": "platformer/basta",
+   "material": "mario/basta",
    "role": "FLOOR",
    "prototype": false,
    "vertex_offset": 1790832,
@@ -1012,11 +1012,11 @@
     0.847,
     0.8639
    ],
-   "texture": "platformer_basta.png",
+   "texture": "mario_basta.png",
    "translucent": false
   },
   {
-   "material": "platformer/byp",
+   "material": "mario/byp",
    "role": "FLOOR",
    "prototype": false,
    "vertex_offset": 1791200,
@@ -1028,11 +1028,11 @@
     0.3976,
     0.2829
    ],
-   "texture": "platformer_byp.png",
+   "texture": "mario_byp.png",
    "translucent": false
   },
   {
-   "material": "platformer/col1",
+   "material": "mario/col1",
    "role": "FLOOR",
    "prototype": false,
    "vertex_offset": 1791568,
@@ -1044,11 +1044,11 @@
     0.5162,
     0.3766
    ],
-   "texture": "platformer_col1.png",
+   "texture": "mario_col1.png",
    "translucent": false
   },
   {
-   "material": "platformer/nitwish",
+   "material": "mario/nitwish",
    "role": "FLOOR",
    "prototype": false,
    "vertex_offset": 1793040,
@@ -1060,11 +1060,11 @@
     0.3976,
     0.4526
    ],
-   "texture": "platformer_nitwish.png",
+   "texture": "mario_nitwish.png",
    "translucent": false
   },
   {
-   "material": "platformer/testers",
+   "material": "mario/testers",
    "role": "PLATFORM",
    "prototype": false,
    "vertex_offset": 1793224,
@@ -1076,7 +1076,7 @@
     0.4626,
     0.3816
    ],
-   "texture": "platformer_testers.png",
+   "texture": "mario_testers.png",
    "translucent": false
   },
   {
@@ -1732,7 +1732,7 @@
    "translucent": true
   },
   {
-   "material": "thw_platformer/block1",
+   "material": "thw_mario/block1",
    "role": "FLOOR",
    "prototype": false,
    "vertex_offset": 2141928,
@@ -1744,11 +1744,11 @@
     0.1629,
     0.0
    ],
-   "texture": "thw_platformer_block1.png",
+   "texture": "thw_mario_block1.png",
    "translucent": false
   },
   {
-   "material": "thw_platformer/block1",
+   "material": "thw_mario/block1",
    "role": "PLATFORM",
    "prototype": false,
    "vertex_offset": 2230436,
@@ -1760,11 +1760,11 @@
     0.1629,
     0.0
    ],
-   "texture": "thw_platformer_block1.png",
+   "texture": "thw_mario_block1.png",
    "translucent": false
   },
   {
-   "material": "thw_platformer/block1",
+   "material": "thw_mario/block1",
    "role": "RAMP",
    "prototype": false,
    "vertex_offset": 2256232,
@@ -1776,11 +1776,11 @@
     0.1629,
     0.0
    ],
-   "texture": "thw_platformer_block1.png",
+   "texture": "thw_mario_block1.png",
    "translucent": false
   },
   {
-   "material": "thw_platformer/block2",
+   "material": "thw_mario/block2",
    "role": "FLOOR",
    "prototype": false,
    "vertex_offset": 2264696,
@@ -1792,11 +1792,11 @@
     0.4762,
     0.4663
    ],
-   "texture": "thw_platformer_block2.png",
+   "texture": "thw_mario_block2.png",
    "translucent": false
   },
   {
-   "material": "thw_platformer/block2",
+   "material": "thw_mario/block2",
    "role": "PLATFORM",
    "prototype": false,
    "vertex_offset": 2313500,
@@ -1808,11 +1808,11 @@
     0.4762,
     0.4663
    ],
-   "texture": "thw_platformer_block2.png",
+   "texture": "thw_mario_block2.png",
    "translucent": false
   },
   {
-   "material": "thw_platformer/block2",
+   "material": "thw_mario/block2",
    "role": "RAMP",
    "prototype": false,
    "vertex_offset": 2363936,
@@ -1824,11 +1824,11 @@
     0.4762,
     0.4663
    ],
-   "texture": "thw_platformer_block2.png",
+   "texture": "thw_mario_block2.png",
    "translucent": false
   },
   {
-   "material": "thw_platformer/blue",
+   "material": "thw_mario/blue",
    "role": "FLOOR",
    "prototype": false,
    "vertex_offset": 2367840,
@@ -1840,11 +1840,11 @@
     0.4811,
     0.9386
    ],
-   "texture": "thw_platformer_blue.png",
+   "texture": "thw_mario_blue.png",
    "translucent": false
   },
   {
-   "material": "thw_platformer/blue",
+   "material": "thw_mario/blue",
    "role": "PLATFORM",
    "prototype": false,
    "vertex_offset": 2373192,
@@ -1856,11 +1856,11 @@
     0.4811,
     0.9386
    ],
-   "texture": "thw_platformer_blue.png",
+   "texture": "thw_mario_blue.png",
    "translucent": false
   },
   {
-   "material": "thw_platformer/boss",
+   "material": "thw_mario/bowser",
    "role": "FLOOR",
    "prototype": false,
    "vertex_offset": 2374608,
@@ -1872,11 +1872,11 @@
     0.7288,
     0.6753
    ],
-   "texture": "thw_platformer_boss.png",
+   "texture": "thw_mario_bowser.png",
    "translucent": true
   },
   {
-   "material": "thw_platformer/boss",
+   "material": "thw_mario/bowser",
    "role": "PLATFORM",
    "prototype": false,
    "vertex_offset": 2376264,
@@ -1888,11 +1888,11 @@
     0.7288,
     0.6753
    ],
-   "texture": "thw_platformer_boss.png",
+   "texture": "thw_mario_bowser.png",
    "translucent": true
   },
   {
-   "material": "thw_platformer/brick1",
+   "material": "thw_mario/brick1",
    "role": "FLOOR",
    "prototype": false,
    "vertex_offset": 2376448,
@@ -1904,11 +1904,11 @@
     0.1511,
     0.0
    ],
-   "texture": "thw_platformer_brick1.png",
+   "texture": "thw_mario_brick1.png",
    "translucent": false
   },
   {
-   "material": "thw_platformer/brick1",
+   "material": "thw_mario/brick1",
    "role": "PLATFORM",
    "prototype": false,
    "vertex_offset": 2551332,
@@ -1920,11 +1920,11 @@
     0.1511,
     0.0
    ],
-   "texture": "thw_platformer_brick1.png",
+   "texture": "thw_mario_brick1.png",
    "translucent": false
   },
   {
-   "material": "thw_platformer/brick2",
+   "material": "thw_mario/brick2",
    "role": "FLOOR",
    "prototype": false,
    "vertex_offset": 2572268,
@@ -1936,11 +1936,11 @@
     0.2927,
     0.4156
    ],
-   "texture": "thw_platformer_brick2.png",
+   "texture": "thw_mario_brick2.png",
    "translucent": false
   },
   {
-   "material": "thw_platformer/brick2",
+   "material": "thw_mario/brick2",
    "role": "PLATFORM",
    "prototype": false,
    "vertex_offset": 2719092,
@@ -1952,11 +1952,11 @@
     0.2927,
     0.4156
    ],
-   "texture": "thw_platformer_brick2.png",
+   "texture": "thw_mario_brick2.png",
    "translucent": false
   },
   {
-   "material": "thw_platformer/brick2",
+   "material": "thw_mario/brick2",
    "role": "RAMP",
    "prototype": false,
    "vertex_offset": 2746260,
@@ -1968,11 +1968,11 @@
     0.2927,
     0.4156
    ],
-   "texture": "thw_platformer_brick2.png",
+   "texture": "thw_mario_brick2.png",
    "translucent": false
   },
   {
-   "material": "thw_platformer/bushdisplacement",
+   "material": "thw_mario/bushdisplacement",
    "role": "FLOOR",
    "prototype": false,
    "vertex_offset": 2749020,
@@ -1984,11 +1984,11 @@
     0.4568,
     0.0
    ],
-   "texture": "thw_platformer_bushdisplacement.png",
+   "texture": "thw_mario_bushdisplacement.png",
    "translucent": false
   },
   {
-   "material": "thw_platformer/bushdisplacement",
+   "material": "thw_mario/bushdisplacement",
    "role": "PLATFORM",
    "prototype": false,
    "vertex_offset": 2842420,
@@ -2000,11 +2000,11 @@
     0.4568,
     0.0
    ],
-   "texture": "thw_platformer_bushdisplacement.png",
+   "texture": "thw_mario_bushdisplacement.png",
    "translucent": false
   },
   {
-   "material": "thw_platformer/flagpole",
+   "material": "thw_mario/flagpole",
    "role": "FLOOR",
    "prototype": false,
    "vertex_offset": 3310080,
@@ -2016,11 +2016,11 @@
     0.8203,
     0.0292
    ],
-   "texture": "thw_platformer_flagpole.png",
+   "texture": "thw_mario_flagpole.png",
    "translucent": false
   },
   {
-   "material": "thw_platformer/flagpole",
+   "material": "thw_mario/flagpole",
    "role": "PLATFORM",
    "prototype": false,
    "vertex_offset": 3644980,
@@ -2032,11 +2032,11 @@
     0.8203,
     0.0292
    ],
-   "texture": "thw_platformer_flagpole.png",
+   "texture": "thw_mario_flagpole.png",
    "translucent": false
   },
   {
-   "material": "thw_platformer/floor1",
+   "material": "thw_mario/floor1",
    "role": "FLOOR",
    "prototype": false,
    "vertex_offset": 3761112,
@@ -2048,11 +2048,11 @@
     0.382,
     0.3534
    ],
-   "texture": "thw_platformer_floor1.png",
+   "texture": "thw_mario_floor1.png",
    "translucent": false
   },
   {
-   "material": "thw_platformer/floor1",
+   "material": "thw_mario/floor1",
    "role": "PLATFORM",
    "prototype": false,
    "vertex_offset": 3953024,
@@ -2064,11 +2064,11 @@
     0.382,
     0.3534
    ],
-   "texture": "thw_platformer_floor1.png",
+   "texture": "thw_mario_floor1.png",
    "translucent": false
   },
   {
-   "material": "thw_platformer/floor1",
+   "material": "thw_mario/floor1",
    "role": "RAMP",
    "prototype": false,
    "vertex_offset": 4284192,
@@ -2080,11 +2080,11 @@
     0.382,
     0.3534
    ],
-   "texture": "thw_platformer_floor1.png",
+   "texture": "thw_mario_floor1.png",
    "translucent": false
   },
   {
-   "material": "thw_platformer/floor2",
+   "material": "thw_mario/floor2",
    "role": "FLOOR",
    "prototype": false,
    "vertex_offset": 4288236,
@@ -2096,11 +2096,11 @@
     0.5052,
     0.5612
    ],
-   "texture": "thw_platformer_floor2.png",
+   "texture": "thw_mario_floor2.png",
    "translucent": false
   },
   {
-   "material": "thw_platformer/floor2",
+   "material": "thw_mario/floor2",
    "role": "PLATFORM",
    "prototype": false,
    "vertex_offset": 4476240,
@@ -2112,11 +2112,11 @@
     0.5052,
     0.5612
    ],
-   "texture": "thw_platformer_floor2.png",
+   "texture": "thw_mario_floor2.png",
    "translucent": false
   },
   {
-   "material": "thw_platformer/flower",
+   "material": "thw_mario/flower",
    "role": "FLOOR",
    "prototype": false,
    "vertex_offset": 4507784,
@@ -2128,11 +2128,11 @@
     0.8753,
     0.7954
    ],
-   "texture": "thw_platformer_flower.png",
+   "texture": "thw_mario_flower.png",
    "translucent": true
   },
   {
-   "material": "thw_platformer/flower",
+   "material": "thw_mario/flower",
    "role": "PLATFORM",
    "prototype": false,
    "vertex_offset": 4513220,
@@ -2144,11 +2144,11 @@
     0.8753,
     0.7954
    ],
-   "texture": "thw_platformer_flower.png",
+   "texture": "thw_mario_flower.png",
    "translucent": true
   },
   {
-   "material": "thw_platformer/gate",
+   "material": "thw_mario/gate",
    "role": "FLOOR",
    "prototype": false,
    "vertex_offset": 4514324,
@@ -2160,11 +2160,11 @@
     0.711,
     0.6837
    ],
-   "texture": "thw_platformer_gate.png",
+   "texture": "thw_mario_gate.png",
    "translucent": true
   },
   {
-   "material": "thw_platformer/gate",
+   "material": "thw_mario/gate",
    "role": "PLATFORM",
    "prototype": false,
    "vertex_offset": 4515900,
@@ -2176,11 +2176,11 @@
     0.711,
     0.6837
    ],
-   "texture": "thw_platformer_gate.png",
+   "texture": "thw_mario_gate.png",
    "translucent": true
   },
   {
-   "material": "thw_platformer/graybrick",
+   "material": "thw_mario/graybrick",
    "role": "FLOOR",
    "prototype": false,
    "vertex_offset": 4516452,
@@ -2192,11 +2192,11 @@
     0.6777,
     0.6777
    ],
-   "texture": "thw_platformer_graybrick.png",
+   "texture": "thw_mario_graybrick.png",
    "translucent": false
   },
   {
-   "material": "thw_platformer/graybrick",
+   "material": "thw_mario/graybrick",
    "role": "PLATFORM",
    "prototype": false,
    "vertex_offset": 4987760,
@@ -2208,11 +2208,11 @@
     0.6777,
     0.6777
    ],
-   "texture": "thw_platformer_graybrick.png",
+   "texture": "thw_mario_graybrick.png",
    "translucent": false
   },
   {
-   "material": "thw_platformer/graybrick",
+   "material": "thw_mario/graybrick",
    "role": "RAMP",
    "prototype": false,
    "vertex_offset": 5025296,
@@ -2224,11 +2224,11 @@
     0.6777,
     0.6777
    ],
-   "texture": "thw_platformer_graybrick.png",
+   "texture": "thw_mario_graybrick.png",
    "translucent": false
   },
   {
-   "material": "thw_platformer/lava",
+   "material": "thw_mario/lava",
    "role": "FLOOR",
    "prototype": false,
    "vertex_offset": 5032232,
@@ -2240,11 +2240,11 @@
     0.4562,
     0.4388
    ],
-   "texture": "thw_platformer_lava.png",
+   "texture": "thw_mario_lava.png",
    "translucent": false
   },
   {
-   "material": "thw_platformer/lava",
+   "material": "thw_mario/lava",
    "role": "PLATFORM",
    "prototype": false,
    "vertex_offset": 5034072,
@@ -2256,11 +2256,11 @@
     0.4562,
     0.4388
    ],
-   "texture": "thw_platformer_lava.png",
+   "texture": "thw_mario_lava.png",
    "translucent": false
   },
   {
-   "material": "thw_platformer/leafladder",
+   "material": "thw_mario/leafladder",
    "role": "FLOOR",
    "prototype": false,
    "vertex_offset": 5037040,
@@ -2272,11 +2272,11 @@
     0.902,
     0.8321
    ],
-   "texture": "thw_platformer_leafladder.png",
+   "texture": "thw_mario_leafladder.png",
    "translucent": true
   },
   {
-   "material": "thw_platformer/leafladder",
+   "material": "thw_mario/leafladder",
    "role": "PLATFORM",
    "prototype": false,
    "vertex_offset": 5039248,
@@ -2288,11 +2288,11 @@
     0.902,
     0.8321
    ],
-   "texture": "thw_platformer_leafladder.png",
+   "texture": "thw_mario_leafladder.png",
    "translucent": true
   },
   {
-   "material": "thw_platformer/pipecolor",
+   "material": "thw_mario/pipecolor",
    "role": "FLOOR",
    "prototype": false,
    "vertex_offset": 5039616,
@@ -2304,11 +2304,11 @@
     0.4575,
     0.0
    ],
-   "texture": "thw_platformer_pipecolor.png",
+   "texture": "thw_mario_pipecolor.png",
    "translucent": false
   },
   {
-   "material": "thw_platformer/pipecolor",
+   "material": "thw_mario/pipecolor",
    "role": "PLATFORM",
    "prototype": false,
    "vertex_offset": 5534476,
@@ -2320,11 +2320,11 @@
     0.4575,
     0.0
    ],
-   "texture": "thw_platformer_pipecolor.png",
+   "texture": "thw_mario_pipecolor.png",
    "translucent": false
   },
   {
-   "material": "thw_platformer/shroom",
+   "material": "thw_mario/shroom",
    "role": "FLOOR",
    "prototype": false,
    "vertex_offset": 5665596,
@@ -2336,11 +2336,11 @@
     0.5346,
     0.1794
    ],
-   "texture": "thw_platformer_shroom.png",
+   "texture": "thw_mario_shroom.png",
    "translucent": false
   },
   {
-   "material": "thw_platformer/shroom",
+   "material": "thw_mario/shroom",
    "role": "RAMP",
    "prototype": false,
    "vertex_offset": 5825544,
@@ -2352,11 +2352,11 @@
     0.5346,
     0.1794
    ],
-   "texture": "thw_platformer_shroom.png",
+   "texture": "thw_mario_shroom.png",
    "translucent": false
   },
   {
-   "material": "thw_platformer/hintblock",
+   "material": "thw_mario/whatblock",
    "role": "FLOOR",
    "prototype": false,
    "vertex_offset": 5826752,
@@ -2368,11 +2368,11 @@
     0.2615,
     0.0054
    ],
-   "texture": "thw_platformer_hintblock.png",
+   "texture": "thw_mario_whatblock.png",
    "translucent": false
   },
   {
-   "material": "thw_platformer/hintblock",
+   "material": "thw_mario/whatblock",
    "role": "PLATFORM",
    "prototype": false,
    "vertex_offset": 5836136,
@@ -2384,7 +2384,7 @@
     0.2615,
     0.0054
    ],
-   "texture": "thw_platformer_hintblock.png",
+   "texture": "thw_mario_whatblock.png",
    "translucent": false
   },
   {
@@ -2636,7 +2636,153 @@
   "displacement_index_offset": 6482624,
   "displacement_index_count": 29568,
   "playerclip_hulls": 15,
-  "prop_hulls": 0
+  "prop_hulls": 0,
+  "hull_kinds": {
+   "clip": [
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    81,
+    112,
+    113,
+    114,
+    115,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    141,
+    143,
+    144,
+    145,
+    150,
+    151,
+    152,
+    154,
+    155,
+    245,
+    246,
+    247,
+    248,
+    249,
+    250,
+    251,
+    305,
+    306,
+    307,
+    371,
+    372,
+    373,
+    514,
+    515,
+    1936,
+    1937,
+    1938,
+    1939,
+    2790,
+    2791,
+    2886
+   ],
+   "glass": [
+    111,
+    178,
+    179,
+    217,
+    414,
+    415,
+    418,
+    421,
+    422,
+    423,
+    424,
+    440,
+    445,
+    504,
+    516,
+    2882,
+    2883,
+    2884,
+    2885,
+    2887,
+    2888,
+    2897,
+    2901,
+    2905,
+    2906,
+    2907,
+    2908,
+    3024,
+    3025,
+    3142
+   ],
+   "sky": [
+    521,
+    522,
+    523,
+    524,
+    525,
+    526,
+    1697,
+    1698,
+    1699,
+    1700,
+    1701,
+    1702,
+    2349,
+    2350,
+    2351,
+    2352,
+    2353,
+    2354,
+    2355,
+    2356,
+    2357,
+    2358,
+    2359,
+    2360,
+    2571,
+    2572,
+    2573,
+    2574,
+    2575,
+    2576,
+    2742,
+    2743,
+    2744,
+    2745,
+    2746,
+    2747,
+    2748,
+    2749,
+    2750,
+    2751,
+    2752,
+    2753,
+    2754,
+    2755,
+    2756,
+    2757,
+    2758,
+    2759,
+    2760,
+    2761,
+    2762,
+    2763,
+    2764,
+    2765,
+    2766,
+    2767,
+    2768,
+    2769,
+    2770,
+    2771
+   ]
+  }
  },
  "skybox": null,
  "static_props": {
@@ -2883,6 +3029,28 @@
    ],
    "inflated": true,
    "comment": "the single 2x82x158 plane aimed at `finish`. No other trigger in the map targets it"
+  },
+  {
+   "kind": "TELEPORT",
+   "track": 0,
+   "min": [
+    -12178.0,
+    10159.0,
+    -829.0
+   ],
+   "max": [
+    -11986.0,
+    10351.0,
+    -637.0
+   ],
+   "inflated": true,
+   "destination": [
+    -7000.1,
+    13160.0,
+    2921.0
+   ],
+   "destination_yaw": -90.0,
+   "comment": "the finish trigger sends on to finish"
   },
   {
    "kind": "RESPAWN",
@@ -5470,6 +5638,12 @@
  ],
  "track_names": {
   "0": "main"
+ },
+ "teleport_audit": {
+  "teleports": 306,
+  "claimed": 259,
+  "pits": 47,
+  "broken": []
  },
  "respawn_volumes": [
   {

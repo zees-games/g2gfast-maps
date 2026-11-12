@@ -1029,7 +1029,7 @@
   {
    "material": "de_piranesi/pi_wood1",
    "role": "FLOOR",
-   "prototype": true,
+   "prototype": false,
    "vertex_offset": 4119352,
    "vertex_count": 44,
    "index_offset": 4121112,
@@ -1039,13 +1039,13 @@
     0.2292,
     0.1705
    ],
-   "texture": null,
+   "texture": "de_piranesi_pi_wood1.png",
    "translucent": false
   },
   {
    "material": "de_piranesi/pi_wood1",
    "role": "PLATFORM",
-   "prototype": true,
+   "prototype": false,
    "vertex_offset": 4121424,
    "vertex_count": 10,
    "index_offset": 4121824,
@@ -1055,7 +1055,7 @@
     0.2292,
     0.1705
    ],
-   "texture": null,
+   "texture": "de_piranesi_pi_wood1.png",
    "translucent": false
   },
   {
@@ -1171,13 +1171,32 @@
   "displacement_index_offset": 8042088,
   "displacement_index_count": 20352,
   "playerclip_hulls": 3,
-  "prop_hulls": 227
+  "prop_hulls": 227,
+  "hull_kinds": {
+   "sky": [
+    62
+   ],
+   "clip": [
+    66,
+    92,
+    93,
+    98,
+    177,
+    178,
+    198
+   ],
+   "glass": [
+    1328
+   ]
+  }
  },
  "skybox": null,
  "static_props": {
   "placed": 286,
   "drawn": 286,
   "stock_models": 0,
+  "stock_standins": 0,
+  "stock_standins_estimated": 0,
   "surfaces": 6,
   "tinted": 0,
   "open_sky_lit": 30
@@ -1695,6 +1714,28 @@
    "comment": "the 16x512x256 wall at [8968 -1664 3200], filtered on checkpoint19, aimed at `end_main` -- the end room whose trigger shows 'Progress 100%'"
   },
   {
+   "kind": "TELEPORT",
+   "track": 0,
+   "min": [
+    8872.0,
+    3072.0,
+    1408.0
+   ],
+   "max": [
+    9064.0,
+    3328.0,
+    1920.0
+   ],
+   "inflated": true,
+   "destination": [
+    -6400.0,
+    3144.0,
+    -7808.0
+   ],
+   "destination_yaw": 225.0,
+   "comment": "the finish trigger sends on to end_main"
+  },
+  {
    "kind": "START",
    "track": 1,
    "min": [
@@ -1742,6 +1783,28 @@
    ],
    "inflated": true,
    "comment": "the same 16x512x256 wall as the main finish, the copy filtered on filter_bonus and aimed at `end_bonus`"
+  },
+  {
+   "kind": "TELEPORT",
+   "track": 1,
+   "min": [
+    8872.0,
+    3072.0,
+    1408.0
+   ],
+   "max": [
+    9064.0,
+    3328.0,
+    1920.0
+   ],
+   "inflated": true,
+   "destination": [
+    -7296.0,
+    3144.0,
+    -7296.0
+   ],
+   "destination_yaw": 225.0,
+   "comment": "the finish trigger sends on to end_bonus"
   },
   {
    "kind": "STAGE",
@@ -1853,6 +1916,12 @@
  ],
  "track_names": {
   "0": "main"
+ },
+ "teleport_audit": {
+  "teleports": 6,
+  "pits": 4,
+  "claimed": 2,
+  "broken": []
  },
  "respawn_volumes": [
   {

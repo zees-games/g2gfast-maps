@@ -700,7 +700,50 @@
   "displacement_index_offset": 1346196,
   "displacement_index_count": 1536,
   "playerclip_hulls": 0,
-  "prop_hulls": 0
+  "prop_hulls": 0,
+  "hull_kinds": {
+   "fence": [
+    190,
+    191,
+    192,
+    193
+   ],
+   "sky": [
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    354,
+    355,
+    356,
+    357,
+    358,
+    359
+   ]
+  }
  },
  "skybox": {
   "camera": [
@@ -722,6 +765,8 @@
   "placed": 0,
   "drawn": 0,
   "stock_models": 0,
+  "stock_standins": 0,
+  "stock_standins_estimated": 0,
   "surfaces": 0,
   "tinted": 0,
   "open_sky_lit": 0
@@ -919,6 +964,28 @@
    ],
    "inflated": true,
    "comment": "the gate at the far end of the Teleport7 arm. See the doubt in the notes above"
+  },
+  {
+   "kind": "TELEPORT",
+   "track": 0,
+   "min": [
+    3303.0,
+    25.5,
+    824.0
+   ],
+   "max": [
+    3495.0,
+    217.5,
+    1016.0
+   ],
+   "inflated": true,
+   "destination": [
+    199.69,
+    99.0,
+    -31.4935
+   ],
+   "destination_yaw": 83.0,
+   "comment": "the finish trigger sends on to ha"
   },
   {
    "kind": "RESPAWN",
@@ -1343,6 +1410,12 @@
  ],
  "track_names": {
   "0": "main"
+ },
+ "teleport_audit": {
+  "teleports": 21,
+  "pits": 20,
+  "claimed": 1,
+  "broken": []
  },
  "respawn_volumes": [
   {

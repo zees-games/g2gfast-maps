@@ -651,14 +651,172 @@
   }
  ],
  "collision": {
-  "hull_count": 1309,
+  "hull_count": 1315,
   "hull_offset": 2301472,
-  "displacement_vertex_offset": 2434028,
+  "displacement_vertex_offset": 2434340,
   "displacement_vertex_count": 0,
-  "displacement_index_offset": 2434028,
+  "displacement_index_offset": 2434340,
   "displacement_index_count": 0,
   "playerclip_hulls": 44,
-  "prop_hulls": 0
+  "prop_hulls": 0,
+  "hull_kinds": {
+   "fence": [
+    5,
+    6,
+    8,
+    9,
+    28,
+    29,
+    30,
+    87,
+    88,
+    89,
+    116,
+    117,
+    143,
+    144,
+    145,
+    202,
+    203,
+    204,
+    259,
+    260,
+    261,
+    305,
+    306,
+    307,
+    330,
+    331,
+    660,
+    661,
+    738,
+    739,
+    1209,
+    1210,
+    1222,
+    1235
+   ],
+   "clip": [
+    27,
+    52,
+    53,
+    69,
+    122,
+    163,
+    178,
+    179,
+    205,
+    226,
+    227,
+    228,
+    229,
+    262,
+    308,
+    336,
+    469,
+    470,
+    471,
+    472,
+    473,
+    474,
+    475,
+    476,
+    477,
+    478,
+    479,
+    480,
+    481,
+    482,
+    483,
+    484,
+    485,
+    486,
+    487,
+    488,
+    489,
+    490,
+    491,
+    492,
+    493,
+    494,
+    495,
+    496,
+    497,
+    498,
+    499,
+    500,
+    501,
+    502,
+    503,
+    504,
+    505,
+    506,
+    507,
+    508,
+    659,
+    740,
+    1211,
+    1212,
+    1213,
+    1218,
+    1219,
+    1221,
+    1223,
+    1224,
+    1233,
+    1234,
+    1236,
+    1238,
+    1239,
+    1244,
+    1245,
+    1246,
+    1256,
+    1257,
+    1314
+   ],
+   "sky": [
+    223,
+    224,
+    225,
+    230,
+    388,
+    518,
+    519,
+    520,
+    521,
+    522,
+    523,
+    524,
+    525,
+    526,
+    527,
+    528,
+    529,
+    530,
+    531,
+    532,
+    533,
+    534,
+    535,
+    536,
+    537,
+    538,
+    539,
+    540,
+    541
+   ],
+   "glass": [
+    658,
+    666,
+    733,
+    741,
+    852,
+    853,
+    854,
+    859
+   ]
+  }
  },
  "skybox": null,
  "static_props": {
@@ -1065,6 +1223,28 @@
    ],
    "inflated": true,
    "comment": "jail_pro is where finishing puts you; jail_noob, beside it, is where failing does"
+  },
+  {
+   "kind": "TELEPORT",
+   "track": 0,
+   "min": [
+    -5433.0,
+    -5258.0,
+    -8185.0
+   ],
+   "max": [
+    -5241.0,
+    -5066.0,
+    -7993.0
+   ],
+   "inflated": true,
+   "destination": [
+    -9968.0,
+    -7171.0,
+    2872.0
+   ],
+   "destination_yaw": 0.0,
+   "comment": "the finish trigger sends on to jail_pro"
   },
   {
    "kind": "STAGE",
@@ -1565,6 +1745,12 @@
  ],
  "track_names": {
   "0": "main"
+ },
+ "teleport_audit": {
+  "teleports": 20,
+  "claimed": 10,
+  "pits": 10,
+  "broken": []
  },
  "respawn_volumes": [
   {
@@ -3059,6 +3245,424 @@
    ],
    "targetname": "secret_trigger01",
    "filtername": ""
+  }
+ ],
+ "train_movers": [
+  {
+   "name": "t_camera_train",
+   "model": "*10",
+   "origin": [
+    718.66,
+    -2352.66,
+    9195.9
+   ],
+   "min": [
+    -7.096736907958984,
+    -6.994030952453613,
+    -8.427542686462402
+   ],
+   "max": [
+    7.092881679534912,
+    6.9890546798706055,
+    8.426880836486816
+   ],
+   "speed": 3.0,
+   "start_speed": 100.0,
+   "damage": 0.0,
+   "solid": false,
+   "loop": true,
+   "path": [
+    {
+     "name": "t_camera_track_01",
+     "origin": [
+      726.139,
+      -2348.77,
+      9196.79
+     ]
+    },
+    {
+     "name": "t_camera_track_02",
+     "origin": [
+      725.779,
+      -2348.98,
+      9200.77
+     ]
+    }
+   ]
+  },
+  {
+   "name": "ct_camera_train",
+   "model": "*13",
+   "origin": [
+    -628.47,
+    -2961.2,
+    9195.9
+   ],
+   "min": [
+    -7.111415863037109,
+    -6.992846488952637,
+    -8.42550277709961
+   ],
+   "max": [
+    7.091397285461426,
+    6.98960018157959,
+    8.428323745727539
+   ],
+   "speed": 3.0,
+   "start_speed": 100.0,
+   "damage": 0.0,
+   "solid": false,
+   "loop": true,
+   "path": [
+    {
+     "name": "ct_camera_track_01",
+     "origin": [
+      -635.961,
+      -2965.09,
+      9196.79
+     ]
+    },
+    {
+     "name": "ct_camera_track_02",
+     "origin": [
+      -635.601,
+      -2964.88,
+      9200.77
+     ]
+    }
+   ]
+  },
+  {
+   "name": "book_ct_train",
+   "model": "*19",
+   "origin": [
+    -757.51,
+    -13604.0,
+    3923.52
+   ],
+   "min": [
+    -1.0,
+    -31.0,
+    -70.0
+   ],
+   "max": [
+    1.0,
+    31.0,
+    70.0
+   ],
+   "speed": 0.0,
+   "start_speed": 100.0,
+   "damage": 0.0,
+   "solid": true,
+   "loop": true,
+   "path": [
+    {
+     "name": "book_ct_track_01",
+     "origin": [
+      -757.511,
+      -13604.0,
+      3919.52
+     ]
+    },
+    {
+     "name": "book_ct_track_03",
+     "origin": [
+      -757.511,
+      -13668.0,
+      3919.52
+     ]
+    },
+    {
+     "name": "book_ct_track_02",
+     "origin": [
+      -757.511,
+      -13608.0,
+      3919.52
+     ]
+    }
+   ]
+  },
+  {
+   "name": "book_t_train",
+   "model": "*71",
+   "origin": [
+    824.69,
+    -13290.0,
+    3923.52
+   ],
+   "min": [
+    -1.0,
+    -31.0,
+    -70.0
+   ],
+   "max": [
+    1.0,
+    31.0,
+    70.0
+   ],
+   "speed": 0.0,
+   "start_speed": 100.0,
+   "damage": 0.0,
+   "solid": true,
+   "loop": true,
+   "path": [
+    {
+     "name": "book_t_track_01",
+     "origin": [
+      824.688,
+      -13290.0,
+      3919.52
+     ]
+    },
+    {
+     "name": "book_t_track_03",
+     "origin": [
+      824.688,
+      -13226.0,
+      3919.52
+     ]
+    },
+    {
+     "name": "book_t_track_02",
+     "origin": [
+      824.688,
+      -13286.0,
+      3919.52
+     ]
+    }
+   ]
+  },
+  {
+   "name": "jail_protect_train4",
+   "model": "*108",
+   "origin": [
+    -9421.0,
+    -1874.0,
+    -7511.0
+   ],
+   "min": [
+    -55.0,
+    -55.0,
+    -55.0
+   ],
+   "max": [
+    55.0,
+    55.0,
+    55.0
+   ],
+   "speed": 100.0,
+   "start_speed": 100.0,
+   "damage": 0.0,
+   "solid": true,
+   "loop": true,
+   "path": [
+    {
+     "name": "jail_protect_track4",
+     "origin": [
+      -9421.0,
+      -1874.0,
+      -7511.0
+     ]
+    },
+    {
+     "name": "jail_protect_track1",
+     "origin": [
+      -9713.0,
+      -2166.0,
+      -7511.0
+     ]
+    },
+    {
+     "name": "jail_protect_track2",
+     "origin": [
+      -10005.0,
+      -1874.0,
+      -7511.0
+     ]
+    },
+    {
+     "name": "jail_protect_track3",
+     "origin": [
+      -9713.0,
+      -1582.0,
+      -7511.0
+     ]
+    }
+   ]
+  },
+  {
+   "name": "jail_protect_train2",
+   "model": "*109",
+   "origin": [
+    -10005.0,
+    -1874.0,
+    -7511.0
+   ],
+   "min": [
+    -55.0,
+    -55.0,
+    -55.0
+   ],
+   "max": [
+    55.0,
+    55.0,
+    55.0
+   ],
+   "speed": 100.0,
+   "start_speed": 100.0,
+   "damage": 0.0,
+   "solid": true,
+   "loop": true,
+   "path": [
+    {
+     "name": "jail_protect_track2",
+     "origin": [
+      -10005.0,
+      -1874.0,
+      -7511.0
+     ]
+    },
+    {
+     "name": "jail_protect_track3",
+     "origin": [
+      -9713.0,
+      -1582.0,
+      -7511.0
+     ]
+    },
+    {
+     "name": "jail_protect_track4",
+     "origin": [
+      -9421.0,
+      -1874.0,
+      -7511.0
+     ]
+    },
+    {
+     "name": "jail_protect_track1",
+     "origin": [
+      -9713.0,
+      -2166.0,
+      -7511.0
+     ]
+    }
+   ]
+  },
+  {
+   "name": "jail_protect_train3",
+   "model": "*110",
+   "origin": [
+    -9713.0,
+    -1582.0,
+    -7511.0
+   ],
+   "min": [
+    -55.0,
+    -55.0,
+    -55.0
+   ],
+   "max": [
+    55.0,
+    55.0,
+    55.0
+   ],
+   "speed": 100.0,
+   "start_speed": 100.0,
+   "damage": 0.0,
+   "solid": true,
+   "loop": true,
+   "path": [
+    {
+     "name": "jail_protect_track3",
+     "origin": [
+      -9713.0,
+      -1582.0,
+      -7511.0
+     ]
+    },
+    {
+     "name": "jail_protect_track4",
+     "origin": [
+      -9421.0,
+      -1874.0,
+      -7511.0
+     ]
+    },
+    {
+     "name": "jail_protect_track1",
+     "origin": [
+      -9713.0,
+      -2166.0,
+      -7511.0
+     ]
+    },
+    {
+     "name": "jail_protect_track2",
+     "origin": [
+      -10005.0,
+      -1874.0,
+      -7511.0
+     ]
+    }
+   ]
+  },
+  {
+   "name": "jail_protect_train1",
+   "model": "*111",
+   "origin": [
+    -9713.0,
+    -2166.0,
+    -7511.0
+   ],
+   "min": [
+    -55.0,
+    -55.0,
+    -55.0
+   ],
+   "max": [
+    55.0,
+    55.0,
+    55.0
+   ],
+   "speed": 100.0,
+   "start_speed": 100.0,
+   "damage": 0.0,
+   "solid": true,
+   "loop": true,
+   "path": [
+    {
+     "name": "jail_protect_track1",
+     "origin": [
+      -9713.0,
+      -2166.0,
+      -7511.0
+     ]
+    },
+    {
+     "name": "jail_protect_track2",
+     "origin": [
+      -10005.0,
+      -1874.0,
+      -7511.0
+     ]
+    },
+    {
+     "name": "jail_protect_track3",
+     "origin": [
+      -9713.0,
+      -1582.0,
+      -7511.0
+     ]
+    },
+    {
+     "name": "jail_protect_track4",
+     "origin": [
+      -9421.0,
+      -1874.0,
+      -7511.0
+     ]
+    }
+   ]
   }
  ],
  "display_name": "surf: year3000",

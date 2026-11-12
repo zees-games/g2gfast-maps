@@ -594,13 +594,38 @@
   "displacement_index_offset": 988112,
   "displacement_index_count": 0,
   "playerclip_hulls": 0,
-  "prop_hulls": 0
+  "prop_hulls": 0,
+  "hull_kinds": {
+   "glass": [
+    25,
+    345,
+    346,
+    347,
+    348,
+    349,
+    392
+   ],
+   "sky": [
+    356,
+    357,
+    358,
+    359,
+    360
+   ],
+   "clip": [
+    375,
+    376,
+    393
+   ]
+  }
  },
  "skybox": null,
  "static_props": {
   "placed": 4,
   "drawn": 0,
   "stock_models": 4,
+  "stock_standins": 0,
+  "stock_standins_estimated": 0,
   "surfaces": 0,
   "tinted": 0,
   "open_sky_lit": 0
@@ -803,6 +828,11 @@
  ],
  "track_names": {
   "0": "main"
+ },
+ "teleport_audit": {
+  "teleports": 2,
+  "pits": 2,
+  "broken": []
  },
  "respawn_volumes": [
   {
