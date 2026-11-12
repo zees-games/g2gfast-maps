@@ -2158,7 +2158,8 @@
     -14512.0
    ],
    "destination_yaw": 90.0,
-   "comment": "the finish trigger sends on to failman_entrance_to_heaven"
+   "comment": "the finish trigger sends on to failman_entrance_to_heaven",
+   "finish": true
   },
   {
    "kind": "TELEPORT",

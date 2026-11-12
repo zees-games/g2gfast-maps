@@ -1046,7 +1046,8 @@
     -7312.0
    ],
    "destination_yaw": 180.0,
-   "comment": "the finish trigger sends on to Endman_poop"
+   "comment": "the finish trigger sends on to Endman_poop",
+   "finish": true
   },
   {
    "kind": "STAGE",

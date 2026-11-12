@@ -985,7 +985,8 @@
     -31.4935
    ],
    "destination_yaw": 83.0,
-   "comment": "the finish trigger sends on to ha"
+   "comment": "the finish trigger sends on to ha",
+   "finish": true
   },
   {
    "kind": "RESPAWN",

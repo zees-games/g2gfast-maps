@@ -2723,7 +2723,8 @@
     -0.0
    ],
    "destination_yaw": -90.0,
-   "comment": "the finish trigger sends on to td_end_room"
+   "comment": "the finish trigger sends on to td_end_room",
+   "finish": true
   },
   {
    "kind": "SPAWN",

@@ -6662,7 +6662,8 @@
     -4296.0
    ],
    "destination_yaw": -90.0,
-   "comment": "the finish trigger sends on to tesqend"
+   "comment": "the finish trigger sends on to tesqend",
+   "finish": true
   },
   {
    "kind": "TELEPORT",

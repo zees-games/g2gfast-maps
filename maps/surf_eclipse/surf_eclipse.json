@@ -1397,7 +1397,8 @@
     9236.0
    ],
    "destination_yaw": 0.0,
-   "comment": "the finish trigger sends on to jail_winnerplat_teledest"
+   "comment": "the finish trigger sends on to jail_winnerplat_teledest",
+   "finish": true
   },
   {
    "kind": "RESPAWN",

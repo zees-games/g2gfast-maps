@@ -1799,7 +1799,8 @@
     -3899.36
    ],
    "destination_yaw": 180.0,
-   "comment": "the finish trigger sends on to map_finish"
+   "comment": "the finish trigger sends on to map_finish",
+   "finish": true
   },
   {
    "kind": "START",

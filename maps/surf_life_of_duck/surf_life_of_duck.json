@@ -1380,7 +1380,8 @@
     11264.0
    ],
    "destination_yaw": -90.0,
-   "comment": "the finish trigger sends on to endroom"
+   "comment": "the finish trigger sends on to endroom",
+   "finish": true
   },
   {
    "kind": "STAGE",

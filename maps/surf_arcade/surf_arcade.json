@@ -12235,7 +12235,8 @@
     4672.0
    ],
    "destination_yaw": -90.0,
-   "comment": "the finish trigger sends on to endroomdest"
+   "comment": "the finish trigger sends on to endroomdest",
+   "finish": true
   },
   {
    "kind": "SPAWN",
@@ -12416,7 +12417,8 @@
     14848.0
    ],
    "destination_yaw": -90.0,
-   "comment": "the finish trigger sends on to bonustohubdest"
+   "comment": "the finish trigger sends on to bonustohubdest",
+   "finish": true
   },
   {
    "kind": "SPAWN",

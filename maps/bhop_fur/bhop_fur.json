@@ -1387,7 +1387,8 @@
     -14528.0
    ],
    "destination_yaw": -90.0,
-   "comment": "the finish trigger sends on to Stage1"
+   "comment": "the finish trigger sends on to Stage1",
+   "finish": true
   },
   {
    "kind": "RESPAWN",

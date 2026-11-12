@@ -1339,7 +1339,8 @@
     3136.0
    ],
    "destination_yaw": 180.0,
-   "comment": "the finish trigger sends on to ziel"
+   "comment": "the finish trigger sends on to ziel",
+   "finish": true
   },
   {
    "kind": "TELEPORT",

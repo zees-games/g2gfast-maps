@@ -5094,7 +5094,8 @@
     11856.0
    ],
    "destination_yaw": -90.0,
-   "comment": "the finish trigger sends on to finishend"
+   "comment": "the finish trigger sends on to finishend",
+   "finish": true
   },
   {
    "kind": "RESPAWN",

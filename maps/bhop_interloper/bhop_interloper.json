@@ -2555,7 +2555,8 @@
     1488.0
    ],
    "destination_yaw": 60.0,
-   "comment": "the finish trigger sends on to end"
+   "comment": "the finish trigger sends on to end",
+   "finish": true
   },
   {
    "kind": "TELEPORT",

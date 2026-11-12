@@ -1733,7 +1733,8 @@
     -7808.0
    ],
    "destination_yaw": 225.0,
-   "comment": "the finish trigger sends on to end_main"
+   "comment": "the finish trigger sends on to end_main",
+   "finish": true
   },
   {
    "kind": "START",
@@ -1804,7 +1805,8 @@
     -7296.0
    ],
    "destination_yaw": 225.0,
-   "comment": "the finish trigger sends on to end_bonus"
+   "comment": "the finish trigger sends on to end_bonus",
+   "finish": true
   },
   {
    "kind": "STAGE",

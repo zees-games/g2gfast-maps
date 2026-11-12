@@ -1721,7 +1721,8 @@
     3540.0
    ],
    "destination_yaw": 0.0,
-   "comment": "the finish trigger sends on to JAILTOP"
+   "comment": "the finish trigger sends on to JAILTOP",
+   "finish": true
   },
   {
    "kind": "TELEPORT",
@@ -1743,7 +1744,8 @@
     3540.0
    ],
    "destination_yaw": 0.0,
-   "comment": "the finish trigger sends on to JAILTOP"
+   "comment": "the finish trigger sends on to JAILTOP",
+   "finish": true
   },
   {
    "kind": "RESPAWN",

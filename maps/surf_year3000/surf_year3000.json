@@ -1244,7 +1244,8 @@
     2872.0
    ],
    "destination_yaw": 0.0,
-   "comment": "the finish trigger sends on to jail_pro"
+   "comment": "the finish trigger sends on to jail_pro",
+   "finish": true
   },
   {
    "kind": "STAGE",

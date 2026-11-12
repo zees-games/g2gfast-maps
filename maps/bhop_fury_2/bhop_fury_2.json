@@ -1524,7 +1524,8 @@
     -2197.0
    ],
    "destination_yaw": 90.0,
-   "comment": "the finish trigger sends on to destend1"
+   "comment": "the finish trigger sends on to destend1",
+   "finish": true
   },
   {
    "kind": "RESPAWN",

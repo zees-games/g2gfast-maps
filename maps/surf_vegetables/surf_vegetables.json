@@ -6107,7 +6107,8 @@
     7106.0
    ],
    "destination_yaw": 0.0,
-   "comment": "the finish trigger sends on to jailwin"
+   "comment": "the finish trigger sends on to jailwin",
+   "finish": true
   },
   {
    "kind": "STAGE",
