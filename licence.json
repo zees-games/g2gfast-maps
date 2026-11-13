@@ -1,6 +1,15 @@
 [
   {
     "paths": [
+      ""
+    ],
+    "licence": "MIT",
+    "author": "TMC",
+    "url": "https://github.com/zees-games/airdrift-maps",
+    "title": "airdrift-maps (original content)"
+  },
+  {
+    "paths": [
       "maps/bhop_amor"
     ],
     "licence": "CC-BY-NC-ND-4.0",
