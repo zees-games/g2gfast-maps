@@ -876,5 +876,38 @@
   "author": "Ghost1246511",
   "source_url": "https://gamebanana.com/mods/126462",
   "removal_contact": "https://github.com/zees-games/airdrift-maps/issues"
+ },
+ {
+  "paths": [
+   "maps/surf_amplitude_apex"
+  ],
+  "licence": "CC-BY-NC-ND-4.0",
+  "exception": "credited-community-map",
+  "title": "Surf Amplitude Apex",
+  "author": "buck nasty",
+  "source_url": "https://gamebanana.com/mods/121622",
+  "removal_contact": "https://github.com/zees-games/airdrift-maps/issues"
+ },
+ {
+  "paths": [
+   "maps/surf_exile"
+  ],
+  "licence": "CC-BY-NC-ND-4.0",
+  "exception": "credited-community-map",
+  "title": "Surf Exile",
+  "author": "Pyaniy ezhik, Nomax and Sh0k_vv",
+  "source_url": "https://gamebanana.com/mods/122023",
+  "removal_contact": "https://github.com/zees-games/airdrift-maps/issues"
+ },
+ {
+  "paths": [
+   "maps/surf_wazor"
+  ],
+  "licence": "CC-BY-NC-ND-4.0",
+  "exception": "credited-community-map",
+  "title": "Surf Wazor",
+  "author": "Krusty, Mike999, AmstaFF, Junior and Caterpillar",
+  "source_url": "https://gamebanana.com/mods/123253",
+  "removal_contact": "https://github.com/zees-games/airdrift-maps/issues"
  }
 ]
