@@ -5339,11 +5339,11 @@
    ],
    "inflated": true,
    "destination": [
-    13312.0,
-    11224.0,
-    11264.0
+    13311.2,
+    12024.0,
+    5631.57
    ],
-   "destination_yaw": 0.0,
+   "destination_yaw": -90.0,
    "comment": "through to secret_trail_bonus_dest_in"
   },
   {
@@ -5361,8 +5361,8 @@
    ],
    "inflated": true,
    "destination": [
-    7168.0,
-    11224.0,
+    576.0,
+    5304.0,
     13312.0
    ],
    "destination_yaw": -90.0,
@@ -5383,9 +5383,9 @@
    ],
    "inflated": true,
    "destination": [
-    11264.0,
-    13272.0,
-    11264.0
+    -15008.0,
+    -6984.0,
+    7520.0
    ],
    "destination_yaw": -90.0,
    "comment": "through to secret_trail_t6_dest_in"
@@ -5405,9 +5405,9 @@
    ],
    "inflated": true,
    "destination": [
-    1024.0,
-    13272.0,
-    7168.0
+    -4608.0,
+    -5096.0,
+    3072.0
    ],
    "destination_yaw": -90.0,
    "comment": "through to secret_trail_t2_dest_in"
@@ -5427,9 +5427,9 @@
    ],
    "inflated": true,
    "destination": [
-    9216.0,
-    9176.0,
-    7168.0
+    -9600.0,
+    -936.0,
+    -128.0
    ],
    "destination_yaw": -90.0,
    "comment": "through to secret_trail_t5_dest_in"
@@ -5449,9 +5449,9 @@
    ],
    "inflated": true,
    "destination": [
-    5120.0,
-    11224.0,
-    9216.0
+    -5536.0,
+    -5640.0,
+    -5120.0
    ],
    "destination_yaw": -90.0,
    "comment": "through to secret_trail_t3_dest_in"
@@ -5471,9 +5471,9 @@
    ],
    "inflated": true,
    "destination": [
-    1024.0,
-    9176.0,
-    13312.0
+    -7552.0,
+    -11912.0,
+    -9216.0
    ],
    "destination_yaw": -90.0,
    "comment": "through to secret_trail_t1_dest_in"
@@ -5493,11 +5493,11 @@
    ],
    "inflated": true,
    "destination": [
-    -1024.0,
-    11224.0,
-    11264.0
+    2264.0,
+    5016.0,
+    2264.0
    ],
-   "destination_yaw": -90.0,
+   "destination_yaw": 225.0,
    "comment": "through to secret_trail_spawn_dest_in"
   },
   {

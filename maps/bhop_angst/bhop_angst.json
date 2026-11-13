@@ -4376,9 +4376,9 @@
    ],
    "inflated": true,
    "destination": [
-    -3976.0,
+    -3984.0,
     4312.0,
-    -11808.0
+    -11648.0
    ],
    "destination_yaw": 90.0
   },
@@ -12465,7 +12465,6 @@
   "teleports": 62,
   "pits": 62,
   "landmark": 12,
-  "authored_solid": 1,
   "hold": 2,
   "drawn_overlap": 1,
   "broken": []
