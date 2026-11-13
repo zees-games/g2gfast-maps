@@ -22,3 +22,9 @@ jobs:
             - run: python3 tools/build_provides.py --check
               env:
                   DOT_MAP_CONVERT_PATH: dot-map-convert-src
+
+    names-check:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v4
+            - run: python3 tools/check_names.py

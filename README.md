@@ -41,6 +41,10 @@ tools/g2gmaps fetch --pub path/to/content.pub
 
 `publish` runs through game-airdrift's own `tools/publish_maps.sh`, so it needs Godot and the game checked out beside this repository with `link` done. `fetch` needs only Python 3.
 
+## The collection
+
+Every published map is a member of the collection `gamemann/airdrift-maps`; a server that lists `gamemann/airdrift-maps/*` gets all of them, and new maps on the next start. The repository was g2gfast-maps until 2026-11-11: `gamemann/g2gfast-maps/*` still resolves as an alias of the collection until 2027-03-01, so change a server's map list to the new id before then.
+
 ## Credits
 
 | Map | Author | Source |
