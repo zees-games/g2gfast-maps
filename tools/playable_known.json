@@ -2,7 +2,5 @@
   "surf_hologram": {"fails": {"no_audit": 1}, "item": "airdrift-playable-fixes",
     "reason": "imported before teleport_audit existed: reimport"},
   "surf_intro": {"fails": {"no_audit": 1}, "item": "airdrift-playable-fixes",
-    "reason": "imported before teleport_audit existed: reimport"},
-  "surf_stonework4": {"fails": {"no_audit": 1}, "item": "airdrift-playable-fixes",
     "reason": "imported before teleport_audit existed: reimport"}
 }

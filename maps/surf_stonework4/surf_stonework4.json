@@ -42853,6 +42853,12 @@
  "track_names": {
   "0": "main"
  },
+ "teleport_audit": {
+  "teleports": 45,
+  "pits": 44,
+  "claimed": 1,
+  "broken": []
+ },
  "respawn_volumes": [
   {
    "min": [
