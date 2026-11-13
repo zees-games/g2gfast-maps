@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c4ksue1ktejuo"
-path="res://.godot/imported/less_neondarkgray.png-01e36fbd1627bb12314a2c14bf6d9622.ctex"
+uid="uid://bpa7ajfbnf125"
+path="res://.godot/imported/sky_up.png-b8c641bedd1f269666a91461fb6812d7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://maps/imported/surf_wazor/textures/less_neondarkgray.png"
-dest_files=["res://.godot/imported/less_neondarkgray.png-01e36fbd1627bb12314a2c14bf6d9622.ctex"]
+source_file="res://maps/imported/bhop_japan/textures/sky_up.png"
+dest_files=["res://.godot/imported/sky_up.png-b8c641bedd1f269666a91461fb6812d7.ctex"]
 
 [params]
 
@@ -23,7 +23,7 @@ compress/rdo_quality_loss=0.0
 compress/hdr_compression=1
 compress/normal_map=0
 compress/channel_pack=0
-mipmaps/generate=true
+mipmaps/generate=false
 mipmaps/limit=-1
 roughness/mode=0
 roughness/src_normal=""
@@ -37,4 +37,4 @@ process/normal_map_invert_y=false
 process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
-detect_3d/compress_to=1
+detect_3d/compress_to=0

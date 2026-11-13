@@ -3178,16 +3178,16 @@
    "track": 0,
    "min": [
     -160,
-    184.0,
+    200,
     -192
    ],
    "max": [
     288,
-    376.0,
+    700,
     120
    ],
-   "inflated": true,
-   "comment": "box round the eight CT spawns"
+   "inflated": false,
+   "comment": "box round where the player rests"
   },
   {
    "kind": "END",

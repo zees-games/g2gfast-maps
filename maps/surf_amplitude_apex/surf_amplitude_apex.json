@@ -1452,14 +1452,14 @@
    "kind": "START",
    "track": 0,
    "min": [
-    -14660.0,
-    2325.0,
-    -12234.0
+    -14660,
+    1600,
+    -12234
    ],
    "max": [
-    -14276.0,
-    2517.0,
-    -11850.0
+    -14276,
+    2600,
+    -11850
    ],
    "inflated": false,
    "destination": [
@@ -1468,7 +1468,7 @@
     -12042.0
    ],
    "destination_yaw": -90.0,
-   "comment": "round the start destination"
+   "comment": "box round where the player rests"
   },
   {
    "kind": "SPAWN",

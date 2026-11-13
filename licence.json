@@ -909,16 +909,5 @@
   "author": "copy-mark and jesuswashomeless",
   "source_url": "https://gamebanana.com/mods/122444",
   "removal_contact": "https://github.com/zees-games/airdrift-maps/issues"
- },
- {
-  "paths": [
-   "maps/surf_wazor"
-  ],
-  "licence": "CC-BY-NC-ND-4.0",
-  "exception": "credited-community-map",
-  "title": "Surf Wazor",
-  "author": "Krusty, Mike999, AmstaFF, Junior and Caterpillar",
-  "source_url": "https://gamebanana.com/mods/123253",
-  "removal_contact": "https://github.com/zees-games/airdrift-maps/issues"
  }
 ]

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bodpbpiss2scr"
-path="res://.godot/imported/mirror-map-studios_mms_stonewall7.png-1cbb2897c990c7743edc2e1cc7d50773.ctex"
+uid="uid://c4awmp3jvuk47"
+path="res://.godot/imported/sky_lf.png-c6d03552c29b295d2f08ff0080a8b1ab.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://maps/imported/surf_wazor/textures/mirror-map-studios_mms_stonewall7.png"
-dest_files=["res://.godot/imported/mirror-map-studios_mms_stonewall7.png-1cbb2897c990c7743edc2e1cc7d50773.ctex"]
+source_file="res://maps/imported/bhop_arcane_v2/textures/sky_lf.png"
+dest_files=["res://.godot/imported/sky_lf.png-c6d03552c29b295d2f08ff0080a8b1ab.ctex"]
 
 [params]
 
@@ -23,7 +23,7 @@ compress/rdo_quality_loss=0.0
 compress/hdr_compression=1
 compress/normal_map=0
 compress/channel_pack=0
-mipmaps/generate=true
+mipmaps/generate=false
 mipmaps/limit=-1
 roughness/mode=0
 roughness/src_normal=""
@@ -37,4 +37,4 @@ process/normal_map_invert_y=false
 process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
-detect_3d/compress_to=1
+detect_3d/compress_to=0

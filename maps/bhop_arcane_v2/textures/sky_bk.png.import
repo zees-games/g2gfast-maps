@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://uf0y27ne2e20"
-path="res://.godot/imported/sky_ft.png-5ad83cc5d317cd02be7b8640e177933e.ctex"
+uid="uid://bcrh7s7ryj6vd"
+path="res://.godot/imported/sky_bk.png-a0c7bb5a96aa8e0cbcced9e23e172b54.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://maps/imported/surf_wazor/textures/sky_ft.png"
-dest_files=["res://.godot/imported/sky_ft.png-5ad83cc5d317cd02be7b8640e177933e.ctex"]
+source_file="res://maps/imported/bhop_arcane_v2/textures/sky_bk.png"
+dest_files=["res://.godot/imported/sky_bk.png-a0c7bb5a96aa8e0cbcced9e23e172b54.ctex"]
 
 [params]
 
