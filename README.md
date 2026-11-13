@@ -26,6 +26,9 @@ The game's zone data (starts, finishes, stages) stays in game-airdrift under `ma
 # Work on the game against these maps: game-g2gfast/maps/imported becomes a link here.
 tools/g2gmaps link
 
+# Check every spawn and teleport destination lands in playable space (CI runs this).
+tools/check_playable.py
+
 # Rewrite maps.json after adding or removing a map (credits come from the game's zones files).
 tools/g2gmaps manifest
 

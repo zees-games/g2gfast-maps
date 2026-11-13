@@ -28,3 +28,12 @@ jobs:
         steps:
             - uses: actions/checkout@v4
             - run: python3 tools/check_names.py
+
+    # Every spawn and teleport destination lands in playable space: not in a solid, not out
+    # of bounds, over a floor, not in a pit; failures the importer has not fixed yet are held
+    # by count in tools/playable_known.json.
+    playable-check:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v4
+            - run: python3 tools/check_playable.py

@@ -1,0 +1,14 @@
+{
+  "bhop_angst": {"fails": {"in_solid": 1}, "item": "airdrift-playable-fixes",
+    "reason": "tp_redout: the source map itself aims into a solid (importer authored_solid)"},
+  "bhop_hellish_dream_css": {"fails": {"in_solid": 1}, "item": "airdrift-playable-fixes",
+    "reason": "an info_player_terrorist sits inside a solid lava brush in the source map"},
+  "surf_hologram": {"fails": {"no_audit": 1}, "item": "airdrift-playable-fixes",
+    "reason": "imported before teleport_audit existed: reimport"},
+  "surf_intro": {"fails": {"no_audit": 1}, "item": "airdrift-playable-fixes",
+    "reason": "imported before teleport_audit existed: reimport"},
+  "surf_lt_omnific": {"fails": {"in_solid": 8}, "item": "airdrift-playable-fixes",
+    "reason": "secret_trail_bonus teleports move a trail prop inside a player clip box, imported as player teleports"},
+  "surf_stonework4": {"fails": {"no_audit": 1}, "item": "airdrift-playable-fixes",
+    "reason": "imported before teleport_audit existed: reimport"}
+}

@@ -20,4 +20,6 @@ The repositories were renamed from g2gfast-maps and game-g2gfast (2026-11-11); t
 
 Plain git, no LFS: the largest file is 66 MB (`surf_summit.bin`), under GitHub's 100 MB limit, and LFS bandwidth quotas would make every clone of a public repository a bill.
 
+**`tools/check_playable.py` (CI job `playable-check`) fails a map whose spawn or teleport destination is in a solid, out of bounds, over nothing, or in a pit, or whose manifest lacks the importer's `teleport_audit`.** It reads only the manifest and the `.bin` collision block, as the game does. Fix a failure with a general rule in dot-map-convert and a reimport, never a hand edit of the manifest; until then the map's exact failure counts are held in `tools/playable_known.json` with a reason and the nightly item (`airdrift-playable-fixes`). A held map that changes fails the run, so remove its entry once it passes.
+
 **Each map folder carries a `provides.json`, which is what lists that map's pack in the Workshop** (kind `map`, the game it is for, one entry whose `scene` is the map document beside it). `tools/build_provides.py` writes them all and `--check` verifies them; rerun it when a map is added. The pack zip holds the folder's files at its root, so the file ships.
