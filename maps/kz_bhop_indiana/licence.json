@@ -1,0 +1,23 @@
+[
+  {
+    "paths": [
+      ""
+    ],
+    "licence": "MIT",
+    "author": "TMC",
+    "url": "https://github.com/zees-games/airdrift-maps",
+    "title": "airdrift-maps (original content)"
+  },
+  {
+    "paths": [
+      "kz_bhop_indiana",
+      "textures/"
+    ],
+    "licence": "CC-BY-NC-ND-4.0",
+    "exception": "credited-community-map",
+    "title": "Kz Bhop Indiana",
+    "author": "Ghost1246511",
+    "source_url": "https://gamebanana.com/mods/126462",
+    "removal_contact": "https://github.com/zees-games/airdrift-maps/issues"
+  }
+]
