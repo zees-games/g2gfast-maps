@@ -1,0 +1,117 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "surf_wazor",
+ "sha256": "493d0e3d5f0213ff8f90d2c1d96784ecfce417f069df020337ef0951952a82d8",
+ "textures": {
+  "looked_up": 49,
+  "drawn": 48,
+  "by_tier": {
+   "addon": 28,
+   "default": 21
+  },
+  "free_by_tier": {
+   "addon": 40,
+   "default": 8
+  },
+  "nearest_photo": [
+   "cs_havana/dirtfloor006a",
+   "de_dust/tilefloor01",
+   "de_nuke/nukblenddirtgrass",
+   "de_tides/tides_dirtstonepath",
+   "dev/value10",
+   "dev/valuesand30",
+   "lights/white",
+   "mirror-map-studios/mms_stonewall7",
+   "models/props_c17/furnituremetal002a",
+   "nature/blenddirtdirt001a",
+   "nature/blendprodconcgrass"
+  ]
+ },
+ "models": {
+  "looked_up": 2,
+  "by_tier": {
+   "default": 2
+  }
+ },
+ "sounds": {
+  "looked_up": 2,
+  "by_tier": {
+   "default": 2
+  }
+ },
+ "classes": {
+  "distinct": 42,
+  "entities": 589,
+  "by_tier": {
+   "default": 42
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "game_player_equip": [
+    "ammo",
+    "newkey1",
+    "weapon_awp",
+    "weapon_deagle",
+    "weapon_fiveseven",
+    "weapon_knife",
+    "weapon_m4a1",
+    "weapon_scout",
+    "weapon_usp"
+   ],
+   "weapon_deagle": [
+    "ammo"
+   ],
+   "weapon_m249": [
+    "ammo"
+   ]
+  }
+ },
+ "links": {
+  "total": 32,
+  "unresolved": 0
+ },
+ "lists": {
+  "textures_unmapped": [],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "game_player_equip.ammo",
+   "game_player_equip.newkey1",
+   "game_player_equip.weapon_awp",
+   "game_player_equip.weapon_deagle",
+   "game_player_equip.weapon_fiveseven",
+   "game_player_equip.weapon_knife",
+   "game_player_equip.weapon_m4a1",
+   "game_player_equip.weapon_scout",
+   "game_player_equip.weapon_usp",
+   "weapon_deagle.ammo",
+   "weapon_m249.ammo"
+  ],
+  "links_unresolved": [],
+  "inputs_unimplemented": [
+   "env_hudhint.ShowHudHint",
+   "game_player_equip.Use",
+   "point_servercommand.Command"
+  ],
+  "surfaces_opaque": [
+   "models/effects/comball_sphere",
+   "models/props_combine/portalball001_sheet"
+  ]
+ },
+ "counts": {
+  "textures_unmapped": 0,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 11,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 3,
+  "surfaces_opaque": 2
+ }
+}

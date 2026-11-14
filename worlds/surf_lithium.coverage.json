@@ -1,0 +1,93 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "surf_lithium",
+ "sha256": "51f8c46a3ebb726acc2be0b1d6bf0d51192b3e56508ea36d90b6cd03b8c6b784",
+ "textures": {
+  "looked_up": 29,
+  "drawn": 29,
+  "by_tier": {
+   "addon": 14,
+   "default": 15
+  },
+  "free_by_tier": {
+   "addon": 21,
+   "default": 8
+  },
+  "nearest_photo": [
+   "cs_italy/pipe_wall5_1",
+   "de_chateau/intbrickk",
+   "de_nuke/nukfloora",
+   "de_piranesi/pi_cobbles",
+   "lights/white",
+   "metal/metalwall082a",
+   "models/props_c17/metalladder002"
+  ]
+ },
+ "models": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "sounds": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "classes": {
+  "distinct": 36,
+  "entities": 541,
+  "by_tier": {
+   "default": 36
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "game_player_equip": [
+    "weapon_knife",
+    "weapon_m249"
+   ],
+   "trigger_once": [
+    "wait"
+   ],
+   "weapon_m249": [
+    "ammo"
+   ]
+  }
+ },
+ "links": {
+  "total": 170,
+  "unresolved": 0
+ },
+ "lists": {
+  "textures_unmapped": [],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "game_player_equip.weapon_knife",
+   "game_player_equip.weapon_m249",
+   "trigger_once.wait",
+   "weapon_m249.ammo"
+  ],
+  "links_unresolved": [],
+  "inputs_unimplemented": [
+   "func_rot_button.Press",
+   "game_player_equip.Use",
+   "math_colorblend.InValue",
+   "player_speedmod.ModifySpeed"
+  ],
+  "surfaces_opaque": []
+ },
+ "counts": {
+  "textures_unmapped": 0,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 4,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 4,
+  "surfaces_opaque": 0
+ }
+}
