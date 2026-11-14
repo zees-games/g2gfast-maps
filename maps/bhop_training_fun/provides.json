@@ -15,5 +15,6 @@
             "scene": "bhop_training_fun.json",
             "map_kind": "bhop"
         }
-    ]
+    ],
+    "collection": "airdrift-maps"
 }

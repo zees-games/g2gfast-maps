@@ -15,5 +15,6 @@
             "scene": "surf_omnibus.json",
             "map_kind": "surf"
         }
-    ]
+    ],
+    "collection": "airdrift-maps"
 }

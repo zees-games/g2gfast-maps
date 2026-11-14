@@ -15,5 +15,6 @@
             "scene": "kz_bhop_lucid.json",
             "map_kind": "kz"
         }
-    ]
+    ],
+    "collection": "airdrift-maps"
 }

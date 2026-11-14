@@ -12,6 +12,8 @@ import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 GAMES = ["gamemann/game-g2gfast"]
+# The Workshop page every map pack joins as a member (the site never gives one map a page of its own).
+COLLECTION = "airdrift-maps"
 SKIP = set()
 
 
@@ -32,4 +34,4 @@ else:
     sys.exit("build_provides: dot-map-convert was not found. Clone it beside this repository or set DOT_MAP_CONVERT_PATH.")
 import build_provides  # noqa: E402
 
-sys.exit(build_provides.run(ROOT, GAMES, pack="each", skip=SKIP, map_kind=map_kind))
+sys.exit(build_provides.run(ROOT, GAMES, pack="each", skip=SKIP, map_kind=map_kind, collection=COLLECTION))

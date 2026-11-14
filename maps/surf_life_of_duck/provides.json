@@ -15,5 +15,6 @@
             "scene": "surf_life_of_duck.json",
             "map_kind": "surf"
         }
-    ]
+    ],
+    "collection": "airdrift-maps"
 }

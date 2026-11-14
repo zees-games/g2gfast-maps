@@ -15,5 +15,6 @@
             "scene": "bhop_lego2.json",
             "map_kind": "bhop"
         }
-    ]
+    ],
+    "collection": "airdrift-maps"
 }

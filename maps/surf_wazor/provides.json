@@ -15,5 +15,6 @@
             "scene": "surf_wazor.json",
             "map_kind": "surf"
         }
-    ]
+    ],
+    "collection": "airdrift-maps"
 }

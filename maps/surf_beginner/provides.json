@@ -15,5 +15,6 @@
             "scene": "surf_beginner.json",
             "map_kind": "surf"
         }
-    ]
+    ],
+    "collection": "airdrift-maps"
 }

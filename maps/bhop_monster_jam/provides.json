@@ -15,5 +15,6 @@
             "scene": "bhop_monster_jam.json",
             "map_kind": "bhop"
         }
-    ]
+    ],
+    "collection": "airdrift-maps"
 }

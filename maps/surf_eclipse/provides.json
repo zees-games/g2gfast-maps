@@ -15,5 +15,6 @@
             "scene": "surf_eclipse.json",
             "map_kind": "surf"
         }
-    ]
+    ],
+    "collection": "airdrift-maps"
 }

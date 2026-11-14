@@ -15,5 +15,6 @@
             "scene": "bhop_tranquility.json",
             "map_kind": "bhop"
         }
-    ]
+    ],
+    "collection": "airdrift-maps"
 }

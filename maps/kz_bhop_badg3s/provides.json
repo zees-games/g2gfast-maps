@@ -15,5 +15,6 @@
             "scene": "kz_bhop_badg3s.json",
             "map_kind": "kz"
         }
-    ]
+    ],
+    "collection": "airdrift-maps"
 }

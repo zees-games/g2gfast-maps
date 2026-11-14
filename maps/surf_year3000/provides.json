@@ -15,5 +15,6 @@
             "scene": "surf_year3000.json",
             "map_kind": "surf"
         }
-    ]
+    ],
+    "collection": "airdrift-maps"
 }

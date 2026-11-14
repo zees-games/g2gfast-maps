@@ -15,5 +15,6 @@
             "scene": "bhop_hellish_dream_css.json",
             "map_kind": "bhop"
         }
-    ]
+    ],
+    "collection": "airdrift-maps"
 }

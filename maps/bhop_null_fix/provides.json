@@ -15,5 +15,6 @@
             "scene": "bhop_null_fix.json",
             "map_kind": "bhop"
         }
-    ]
+    ],
+    "collection": "airdrift-maps"
 }

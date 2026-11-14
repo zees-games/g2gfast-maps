@@ -15,5 +15,6 @@
             "scene": "bhop_freakin.json",
             "map_kind": "bhop"
         }
-    ]
+    ],
+    "collection": "airdrift-maps"
 }

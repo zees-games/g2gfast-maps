@@ -15,5 +15,6 @@
             "scene": "bhop_evolve.json",
             "map_kind": "bhop"
         }
-    ]
+    ],
+    "collection": "airdrift-maps"
 }

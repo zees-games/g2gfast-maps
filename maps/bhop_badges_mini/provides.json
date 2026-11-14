@@ -15,5 +15,6 @@
             "scene": "bhop_badges_mini.json",
             "map_kind": "bhop"
         }
-    ]
+    ],
+    "collection": "airdrift-maps"
 }
